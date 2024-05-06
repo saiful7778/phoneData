@@ -1,7 +1,7 @@
 import { readFile, writeFile } from "node:fs/promises";
 import getRandomNumber from "./utils/randomNum.js";
 
-(async () => {
+async function addPriceAndType() {
   try {
     const dataString = await readFile("./data/allData.json", {
       encoding: "utf-8",
@@ -40,4 +40,4 @@ import getRandomNumber from "./utils/randomNum.js";
   } catch (err) {
     console.error(err);
   }
-})();
+}
