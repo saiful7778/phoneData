@@ -1,0 +1,148 @@
+{
+  "_id": "phonedata",
+  "startUrl": ["https://www.gsmarena.com"],
+  "selectors": [
+    {
+      "id": "brand_name",
+      "parentSelectors": ["_root"],
+      "type": "SelectorLink",
+      "selector": ".brandmenu-v2 li:nth-of-type(2) a",
+      "multiple": false,
+      "linkType": "linkFromHref"
+    },
+    {
+      "id": "item",
+      "parentSelectors": ["brand_name"],
+      "type": "SelectorLink",
+      "selector": ".makers a",
+      "multiple": true,
+      "linkType": "linkFromHref"
+    },
+    {
+      "id": "item_name",
+      "parentSelectors": ["item"],
+      "type": "SelectorText",
+      "selector": "h1",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "image",
+      "parentSelectors": ["item"],
+      "type": "SelectorImage",
+      "selector": ".specs-photo-main img",
+      "multiple": false
+    },
+    {
+      "id": "images",
+      "parentSelectors": ["picture_nav"],
+      "type": "SelectorImage",
+      "selector": "#pictures-list img",
+      "multiple": true
+    },
+    {
+      "id": "processor",
+      "parentSelectors": ["item"],
+      "type": "SelectorText",
+      "selector": ".help-expansion div",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "display_size",
+      "parentSelectors": ["item"],
+      "type": "SelectorText",
+      "selector": ".help-display span",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "display_res",
+      "parentSelectors": ["item"],
+      "type": "SelectorText",
+      "selector": ".help-display div",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "camera_mgpix",
+      "parentSelectors": ["item"],
+      "type": "SelectorText",
+      "selector": "strong.accent-camera",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "camera_res",
+      "parentSelectors": ["item"],
+      "type": "SelectorText",
+      "selector": ".help-camera div",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "ram",
+      "parentSelectors": ["item"],
+      "type": "SelectorText",
+      "selector": "strong.accent-expansion",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "battery_mah",
+      "parentSelectors": ["item"],
+      "type": "SelectorText",
+      "selector": "strong.accent-battery",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "released_data",
+      "parentSelectors": ["item"],
+      "type": "SelectorText",
+      "selector": "span[data-spec='released-hl']",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "system_os",
+      "parentSelectors": ["item"],
+      "type": "SelectorText",
+      "selector": "span[data-spec='os-hl']",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "storage",
+      "parentSelectors": ["item"],
+      "type": "SelectorText",
+      "selector": "span[data-spec='storage-hl']",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "charger",
+      "parentSelectors": ["item"],
+      "type": "SelectorText",
+      "selector": ".help-battery div",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "body",
+      "parentSelectors": ["item"],
+      "type": "SelectorText",
+      "selector": "span[data-spec='body-hl']",
+      "multiple": false,
+      "regex": ""
+    },
+    {
+      "id": "picture_nav",
+      "parentSelectors": ["item"],
+      "type": "SelectorLink",
+      "selector": ".article-info li.article-info-meta-link:contains(Pictures) a",
+      "multiple": false,
+      "linkType": "linkFromHref"
+    }
+  ]
+}
