@@ -1,4 +1,4 @@
-import { readFile } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
 import getRandomNumber from "./utils/randomNum.js";
 
 (async () => {
@@ -33,7 +33,10 @@ import getRandomNumber from "./utils/randomNum.js";
         phones.push(x);
       }
     }
-    console.log(data.allItemsData);
+    await writeFile("./data/data.json", JSON.stringify(data), {
+      encoding: "utf-8",
+      flag: "w",
+    });
   } catch (err) {
     console.error(err);
   }

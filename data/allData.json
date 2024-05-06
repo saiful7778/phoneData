@@ -20,7 +20,9 @@
       "systemOs": "Android 14, One UI 6.1",
       "storage": "256GB storage, microSDXC",
       "charger": "45W",
-      "body": "180g, 7.8mm thickness"
+      "body": "180g, 7.8mm thickness",
+      "price": 1130,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy M55",
@@ -42,7 +44,9 @@
       "systemOs": "Android 14, One UI 6.1",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "45W",
-      "body": "180g, 7.8mm thickness"
+      "body": "180g, 7.8mm thickness",
+      "price": 1619,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy Tab S6 Lite (2024)",
@@ -65,7 +69,9 @@
       "systemOs": "Android 14, One UI 6.1",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "15W",
-      "body": "465/467g, 7mm thickness"
+      "body": "465/467g, 7mm thickness",
+      "type": "tab",
+      "price": 416
     },
     {
       "itemName": "Samsung Galaxy A55",
@@ -89,7 +95,9 @@
       "systemOs": "Android 14, One UI 6.1",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "25W",
-      "body": "213g, 8.2mm thickness"
+      "body": "213g, 8.2mm thickness",
+      "price": 1214,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy A35",
@@ -113,7 +121,9 @@
       "systemOs": "Android 14, One UI 6.1",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "25W",
-      "body": "209g, 8.2mm thickness"
+      "body": "209g, 8.2mm thickness",
+      "price": 1533,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy M15",
@@ -135,7 +145,9 @@
       "systemOs": "Android 14, One UI 6",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "25W",
-      "body": "217g, 9.3mm thickness"
+      "body": "217g, 9.3mm thickness",
+      "price": 104,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy M14 4G",
@@ -157,7 +169,9 @@
       "systemOs": "Android 13, One UI 5.1",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "25W",
-      "body": "194 g"
+      "body": "194 g",
+      "price": 1045,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy F15",
@@ -179,7 +193,9 @@
       "systemOs": "Android 14, One UI 6",
       "storage": "128GB storage, microSDXC",
       "charger": "25W",
-      "body": "217g, 9.3mm thickness"
+      "body": "217g, 9.3mm thickness",
+      "price": 1636,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy S24 Ultra",
@@ -204,7 +220,9 @@
       "systemOs": "Android 14, One UI 6.1",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "45W15W",
-      "body": "232g or 233g, 8.6mm thickness"
+      "body": "232g or 233g, 8.6mm thickness",
+      "price": 850,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy S24+",
@@ -228,7 +246,9 @@
       "systemOs": "Android 14, One UI 6.1",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "45W15W",
-      "body": "196g or 197g, 7.7mm thickness"
+      "body": "196g or 197g, 7.7mm thickness",
+      "price": 958,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy S24",
@@ -252,7 +272,9 @@
       "systemOs": "Android 14, One UI 6.1",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "25W15W",
-      "body": "167g or 168g, 7.6mm thickness"
+      "body": "167g or 168g, 7.6mm thickness",
+      "price": 542,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy Xcover7",
@@ -274,7 +296,9 @@
       "systemOs": "Android 14, One UI 6",
       "storage": "128GB storage, microSDXC",
       "charger": "15W",
-      "body": "240g, 10.2mm thickness"
+      "body": "240g, 10.2mm thickness",
+      "price": 1781,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy Tab Active5",
@@ -296,7 +320,9 @@
       "systemOs": "Android 14, One UI 6",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "",
-      "body": "433g, 10.1mm thickness"
+      "body": "433g, 10.1mm thickness",
+      "type": "tab",
+      "price": 726
     },
     {
       "itemName": "Samsung Galaxy A25",
@@ -320,7 +346,9 @@
       "systemOs": "Android 14, One UI 6",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "25W",
-      "body": "197g, 8.3mm thickness"
+      "body": "197g, 8.3mm thickness",
+      "price": 1017,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy A15 5G",
@@ -344,7 +372,9 @@
       "systemOs": "Android 14, One UI 6",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "25W",
-      "body": "200g, 8.4mm thickness"
+      "body": "200g, 8.4mm thickness",
+      "price": 827,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy A15",
@@ -368,7 +398,9 @@
       "systemOs": "Android 14, One UI 6",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "25W",
-      "body": "200g, 8.4mm thickness"
+      "body": "200g, 8.4mm thickness",
+      "price": 1747,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy Tab A9+",
@@ -390,7 +422,9 @@
       "systemOs": "Android 13, One UI 5.1",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "15W",
-      "body": "480g or 492g, 6.9mm thickness"
+      "body": "480g or 492g, 6.9mm thickness",
+      "type": "tab",
+      "price": 696
     },
     {
       "itemName": "Samsung Galaxy Tab A9",
@@ -412,7 +446,9 @@
       "systemOs": "Android 13, One UI 5.1",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "15W",
-      "body": "332g or 333g, 8mm thickness"
+      "body": "332g or 333g, 8mm thickness",
+      "type": "tab",
+      "price": 583
     },
     {
       "itemName": "Samsung Galaxy S23 FE",
@@ -436,7 +472,9 @@
       "systemOs": "Android 13, up to Android 14, One UI 6.1",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "25W10W",
-      "body": "209g, 8.2mm thickness"
+      "body": "209g, 8.2mm thickness",
+      "price": 263,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy Tab S9 FE+",
@@ -459,7 +497,9 @@
       "systemOs": "Android 13, up to Android 14, One UI 6",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "45W",
-      "body": "627g or 628g, 6.5mm thickness"
+      "body": "627g or 628g, 6.5mm thickness",
+      "type": "tab",
+      "price": 314
     },
     {
       "itemName": "Samsung Galaxy Tab S9 FE",
@@ -482,7 +522,9 @@
       "systemOs": "Android 13, up to Android 14, One UI 6",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "45W",
-      "body": "523g or 524g, 6.5mm thickness"
+      "body": "523g or 524g, 6.5mm thickness",
+      "type": "tab",
+      "price": 695
     },
     {
       "itemName": "Samsung Galaxy A05s",
@@ -506,7 +548,9 @@
       "systemOs": "Android 13",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "25W",
-      "body": "194g, 8.8mm thickness"
+      "body": "194g, 8.8mm thickness",
+      "price": 1506,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy A05",
@@ -528,7 +572,9 @@
       "systemOs": "Android 13",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "25W",
-      "body": "195g, 8.8mm thickness"
+      "body": "195g, 8.8mm thickness",
+      "price": 1409,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy F34",
@@ -550,7 +596,9 @@
       "systemOs": "Android 13, One UI 5.1",
       "storage": "128GB storage, microSDXC",
       "charger": "25W",
-      "body": "208g, 8.8mm thickness"
+      "body": "208g, 8.8mm thickness",
+      "price": 574,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy Z Fold5",
@@ -574,7 +622,9 @@
       "systemOs": "Android 13, up to Android 14, One UI 6.1",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "25W15W",
-      "body": "253g, 6.1mm thickness"
+      "body": "253g, 6.1mm thickness",
+      "price": 1910,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy Z Flip5",
@@ -598,7 +648,9 @@
       "systemOs": "Android 13, up to Android 14, One UI 6.1",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "25W15W",
-      "body": "187g, 6.9mm thickness"
+      "body": "187g, 6.9mm thickness",
+      "price": 1675,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy Tab S9 Ultra",
@@ -622,7 +674,9 @@
       "systemOs": "Android 13, up to Android 14, One UI 6",
       "storage": "128GB/512GB/1TB storage, microSDXC",
       "charger": "45W",
-      "body": "732g, 5.5mm thickness"
+      "body": "732g, 5.5mm thickness",
+      "type": "tab",
+      "price": 712
     },
     {
       "itemName": "Samsung Galaxy Tab S9+",
@@ -643,7 +697,9 @@
       "systemOs": "Android 13, up to Android 14, One UI 6",
       "storage": "256GB/512GB storage, microSDXC",
       "charger": "45W",
-      "body": "586g (581g Wi-Fi), 5.7mm thickness"
+      "body": "586g (581g Wi-Fi), 5.7mm thickness",
+      "type": "tab",
+      "price": 283
     },
     {
       "itemName": "Samsung Galaxy Tab S9",
@@ -664,7 +720,9 @@
       "systemOs": "Android 13, up to Android 14, One UI 6",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "45W",
-      "body": "498g, 5.9mm thickness"
+      "body": "498g, 5.9mm thickness",
+      "type": "tab",
+      "price": 365
     },
     {
       "itemName": "Samsung Galaxy Watch6 Classic",
@@ -688,7 +746,9 @@
       "systemOs": "Android Wear OS 4, One UI Watch 5",
       "storage": "16GB storage, no card slot",
       "charger": "10W",
-      "body": "59g (47mm), 52g (43mm), 10.9mm thickness"
+      "body": "59g (47mm), 52g (43mm), 10.9mm thickness",
+      "type": "watch",
+      "price": 334
     },
     {
       "itemName": "Samsung Galaxy Watch6",
@@ -710,7 +770,9 @@
       "systemOs": "Android Wear OS 4, One UI Watch 5",
       "storage": "16GB storage, no card slot",
       "charger": "10W",
-      "body": "33.3g (44mm), 28.7g (40mm), 9mm thickness"
+      "body": "33.3g (44mm), 28.7g (40mm), 9mm thickness",
+      "type": "watch",
+      "price": 124
     },
     {
       "itemName": "Samsung Galaxy M34 5G",
@@ -732,7 +794,9 @@
       "systemOs": "Android 13, up to Android 14, One UI 6",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "25W",
-      "body": "208g, 8.8mm thickness"
+      "body": "208g, 8.8mm thickness",
+      "price": 385,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy F54",
@@ -754,7 +818,9 @@
       "systemOs": "Android 13, One UI 5.1",
       "storage": "256GB storage, microSDXC",
       "charger": "",
-      "body": "199g, 8.4mm thickness"
+      "body": "199g, 8.4mm thickness",
+      "price": 1631,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy A24 4G",
@@ -778,7 +844,9 @@
       "systemOs": "Android 13, up to Android 14, One UI 6",
       "storage": "128GB storage, microSDXC",
       "charger": "25W",
-      "body": "195g, 8.3mm thickness"
+      "body": "195g, 8.3mm thickness",
+      "price": 931,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy F14",
@@ -800,7 +868,9 @@
       "systemOs": "Android 13, One UI Core 5.1",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "25W",
-      "body": "206g, 9.4mm thickness"
+      "body": "206g, 9.4mm thickness",
+      "price": 607,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy M54",
@@ -822,7 +892,9 @@
       "systemOs": "Android 13, One UI 5.1",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "25W",
-      "body": "199g, 8.4mm thickness"
+      "body": "199g, 8.4mm thickness",
+      "price": 386,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy A54",
@@ -846,7 +918,9 @@
       "systemOs": "Android 13, up to Android 14, One UI 6",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "25W",
-      "body": "202g, 8.2mm thickness"
+      "body": "202g, 8.2mm thickness",
+      "price": 1289,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy A34",
@@ -870,7 +944,9 @@
       "systemOs": "Android 13, up to Android 14, One UI 6",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "25W",
-      "body": "199g, 8.2mm thickness"
+      "body": "199g, 8.2mm thickness",
+      "price": 459,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy M14",
@@ -892,7 +968,9 @@
       "systemOs": "Android 13, One UI core 5.1",
       "storage": "64GB/128GB storage, microSDHC",
       "charger": "25W",
-      "body": "206g, 9.4mm thickness"
+      "body": "206g, 9.4mm thickness",
+      "price": 274,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy S23 Ultra",
@@ -917,7 +995,9 @@
       "systemOs": "Android 13, up to Android 14, One UI 6.1",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "45W15W",
-      "body": "234g, 8.9mm thickness"
+      "body": "234g, 8.9mm thickness",
+      "price": 891,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy S23+",
@@ -941,7 +1021,9 @@
       "systemOs": "Android 13, up to Android 14, One UI 6.1",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "45W10W",
-      "body": "196g, 7.6mm thickness"
+      "body": "196g, 7.6mm thickness",
+      "price": 1334,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy S23",
@@ -965,7 +1047,9 @@
       "systemOs": "Android 13, up to Android 14, One UI 6.1",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "25W15W",
-      "body": "168g, 7.6mm thickness"
+      "body": "168g, 7.6mm thickness",
+      "price": 412,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy A14",
@@ -988,7 +1072,9 @@
       "systemOs": "Android 13, One UI Core 5",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "15W",
-      "body": "201g, 9.1mm thickness"
+      "body": "201g, 9.1mm thickness",
+      "price": 954,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy A14 5G",
@@ -1012,7 +1098,9 @@
       "systemOs": "Android 13, up to Android 14, One UI Core 6",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "15W",
-      "body": "202g, 9.1mm thickness"
+      "body": "202g, 9.1mm thickness",
+      "price": 1458,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy F04",
@@ -1034,7 +1122,9 @@
       "systemOs": "Android 12, One UI",
       "storage": "64GB storage, microSDXC",
       "charger": "15W",
-      "body": "188g, 9.1mm thickness"
+      "body": "188g, 9.1mm thickness",
+      "price": 273,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy M04",
@@ -1055,7 +1145,9 @@
       "systemOs": "Android 12, One UI Core 4.1",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "15W",
-      "body": "188g, 9.1mm thickness"
+      "body": "188g, 9.1mm thickness",
+      "price": 926,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy Tab A7 10.4 (2022)",
@@ -1079,7 +1171,9 @@
       "systemOs": "Android 12, One UI 4",
       "storage": "32GB/64GB storage, microSDXC",
       "charger": "15W",
-      "body": "477g, 7mm thickness"
+      "body": "477g, 7mm thickness",
+      "type": "tab",
+      "price": 394
     },
     {
       "itemName": "Samsung Galaxy A04e",
@@ -1101,7 +1195,9 @@
       "systemOs": "Android 12, One UI Core 4.1",
       "storage": "32GB/64GB/128GB storage, microSDXC",
       "charger": "",
-      "body": "188g, 9.1mm thickness"
+      "body": "188g, 9.1mm thickness",
+      "price": 1061,
+      "type": "phone"
     },
     {
       "itemName": "Samsung Galaxy Tab Active4 Pro",
@@ -1125,7 +1221,9 @@
       "systemOs": "Android 12, up to Android 13",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "",
-      "body": "674g, 10.2mm thickness"
+      "body": "674g, 10.2mm thickness",
+      "type": "tab",
+      "price": 138
     },
     {
       "itemName": "Samsung Galaxy A04s",
@@ -1149,7 +1247,9 @@
       "systemOs": "Android 12, up to Android 13, One UI Core 5",
       "storage": "32GB/64GB/128GB storage, microSDXC",
       "charger": "15W",
-      "body": "195g, 9.1mm thickness"
+      "body": "195g, 9.1mm thickness",
+      "price": 1822,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPhone 15 Pro Max",
@@ -1173,7 +1273,9 @@
       "systemOs": "iOS 17, up to iOS 17.4",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "PD2.015W",
-      "body": "221g, 8.3mm thickness"
+      "body": "221g, 8.3mm thickness",
+      "price": 1074,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPhone 15 Pro",
@@ -1197,7 +1299,9 @@
       "systemOs": "iOS 17, up to iOS 17.4",
       "storage": "128GB/256GB/1TB storage, no card slot",
       "charger": "PD2.015W",
-      "body": "187g, 8.3mm thickness"
+      "body": "187g, 8.3mm thickness",
+      "price": 1106,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPhone 15 Plus",
@@ -1221,7 +1325,9 @@
       "systemOs": "iOS 17, up to iOS 17.4",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "PD2.015W",
-      "body": "201g, 7.8mm thickness"
+      "body": "201g, 7.8mm thickness",
+      "price": 1122,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPhone 15",
@@ -1245,7 +1351,9 @@
       "systemOs": "iOS 17, up to iOS 17.4",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "PD2.015W",
-      "body": "171g, 7.8mm thickness"
+      "body": "171g, 7.8mm thickness",
+      "price": 740,
+      "type": "phone"
     },
     {
       "itemName": "Apple Watch Ultra 2",
@@ -1268,7 +1376,9 @@
       "systemOs": "watchOS 10, up to watchOS 10.4",
       "storage": "64GB storage, no card slot",
       "charger": "5W",
-      "body": "61.4g, 14.4mm thickness"
+      "body": "61.4g, 14.4mm thickness",
+      "type": "watch",
+      "price": 424
     },
     {
       "itemName": "Apple Watch Series 9",
@@ -1290,7 +1400,9 @@
       "systemOs": "watchOS 10, up to watchOS 10.4",
       "storage": "64GB storage, no card slot",
       "charger": "5W",
-      "body": "42.3g (41mm), 51.5g (45mm), 10.7mm thickness"
+      "body": "42.3g (41mm), 51.5g (45mm), 10.7mm thickness",
+      "type": "watch",
+      "price": 103
     },
     {
       "itemName": "Apple Watch Series 9 Aluminum",
@@ -1314,7 +1426,9 @@
       "systemOs": "watchOS 10, up to watchOS 10.4",
       "storage": "64GB storage, no card slot",
       "charger": "5W",
-      "body": "31.9g (41mm), 38.7g (45mm), 10.7mm thickness"
+      "body": "31.9g (41mm), 38.7g (45mm), 10.7mm thickness",
+      "type": "watch",
+      "price": 108
     },
     {
       "itemName": "Apple iPad Pro 12.9 (2022)",
@@ -1337,7 +1451,9 @@
       "systemOs": "iPadOS 16.1, up to iPadOS 17.4",
       "storage": "128GB/256GB/2TB storage, no card slot",
       "charger": "",
-      "body": "682g (Wi-Fi), 685g (5G), 6.4mm thickness"
+      "body": "682g (Wi-Fi), 685g (5G), 6.4mm thickness",
+      "price": 894,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPad Pro 11 (2022)",
@@ -1360,7 +1476,9 @@
       "systemOs": "iPadOS 16.1, up to iPadOS 17.4",
       "storage": "128GB/256GB/2TB storage, no card slot",
       "charger": "",
-      "body": "466g (Wi-Fi), 470g (5G), 5.9mm thickness"
+      "body": "466g (Wi-Fi), 470g (5G), 5.9mm thickness",
+      "price": 1347,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPad (2022)",
@@ -1383,7 +1501,9 @@
       "systemOs": "iPadOS 16.1, up to iPadOS 17.4",
       "storage": "64GB/256GB storage, no card slot",
       "charger": "",
-      "body": "477g (Wi-Fi) / 481g (LTE), 7mm thickness"
+      "body": "477g (Wi-Fi) / 481g (LTE), 7mm thickness",
+      "price": 1323,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPhone 14 Pro Max",
@@ -1407,7 +1527,9 @@
       "systemOs": "iOS 16, up to iOS 17.4",
       "storage": "128GB/256GB/1TB storage, no card slot",
       "charger": "PD2.015W",
-      "body": "240g, 7.9mm thickness"
+      "body": "240g, 7.9mm thickness",
+      "price": 150,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPhone 14 Pro",
@@ -1431,7 +1553,9 @@
       "systemOs": "iOS 16, up to iOS 17.4",
       "storage": "128GB/256GB/1TB storage, no card slot",
       "charger": "PD2.015W",
-      "body": "206g, 7.9mm thickness"
+      "body": "206g, 7.9mm thickness",
+      "price": 1276,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPhone 14 Plus",
@@ -1455,7 +1579,9 @@
       "systemOs": "iOS 16, up to iOS 17.4",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "PD2.015W",
-      "body": "203g, 7.8mm thickness"
+      "body": "203g, 7.8mm thickness",
+      "price": 1457,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPhone 14",
@@ -1479,7 +1605,9 @@
       "systemOs": "iOS 16, up to iOS 17.4",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "PD2.015W",
-      "body": "172g, 7.8mm thickness"
+      "body": "172g, 7.8mm thickness",
+      "price": 1226,
+      "type": "phone"
     },
     {
       "itemName": "Apple Watch Ultra",
@@ -1504,7 +1632,9 @@
       "systemOs": "watchOS 9.0, up to watchOS 10.4",
       "storage": "32GB storage, no card slot",
       "charger": "5W",
-      "body": "61.3g, 14.4mm thickness"
+      "body": "61.3g, 14.4mm thickness",
+      "type": "watch",
+      "price": 178
     },
     {
       "itemName": "Apple Watch Series 8",
@@ -1526,7 +1656,9 @@
       "systemOs": "watchOS 9.0, up to watchOS 10.4",
       "storage": "32GB storage, no card slot",
       "charger": "5W",
-      "body": "42.3g (41mm), 51.5g (45mm), 10.7mm thickness"
+      "body": "42.3g (41mm), 51.5g (45mm), 10.7mm thickness",
+      "type": "watch",
+      "price": 413
     },
     {
       "itemName": "Apple Watch Series 8 Aluminum",
@@ -1548,7 +1680,9 @@
       "systemOs": "watchOS 9.0, up to watchOS 10.4",
       "storage": "32GB storage, no card slot",
       "charger": "5W",
-      "body": "32g (41mm), 38.8g (45mm), 10.7mm thickness"
+      "body": "32g (41mm), 38.8g (45mm), 10.7mm thickness",
+      "type": "watch",
+      "price": 53
     },
     {
       "itemName": "Apple Watch SE (2022)",
@@ -1570,7 +1704,9 @@
       "systemOs": "watchOS 9.0, up to watchOS 10.4",
       "storage": "32GB storage, no card slot",
       "charger": "5W",
-      "body": "33g, 10.7mm thickness"
+      "body": "33g, 10.7mm thickness",
+      "type": "watch",
+      "price": 342
     },
     {
       "itemName": "Apple iPhone SE (2022)",
@@ -1594,7 +1730,9 @@
       "systemOs": "iOS 15.4, up to iOS 17.4",
       "storage": "64GB/128GB/256GB storage, no card slot",
       "charger": "20W8W",
-      "body": "144g, 7.3mm thickness"
+      "body": "144g, 7.3mm thickness",
+      "price": 1318,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPad Air (2022)",
@@ -1618,7 +1756,9 @@
       "systemOs": "iPadOS 15.4, up to iPadOS 17.4",
       "storage": "64GB/256GB storage, no card slot",
       "charger": "",
-      "body": "461g (Wi-Fi) / 462g (5G), 6.1mm thickness"
+      "body": "461g (Wi-Fi) / 462g (5G), 6.1mm thickness",
+      "price": 1482,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPhone 13 Pro Max",
@@ -1643,7 +1783,9 @@
       "systemOs": "iOS 15, up to iOS 17.4",
       "storage": "128GB/256GB/1TB storage, no card slot",
       "charger": "PD2.015W",
-      "body": "240g, 7.7mm thickness"
+      "body": "240g, 7.7mm thickness",
+      "price": 693,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPhone 13 Pro",
@@ -1668,7 +1810,9 @@
       "systemOs": "iOS 15, up to iOS 17.4",
       "storage": "128GB/256GB/1TB storage, no card slot",
       "charger": "PD2.015W",
-      "body": "204g, 7.7mm thickness"
+      "body": "204g, 7.7mm thickness",
+      "price": 1663,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPhone 13",
@@ -1693,7 +1837,9 @@
       "systemOs": "iOS 15, up to iOS 17.4",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "PD2.015W",
-      "body": "174g, 7.7mm thickness"
+      "body": "174g, 7.7mm thickness",
+      "price": 1505,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPhone 13 mini",
@@ -1718,7 +1864,9 @@
       "systemOs": "iOS 15, up to iOS 17.4",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "PD2.015W",
-      "body": "141g, 7.7mm thickness"
+      "body": "141g, 7.7mm thickness",
+      "price": 710,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPad mini (2021)",
@@ -1739,7 +1887,9 @@
       "systemOs": "iPadOS 15, up to iPadOS 17.4",
       "storage": "64GB/256GB storage, no card slot",
       "charger": "",
-      "body": "293g (Wi-Fi) / 297g (Wi-Fi + Cellular), 6.3mm thickness"
+      "body": "293g (Wi-Fi) / 297g (Wi-Fi + Cellular), 6.3mm thickness",
+      "price": 730,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPad 10.2 (2021)",
@@ -1763,7 +1913,9 @@
       "systemOs": "iPadOS 15, up to iPadOS 17.4",
       "storage": "64GB/256GB storage, no card slot",
       "charger": "",
-      "body": "487g (Wi-Fi) / 498g (LTE), 7.5mm thickness"
+      "body": "487g (Wi-Fi) / 498g (LTE), 7.5mm thickness",
+      "price": 1109,
+      "type": "phone"
     },
     {
       "itemName": "Apple Watch Edition Series 7",
@@ -1785,7 +1937,9 @@
       "systemOs": "watchOS 8.0, up to watchOS 10.4",
       "storage": "32GB storage, no card slot",
       "charger": "5W",
-      "body": "37g (41mm), 45.1g (45mm), 10.7mm thickness"
+      "body": "37g (41mm), 45.1g (45mm), 10.7mm thickness",
+      "type": "watch",
+      "price": 340
     },
     {
       "itemName": "Apple Watch Series 7",
@@ -1807,7 +1961,9 @@
       "systemOs": "watchOS 8.0, up to watchOS 10.4",
       "storage": "32GB storage, no card slot",
       "charger": "5W",
-      "body": "42.3g (41mm), 51.5g (45mm), 10.7mm thickness"
+      "body": "42.3g (41mm), 51.5g (45mm), 10.7mm thickness",
+      "type": "watch",
+      "price": 297
     },
     {
       "itemName": "Apple Watch Series 7 Aluminum",
@@ -1829,7 +1985,9 @@
       "systemOs": "watchOS 8.0, up to watchOS 10.4",
       "storage": "32GB storage, no card slot",
       "charger": "5W",
-      "body": "32g (41mm), 38.8g (45mm), 10.7mm thickness"
+      "body": "32g (41mm), 38.8g (45mm), 10.7mm thickness",
+      "type": "watch",
+      "price": 100
     },
     {
       "itemName": "Apple iPad Pro 12.9 (2021)",
@@ -1851,7 +2009,9 @@
       "systemOs": "iPadOS 14.5.1, up to iPadOS 17.4",
       "storage": "128GB/256GB/2TB storage, no card slot",
       "charger": "",
-      "body": "682g (Wi-Fi), 685g (5G), 6.4mm thickness"
+      "body": "682g (Wi-Fi), 685g (5G), 6.4mm thickness",
+      "price": 1305,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPad Pro 11 (2021)",
@@ -1873,7 +2033,9 @@
       "systemOs": "iPadOS 14.5.1, up to iPadOS 17.4",
       "storage": "128GB/256GB/2TB storage, no card slot",
       "charger": "",
-      "body": "466g (Wi-Fi), 470g (5G), 5.9mm thickness"
+      "body": "466g (Wi-Fi), 470g (5G), 5.9mm thickness",
+      "price": 486,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPhone 12 Pro Max",
@@ -1898,7 +2060,9 @@
       "systemOs": "iOS 14.1, up to iOS 17.4",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "PD2.015W",
-      "body": "228g, 7.4mm thickness"
+      "body": "228g, 7.4mm thickness",
+      "price": 908,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPhone 12 Pro",
@@ -1923,7 +2087,9 @@
       "systemOs": "iOS 14.1, up to iOS 17.4",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "PD2.015W",
-      "body": "189g, 7.4mm thickness"
+      "body": "189g, 7.4mm thickness",
+      "price": 733,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPhone 12",
@@ -1947,7 +2113,9 @@
       "systemOs": "iOS 14.1, up to iOS 17.4",
       "storage": "64GB/128GB/256GB storage, no card slot",
       "charger": "PD2.015W",
-      "body": "164g, 7.4mm thickness"
+      "body": "164g, 7.4mm thickness",
+      "price": 1705,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPhone 12 mini",
@@ -1971,7 +2139,9 @@
       "systemOs": "iOS 14.1, up to iOS 17.4",
       "storage": "64GB/128GB/256GB storage, no card slot",
       "charger": "PD2.012W",
-      "body": "135g, 7.4mm thickness"
+      "body": "135g, 7.4mm thickness",
+      "price": 551,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPad Air (2020)",
@@ -1996,7 +2166,9 @@
       "systemOs": "iPadOS 14.1, up to iPadOS 17.4",
       "storage": "64GB/256GB storage, no card slot",
       "charger": "",
-      "body": "458g (Wi-Fi) / 460g (3G/LTE), 6.1mm thickness"
+      "body": "458g (Wi-Fi) / 460g (3G/LTE), 6.1mm thickness",
+      "price": 1878,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPad 10.2 (2020)",
@@ -2020,7 +2192,9 @@
       "systemOs": "iPadOS 14, up to iPadOS 17.4",
       "storage": "32GB/128GB storage, no card slot",
       "charger": "",
-      "body": "490g (Wi-Fi) / 495g (LTE), 7.5mm thickness"
+      "body": "490g (Wi-Fi) / 495g (LTE), 7.5mm thickness",
+      "price": 1234,
+      "type": "phone"
     },
     {
       "itemName": "Apple Watch SE",
@@ -2045,7 +2219,9 @@
       "systemOs": "watchOS 7.0, up to watchOS 10.4",
       "storage": "32GB storage, no card slot",
       "charger": "5W",
-      "body": "36.4g, 10.4mm thickness"
+      "body": "36.4g, 10.4mm thickness",
+      "type": "watch",
+      "price": 72
     },
     {
       "itemName": "Apple Watch Series 6 Aluminum",
@@ -2067,7 +2243,9 @@
       "systemOs": "watchOS 7.0, up to watchOS 10.4",
       "storage": "32GB storage, no card slot",
       "charger": "5W",
-      "body": "36.5g, 10.7mm thickness"
+      "body": "36.5g, 10.7mm thickness",
+      "type": "watch",
+      "price": 379
     },
     {
       "itemName": "Apple Watch Series 6",
@@ -2090,7 +2268,9 @@
       "systemOs": "watchOS 7.0, up to watchOS 10.4",
       "storage": "32GB storage, no card slot",
       "charger": "5W",
-      "body": "47.1g, 10.7mm thickness"
+      "body": "47.1g, 10.7mm thickness",
+      "type": "watch",
+      "price": 266
     },
     {
       "itemName": "Apple Watch Edition Series 6",
@@ -2112,7 +2292,9 @@
       "systemOs": "watchOS 7.0, up to watchOS 10.4",
       "storage": "32GB storage, no card slot",
       "charger": "5W",
-      "body": "41.3g, 10.7mm thickness"
+      "body": "41.3g, 10.7mm thickness",
+      "type": "watch",
+      "price": 449
     },
     {
       "itemName": "Apple iPhone SE (2020)",
@@ -2136,7 +2318,9 @@
       "systemOs": "iOS 13, up to iOS 17.4",
       "storage": "64GB/128GB/256GB storage, no card slot",
       "charger": "18W8W",
-      "body": "148g, 7.3mm thickness"
+      "body": "148g, 7.3mm thickness",
+      "price": 1568,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPad Pro 12.9 (2020)",
@@ -2159,7 +2343,9 @@
       "systemOs": "iPadOS 13.4, up to iPadOS 17.4",
       "storage": "128GB/256GB/1TB storage, no card slot",
       "charger": "",
-      "body": "641g (Wi-Fi), 643g (LTE), 5.9mm thickness"
+      "body": "641g (Wi-Fi), 643g (LTE), 5.9mm thickness",
+      "price": 964,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPad Pro 11 (2020)",
@@ -2182,7 +2368,9 @@
       "systemOs": "iPadOS 13.4, up to iPadOS 17.4",
       "storage": "128GB/256GB/1TB storage, no card slot",
       "charger": "",
-      "body": "471g (Wi-Fi), 473g (LTE), 5.9mm thickness"
+      "body": "471g (Wi-Fi), 473g (LTE), 5.9mm thickness",
+      "price": 1498,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPhone 11 Pro Max",
@@ -2206,7 +2394,9 @@
       "systemOs": "iOS 13, up to iOS 17.4",
       "storage": "64GB/256GB/512GB storage, no card slot",
       "charger": "PD2.05W",
-      "body": "226g, 8.1mm thickness"
+      "body": "226g, 8.1mm thickness",
+      "price": 175,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPhone 11 Pro",
@@ -2230,7 +2420,9 @@
       "systemOs": "iOS 13, up to iOS 17.4",
       "storage": "64GB/256GB/512GB storage, no card slot",
       "charger": "PD2.05W",
-      "body": "188g, 8.1mm thickness"
+      "body": "188g, 8.1mm thickness",
+      "price": 384,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPhone 11",
@@ -2254,7 +2446,9 @@
       "systemOs": "iOS 13, up to iOS 17.4",
       "storage": "64GB/128GB/256GB storage, no card slot",
       "charger": "PD2.05W",
-      "body": "194g, 8.3mm thickness"
+      "body": "194g, 8.3mm thickness",
+      "price": 906,
+      "type": "phone"
     },
     {
       "itemName": "Apple iPad 10.2 (2019)",
@@ -2276,7 +2470,9 @@
       "systemOs": "iPadOS 13.1, up to iPadOS 17.4",
       "storage": "32GB/128GB storage, no card slot",
       "charger": "",
-      "body": "483g (Wi-Fi) / 493g (LTE), 7.5mm thickness"
+      "body": "483g (Wi-Fi) / 493g (LTE), 7.5mm thickness",
+      "price": 1246,
+      "type": "phone"
     },
     {
       "itemName": "Apple Watch Edition Series 5",
@@ -2298,7 +2494,9 @@
       "systemOs": "watchOS 6.0, up to watchOS 10.4",
       "storage": "32GB storage, no card slot",
       "charger": "5W",
-      "body": "47.8g, 10.7mm thickness"
+      "body": "47.8g, 10.7mm thickness",
+      "type": "watch",
+      "price": 226
     },
     {
       "itemName": "Apple Watch Series 5",
@@ -2319,7 +2517,9 @@
       "systemOs": "watchOS 6.0, up to watchOS 10.4",
       "storage": "32GB storage, no card slot",
       "charger": "5W",
-      "body": "47.8g, 10.7mm thickness"
+      "body": "47.8g, 10.7mm thickness",
+      "type": "watch",
+      "price": 404
     },
     {
       "itemName": "Huawei Pura 70 Ultra",
@@ -2343,7 +2543,9 @@
       "systemOs": "EMUI 14.2, HarmonyOS 4.2",
       "storage": "512GB/1TB storage, no card slot",
       "charger": "100W80W",
-      "body": "226g, 8.4mm thickness"
+      "body": "226g, 8.4mm thickness",
+      "price": 439,
+      "type": "phone"
     },
     {
       "itemName": "Huawei Pura 70 Pro+",
@@ -2366,7 +2568,9 @@
       "systemOs": "HarmonyOS 4.2",
       "storage": "512GB/1TB storage, no card slot",
       "charger": "100W80W",
-      "body": "220g, 8.4mm thickness"
+      "body": "220g, 8.4mm thickness",
+      "price": 550,
+      "type": "phone"
     },
     {
       "itemName": "Huawei Pura 70 Pro",
@@ -2389,7 +2593,9 @@
       "systemOs": "EMUI 14.2, HarmonyOS 4.2",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "100W80W",
-      "body": "220g, 8.4mm thickness"
+      "body": "220g, 8.4mm thickness",
+      "price": 1870,
+      "type": "phone"
     },
     {
       "itemName": "Huawei Pura 70",
@@ -2412,7 +2618,9 @@
       "systemOs": "EMUI 14.2, HarmonyOS 4.2",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "66W50W",
-      "body": "207g, 8mm thickness"
+      "body": "207g, 8mm thickness",
+      "price": 936,
+      "type": "phone"
     },
     {
       "itemName": "Huawei nova 12i",
@@ -2435,7 +2643,9 @@
       "systemOs": "EMUI 14, no Google Play Services",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "40W",
-      "body": "199g, 8.4mm thickness"
+      "body": "199g, 8.4mm thickness",
+      "price": 1895,
+      "type": "phone"
     },
     {
       "itemName": "Huawei nova 12 SE",
@@ -2458,7 +2668,9 @@
       "systemOs": "EMUI 14, no Google Play Services",
       "storage": "256GB storage, no card slot",
       "charger": "66W",
-      "body": "186g, 7.4mm thickness"
+      "body": "186g, 7.4mm thickness",
+      "price": 621,
+      "type": "phone"
     },
     {
       "itemName": "Huawei nova 12s",
@@ -2480,7 +2692,9 @@
       "systemOs": "EMUI 14, no Google Play Services",
       "storage": "256GB storage, no card slot",
       "charger": "66W",
-      "body": "168g, 6.9mm thickness"
+      "body": "168g, 6.9mm thickness",
+      "price": 1791,
+      "type": "phone"
     },
     {
       "itemName": "Huawei Pocket 2",
@@ -2504,7 +2718,9 @@
       "systemOs": "HarmonyOS 4.0",
       "storage": "256GB/512GB/1TB storage, NM",
       "charger": "66W40W",
-      "body": "199g or 202g, 7.3mm thickness"
+      "body": "199g or 202g, 7.3mm thickness",
+      "price": 926,
+      "type": "phone"
     },
     {
       "itemName": "Huawei Enjoy 70z",
@@ -2526,7 +2742,9 @@
       "systemOs": "HarmonyOS 4.0",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "23W",
-      "body": "199g, 9mm thickness"
+      "body": "199g, 9mm thickness",
+      "price": 1572,
+      "type": "phone"
     },
     {
       "itemName": "Huawei nova Y72",
@@ -2548,7 +2766,9 @@
       "systemOs": "HarmonyOS 4.0",
       "storage": "128GB/256GB storage, NM",
       "charger": "23W",
-      "body": "207g, 8.9mm thickness"
+      "body": "207g, 8.9mm thickness",
+      "price": 364,
+      "type": "phone"
     },
     {
       "itemName": "Huawei nova 12 Ultra",
@@ -2570,7 +2790,9 @@
       "systemOs": "HarmonyOS 4.0",
       "storage": "512GB/1TB storage, no card slot",
       "charger": "100W",
-      "body": "198g, 7.7mm thickness"
+      "body": "198g, 7.7mm thickness",
+      "price": 246,
+      "type": "phone"
     },
     {
       "itemName": "Huawei nova 12 Pro",
@@ -2592,7 +2814,9 @@
       "systemOs": "HarmonyOS 4.0",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "100W",
-      "body": "201g, 7.7mm thickness"
+      "body": "201g, 7.7mm thickness",
+      "price": 252,
+      "type": "phone"
     },
     {
       "itemName": "Huawei nova 12",
@@ -2614,7 +2838,9 @@
       "systemOs": "HarmonyOS 4.0",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "100W",
-      "body": "191g, 7mm thickness"
+      "body": "191g, 7mm thickness",
+      "price": 952,
+      "type": "phone"
     },
     {
       "itemName": "Huawei nova 12 Lite",
@@ -2636,7 +2862,9 @@
       "systemOs": "HarmonyOS 4.0",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "66W",
-      "body": "168g, 6.9mm thickness"
+      "body": "168g, 6.9mm thickness",
+      "price": 1690,
+      "type": "phone"
     },
     {
       "itemName": "Huawei Enjoy 70",
@@ -2659,7 +2887,9 @@
       "systemOs": "HarmonyOS 4.0",
       "storage": "128GB/256GB storage, NM",
       "charger": "23W",
-      "body": "207g, 8.9mm thickness"
+      "body": "207g, 8.9mm thickness",
+      "price": 538,
+      "type": "phone"
     },
     {
       "itemName": "Huawei MatePad Pro 11 (2024)",
@@ -2681,7 +2911,9 @@
       "systemOs": "HarmonyOS 4.0",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "66W",
-      "body": "449gg cellular model), 5.9mm thickness"
+      "body": "449gg cellular model), 5.9mm thickness",
+      "price": 943,
+      "type": "phone"
     },
     {
       "itemName": "Huawei nova 11 SE",
@@ -2704,7 +2936,9 @@
       "systemOs": "HarmonyOS 4.0",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "66W",
-      "body": "186g, 7.4mm thickness"
+      "body": "186g, 7.4mm thickness",
+      "price": 1306,
+      "type": "phone"
     },
     {
       "itemName": "Huawei Watch Ultimate Design",
@@ -2728,7 +2962,9 @@
       "systemOs": "HarmonyOS 4.0",
       "storage": "32GB storage, no card slot",
       "charger": "5W",
-      "body": "78g, 13mm thickness"
+      "body": "78g, 13mm thickness",
+      "type": "watch",
+      "price": 62
     },
     {
       "itemName": "Huawei MatePad Pro 13.2",
@@ -2752,7 +2988,9 @@
       "systemOs": "Harmony OS 4.0",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "88W",
-      "body": "580g, 5.5mm thickness"
+      "body": "580g, 5.5mm thickness",
+      "price": 1392,
+      "type": "phone"
     },
     {
       "itemName": "Huawei Mate 60 RS Ultimate",
@@ -2777,7 +3015,9 @@
       "systemOs": "HarmonyOS 4.0",
       "storage": "512GB/1TB storage, NM",
       "charger": "88W50W",
-      "body": "242g or 246g, 8.1mm thickness"
+      "body": "242g or 246g, 8.1mm thickness",
+      "price": 1192,
+      "type": "phone"
     },
     {
       "itemName": "Huawei Watch GT 4",
@@ -2802,7 +3042,9 @@
       "systemOs": "HarmonyOS 4.0",
       "storage": "32GB storage, no card slot",
       "charger": "5W",
-      "body": "37g (41mm) / 48g (46mm), 10.9mm thickness"
+      "body": "37g (41mm) / 48g (46mm), 10.9mm thickness",
+      "type": "watch",
+      "price": 276
     },
     {
       "itemName": "Huawei Mate 60 Pro+",
@@ -2825,7 +3067,9 @@
       "systemOs": "HarmonyOS 4.0",
       "storage": "512GB/1TB storage, NM",
       "charger": "88W50W",
-      "body": "225g, 8.1mm thickness"
+      "body": "225g, 8.1mm thickness",
+      "price": 1541,
+      "type": "phone"
     },
     {
       "itemName": "Huawei Mate X5",
@@ -2850,7 +3094,9 @@
       "systemOs": "HarmonyOS 4.0, EMUI, no Google Play Services",
       "storage": "256GB/512GB/1TB storage, NM",
       "charger": "66W50W",
-      "body": "243g or 245g, 5.3mm thickness"
+      "body": "243g or 245g, 5.3mm thickness",
+      "price": 1570,
+      "type": "phone"
     },
     {
       "itemName": "Huawei Mate 60 Pro",
@@ -2872,7 +3118,9 @@
       "systemOs": "HarmonyOS 4.0",
       "storage": "256GB/512GB/1TB storage, NM",
       "charger": "88W50W",
-      "body": "225g, 8.1mm thickness"
+      "body": "225g, 8.1mm thickness",
+      "price": 1294,
+      "type": "phone"
     },
     {
       "itemName": "Huawei Mate 60",
@@ -2891,7 +3139,9 @@
       "systemOs": "HarmonyOS 4.0",
       "storage": "256GB/512GB/1TB storage, NM",
       "charger": "66W50W",
-      "body": "209g, 8mm thickness"
+      "body": "209g, 8mm thickness",
+      "price": 823,
+      "type": "phone"
     },
     {
       "itemName": "Huawei MatePad 11.5",
@@ -2913,7 +3163,9 @@
       "systemOs": "Harmony OS 3.1",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "23W",
-      "body": "499g, 6.9mm thickness"
+      "body": "499g, 6.9mm thickness",
+      "price": 1912,
+      "type": "phone"
     },
     {
       "itemName": "Huawei MatePad Air",
@@ -2935,7 +3187,9 @@
       "systemOs": "HarmonyOS 3.1",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "40W",
-      "body": "508g, 6.4mm thickness"
+      "body": "508g, 6.4mm thickness",
+      "price": 721,
+      "type": "phone"
     },
     {
       "itemName": "Huawei nova Y91",
@@ -2954,7 +3208,9 @@
       "systemOs": "EMUI 13, no Google Play Services",
       "storage": "128GB/256GB storage, Unspecified",
       "charger": "23W",
-      "body": "214g, 8.9mm thickness"
+      "body": "214g, 8.9mm thickness",
+      "price": 877,
+      "type": "phone"
     },
     {
       "itemName": "Huawei Watch 4 Pro",
@@ -2979,7 +3235,9 @@
       "systemOs": "HarmonyOS 3.0",
       "storage": "32GB storage, no card slot",
       "charger": "10W",
-      "body": "65g, 12.9mm thickness"
+      "body": "65g, 12.9mm thickness",
+      "type": "watch",
+      "price": 166
     },
     {
       "itemName": "Huawei Watch 4",
@@ -3003,7 +3261,9 @@
       "systemOs": "HarmonyOS 3.0",
       "storage": "32GB storage, no card slot",
       "charger": "10W",
-      "body": "48g, 10.9mm thickness"
+      "body": "48g, 10.9mm thickness",
+      "type": "watch",
+      "price": 150
     },
     {
       "itemName": "Huawei nova 11i",
@@ -3026,7 +3286,9 @@
       "systemOs": "EMUI 13",
       "storage": "128GB/256GB storage, Unspecified",
       "charger": "40W",
-      "body": "193g, 8.6mm thickness"
+      "body": "193g, 8.6mm thickness",
+      "price": 1969,
+      "type": "phone"
     },
     {
       "itemName": "Huawei nova Y71",
@@ -3049,7 +3311,9 @@
       "systemOs": "EMUI 12, no Google Play Services",
       "storage": "128GB storage, microSDXC",
       "charger": "23W",
-      "body": "199g, 9mm thickness"
+      "body": "199g, 9mm thickness",
+      "price": 1692,
+      "type": "phone"
     },
     {
       "itemName": "Huawei Enjoy 60X",
@@ -3072,7 +3336,9 @@
       "systemOs": "HarmonyOS 3.0",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "23W",
-      "body": "216g, 8.9mm thickness"
+      "body": "216g, 8.9mm thickness",
+      "price": 1520,
+      "type": "phone"
     },
     {
       "itemName": "Huawei nova 11 Ultra",
@@ -3095,7 +3361,9 @@
       "systemOs": "HarmonyOS 3.0",
       "storage": "512GB storage, no card slot",
       "charger": "100W",
-      "body": "188g, 7.9mm thickness"
+      "body": "188g, 7.9mm thickness",
+      "price": 1809,
+      "type": "phone"
     },
     {
       "itemName": "Huawei nova 11 Pro",
@@ -3119,7 +3387,9 @@
       "systemOs": "HarmonyOS 3.0",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "100W",
-      "body": "188g or 193g, 7.9mm thickness"
+      "body": "188g or 193g, 7.9mm thickness",
+      "price": 1168,
+      "type": "phone"
     },
     {
       "itemName": "Huawei nova 11",
@@ -3142,7 +3412,9 @@
       "systemOs": "HarmonyOS 3.0",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "66W",
-      "body": "168g, 6.9mm thickness"
+      "body": "168g, 6.9mm thickness",
+      "price": 1599,
+      "type": "phone"
     },
     {
       "itemName": "Huawei Mate X3",
@@ -3166,7 +3438,9 @@
       "systemOs": "HarmonyOS 3.1, EMUI 13.1",
       "storage": "256GB/512GB/1TB storage, NM",
       "charger": "66W50W",
-      "body": "239g or 241g, 5.3mm thickness"
+      "body": "239g or 241g, 5.3mm thickness",
+      "price": 1743,
+      "type": "phone"
     },
     {
       "itemName": "Huawei P60 Pro",
@@ -3190,7 +3464,9 @@
       "systemOs": "HarmonyOS 3.1, EMUI 13.1",
       "storage": "256GB/512GB storage, NM",
       "charger": "88W50W",
-      "body": "200g, 8.3mm thickness"
+      "body": "200g, 8.3mm thickness",
+      "price": 839,
+      "type": "phone"
     },
     {
       "itemName": "Huawei P60",
@@ -3212,7 +3488,9 @@
       "systemOs": "HarmonyOS 3.1, EMUI 13.1",
       "storage": "128GB/256GB/512GB storage, NM",
       "charger": "66W50W",
-      "body": "197g, 8.3mm thickness"
+      "body": "197g, 8.3mm thickness",
+      "price": 1907,
+      "type": "phone"
     },
     {
       "itemName": "Huawei P60 Art",
@@ -3235,7 +3513,9 @@
       "systemOs": "HarmonyOS 3.1, EMUI 13.1",
       "storage": "512GB/1TB storage, NM",
       "charger": "88W50W",
-      "body": "206g, 8.3mm thickness"
+      "body": "206g, 8.3mm thickness",
+      "price": 514,
+      "type": "phone"
     },
     {
       "itemName": "Huawei Enjoy 60",
@@ -3258,7 +3538,9 @@
       "systemOs": "HarmonyOS 3.0",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "23W",
-      "body": "199g, 9mm thickness"
+      "body": "199g, 9mm thickness",
+      "price": 312,
+      "type": "phone"
     },
     {
       "itemName": "Huawei Watch Ultimate",
@@ -3283,7 +3565,9 @@
       "systemOs": "HarmonyOS 3.0",
       "storage": "32GB storage, no card slot",
       "charger": "5W",
-      "body": "76g, 13mm thickness"
+      "body": "76g, 13mm thickness",
+      "type": "watch",
+      "price": 403
     },
     {
       "itemName": "Huawei MatePad 11 (2023)",
@@ -3306,7 +3590,9 @@
       "systemOs": "HarmonyOS 3.1",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "23W",
-      "body": "480g, 7.2mm thickness"
+      "body": "480g, 7.2mm thickness",
+      "price": 347,
+      "type": "phone"
     },
     {
       "itemName": "Huawei nova 10 Youth",
@@ -3328,7 +3614,9 @@
       "systemOs": "HarmonyOS 2.0",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "66W",
-      "body": "191g, 7.9mm thickness"
+      "body": "191g, 7.9mm thickness",
+      "price": 840,
+      "type": "phone"
     },
     {
       "itemName": "Huawei Watch Buds",
@@ -3352,7 +3640,9 @@
       "systemOs": "HarmonyOS 3.0",
       "storage": "No card slot",
       "charger": "5W",
-      "body": "66.5g, 15mm thickness"
+      "body": "66.5g, 15mm thickness",
+      "type": "watch",
+      "price": 113
     },
     {
       "itemName": "Huawei Enjoy 50z",
@@ -3375,7 +3665,9 @@
       "systemOs": "HarmonyOS 2.0",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "23W",
-      "body": "188g, 8.9mm thickness"
+      "body": "188g, 8.9mm thickness",
+      "price": 1563,
+      "type": "phone"
     },
     {
       "itemName": "Huawei Watch GT 3 SE",
@@ -3398,7 +3690,9 @@
       "systemOs": "HarmonyOS 2.0",
       "storage": "4GB storage, no card slot",
       "charger": "5W",
-      "body": "35.6g, 11mm thickness"
+      "body": "35.6g, 11mm thickness",
+      "type": "watch",
+      "price": 492
     },
     {
       "itemName": "Huawei Pocket S",
@@ -3423,7 +3717,9 @@
       "systemOs": "HarmonyOS 3.0",
       "storage": "128GB/256GB/512GB storage, NM",
       "charger": "40W",
-      "body": "190g, 7.2mm thickness"
+      "body": "190g, 7.2mm thickness",
+      "price": 1379,
+      "type": "phone"
     },
     {
       "itemName": "Huawei Watch GT Cyber",
@@ -3448,7 +3744,9 @@
       "systemOs": "HarmonyOS 2.0",
       "storage": "No card slot",
       "charger": "5W",
-      "body": "58 / 59 / 77g, 10.2mm thickness"
+      "body": "58 / 59 / 77g, 10.2mm thickness",
+      "type": "watch",
+      "price": 281
     },
     {
       "itemName": "Huawei nova Y61",
@@ -3471,7 +3769,9 @@
       "systemOs": "EMUI 12, no Google Play Services",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "23W",
-      "body": "188g, 8.9mm thickness"
+      "body": "188g, 8.9mm thickness",
+      "price": 467,
+      "type": "phone"
     },
     {
       "itemName": "HTC A101 Plus",
@@ -3490,7 +3790,9 @@
       "systemOs": "Android 14",
       "storage": "128GB storage, microSDXC",
       "charger": "10W",
-      "body": "501g, 7.5mm thickness"
+      "body": "501g, 7.5mm thickness",
+      "price": 1754,
+      "type": "phone"
     },
     {
       "itemName": "HTC A104",
@@ -3512,7 +3814,9 @@
       "systemOs": "Android 13",
       "storage": "128GB storage, microSDXC",
       "charger": "10W",
-      "body": "460g, 8mm thickness"
+      "body": "460g, 8mm thickness",
+      "price": 158,
+      "type": "phone"
     },
     {
       "itemName": "HTC Wildfire E star",
@@ -3533,7 +3837,9 @@
       "systemOs": "Android 12",
       "storage": "16GB storage, microSDXC",
       "charger": "",
-      "body": "200g, 9.2mm thickness"
+      "body": "200g, 9.2mm thickness",
+      "price": 1982,
+      "type": "phone"
     },
     {
       "itemName": "HTC U23",
@@ -3555,7 +3861,9 @@
       "systemOs": "Android 13",
       "storage": "128GB storage, microSDXC",
       "charger": "30W15W",
-      "body": "202g, 8.9mm thickness"
+      "body": "202g, 8.9mm thickness",
+      "price": 1370,
+      "type": "phone"
     },
     {
       "itemName": "HTC U23 Pro",
@@ -3579,7 +3887,9 @@
       "systemOs": "Android 13",
       "storage": "256GB storage, microSDXC",
       "charger": "30W15W",
-      "body": "205g, 8.9mm thickness"
+      "body": "205g, 8.9mm thickness",
+      "price": 898,
+      "type": "phone"
     },
     {
       "itemName": "HTC A103 Plus",
@@ -3598,7 +3908,9 @@
       "systemOs": "Android 13",
       "storage": "64GB storage, microSDXC",
       "charger": "10W",
-      "body": "430g, 7.9mm thickness"
+      "body": "430g, 7.9mm thickness",
+      "price": 1983,
+      "type": "phone"
     },
     {
       "itemName": "HTC A103",
@@ -3620,7 +3932,9 @@
       "systemOs": "Android 13",
       "storage": "64GB storage, microSDXC",
       "charger": "10W",
-      "body": "440g, 8.5mm thickness"
+      "body": "440g, 8.5mm thickness",
+      "price": 990,
+      "type": "phone"
     },
     {
       "itemName": "HTC A102",
@@ -3642,7 +3956,9 @@
       "systemOs": "Android 12",
       "storage": "128GB storage, microSDXC",
       "charger": "18W",
-      "body": "533g, 7.9mm thickness"
+      "body": "533g, 7.9mm thickness",
+      "price": 1609,
+      "type": "phone"
     },
     {
       "itemName": "HTC A101",
@@ -3664,7 +3980,9 @@
       "systemOs": "Android 11",
       "storage": "128GB storage, microSDXC",
       "charger": "10W",
-      "body": "530g, 8.4mm thickness"
+      "body": "530g, 8.4mm thickness",
+      "price": 101,
+      "type": "phone"
     },
     {
       "itemName": "HTC Wildfire E2 Play",
@@ -3685,7 +4003,9 @@
       "systemOs": "Android 12",
       "storage": "128GB storage, microSDXC",
       "charger": "10W",
-      "body": "210g, 9.3mm thickness"
+      "body": "210g, 9.3mm thickness",
+      "price": 1860,
+      "type": "phone"
     },
     {
       "itemName": "HTC Wildfire E3 lite",
@@ -3707,7 +4027,9 @@
       "systemOs": "Android 12",
       "storage": "64GB/32GB storage, microSDXC",
       "charger": "10W",
-      "body": "218g, 9.2mm thickness"
+      "body": "218g, 9.2mm thickness",
+      "price": 365,
+      "type": "phone"
     },
     {
       "itemName": "HTC Wildfire E plus",
@@ -3728,7 +4050,9 @@
       "systemOs": "Android 12",
       "storage": "32GB storage, microSDXC",
       "charger": "",
-      "body": "190g, 8.8mm thickness"
+      "body": "190g, 8.8mm thickness",
+      "price": 1813,
+      "type": "phone"
     },
     {
       "itemName": "HTC Desire 22 Pro",
@@ -3749,7 +4073,9 @@
       "systemOs": "Android 12",
       "storage": "128GB storage, microSDXC",
       "charger": "",
-      "body": "205.5g, 9.4mm thickness"
+      "body": "205.5g, 9.4mm thickness",
+      "price": 331,
+      "type": "phone"
     },
     {
       "itemName": "HTC Wildfire E2 Plus",
@@ -3770,7 +4096,9 @@
       "systemOs": "Android 11",
       "storage": "64GB storage, microSDXC",
       "charger": "10W",
-      "body": "210g, 9.3mm thickness"
+      "body": "210g, 9.3mm thickness",
+      "price": 160,
+      "type": "phone"
     },
     {
       "itemName": "HTC Wildfire E3",
@@ -3792,7 +4120,9 @@
       "systemOs": "Android 10",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "10W",
-      "body": "186g, 9mm thickness"
+      "body": "186g, 9mm thickness",
+      "price": 273,
+      "type": "phone"
     },
     {
       "itemName": "HTC Desire 21 Pro 5G",
@@ -3814,7 +4144,9 @@
       "systemOs": "Android 10",
       "storage": "128GB storage, microSDXC",
       "charger": "18W",
-      "body": "205g, 9.4mm thickness"
+      "body": "205g, 9.4mm thickness",
+      "price": 273,
+      "type": "phone"
     },
     {
       "itemName": "HTC Desire 20+",
@@ -3836,7 +4168,9 @@
       "systemOs": "Android 10",
       "storage": "128GB storage, microSDXC",
       "charger": "15W",
-      "body": "203g, 9mm thickness"
+      "body": "203g, 9mm thickness",
+      "price": 1706,
+      "type": "phone"
     },
     {
       "itemName": "HTC Wildfire E1 lite",
@@ -3857,7 +4191,9 @@
       "systemOs": "Android 10",
       "storage": "16GB storage, microSDHC",
       "charger": "",
-      "body": "160g, 8.9mm thickness"
+      "body": "160g, 8.9mm thickness",
+      "price": 1628,
+      "type": "phone"
     },
     {
       "itemName": "HTC Wildfire E2",
@@ -3876,7 +4212,9 @@
       "systemOs": "Android 10",
       "storage": "64GB storage, microSDXC",
       "charger": "10W",
-      "body": "173.5g, 9mm thickness"
+      "body": "173.5g, 9mm thickness",
+      "price": 1069,
+      "type": "phone"
     },
     {
       "itemName": "HTC Wildfire E1 plus",
@@ -3898,7 +4236,9 @@
       "systemOs": "Android 9.0",
       "storage": "32GB storage, microSDXC",
       "charger": "",
-      "body": "165g, 8.9mm thickness"
+      "body": "165g, 8.9mm thickness",
+      "price": 531,
+      "type": "phone"
     },
     {
       "itemName": "HTC Wildfire E1",
@@ -3920,7 +4260,9 @@
       "systemOs": "Android 9.0",
       "storage": "32GB storage, microSDXC",
       "charger": "",
-      "body": "165g, 8.9mm thickness"
+      "body": "165g, 8.9mm thickness",
+      "price": 1105,
+      "type": "phone"
     },
     {
       "itemName": "HTC Wildfire E",
@@ -3939,7 +4281,9 @@
       "systemOs": "Android 9.0",
       "storage": "32GB storage, microSDXC",
       "charger": "",
-      "body": "160g, 8.9mm thickness"
+      "body": "160g, 8.9mm thickness",
+      "price": 1647,
+      "type": "phone"
     },
     {
       "itemName": "HTC U20 5G",
@@ -3958,7 +4302,9 @@
       "systemOs": "Android 10",
       "storage": "256GB storage, microSDXC",
       "charger": "18W",
-      "body": "215.5g, 9.4mm thickness"
+      "body": "215.5g, 9.4mm thickness",
+      "price": 469,
+      "type": "phone"
     },
     {
       "itemName": "HTC Desire 20 Pro",
@@ -3979,7 +4325,9 @@
       "systemOs": "Android 10",
       "storage": "128GB storage, microSDXC",
       "charger": "15W",
-      "body": "201g, 9.4mm thickness"
+      "body": "201g, 9.4mm thickness",
+      "price": 160,
+      "type": "phone"
     },
     {
       "itemName": "HTC Desire 19s",
@@ -3998,7 +4346,9 @@
       "systemOs": "Android 9",
       "storage": "32GB storage, microSDXC",
       "charger": "10W",
-      "body": "170g, 8.5mm thickness"
+      "body": "170g, 8.5mm thickness",
+      "price": 437,
+      "type": "phone"
     },
     {
       "itemName": "HTC Exodus 1s",
@@ -4017,7 +4367,9 @@
       "systemOs": "Android 8.1",
       "storage": "64GB storage, no card slot",
       "charger": "",
-      "body": "150g, 8.3mm thickness"
+      "body": "150g, 8.3mm thickness",
+      "price": 448,
+      "type": "phone"
     },
     {
       "itemName": "HTC Wildfire X",
@@ -4039,7 +4391,9 @@
       "systemOs": "Android 9",
       "storage": "32GB/128GB storage, microSDXC",
       "charger": "10W",
-      "body": "160g, 8mm thickness"
+      "body": "160g, 8mm thickness",
+      "price": 493,
+      "type": "phone"
     },
     {
       "itemName": "HTC U19e",
@@ -4058,7 +4412,9 @@
       "systemOs": "Android 9.0, HTC Sense",
       "storage": "128GB storage, microSDXC",
       "charger": "18W",
-      "body": "180g, 8mm thickness"
+      "body": "180g, 8mm thickness",
+      "price": 1268,
+      "type": "phone"
     },
     {
       "itemName": "HTC Desire 19+",
@@ -4080,7 +4436,9 @@
       "systemOs": "Android 9",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "10W",
-      "body": "170g, 8.5mm thickness"
+      "body": "170g, 8.5mm thickness",
+      "price": 1028,
+      "type": "phone"
     },
     {
       "itemName": "HTC Desire 12s",
@@ -4102,7 +4460,9 @@
       "systemOs": "Android 8.1",
       "storage": "32GB/64GB storage, microSDXC",
       "charger": "",
-      "body": "150g, 8.3mm thickness"
+      "body": "150g, 8.3mm thickness",
+      "price": 964,
+      "type": "phone"
     },
     {
       "itemName": "HTC Exodus 1",
@@ -4124,7 +4484,9 @@
       "systemOs": "Android 8.1",
       "storage": "128GB storage, no card slot",
       "charger": "18W",
-      "body": "188g, 8.7mm thickness"
+      "body": "188g, 8.7mm thickness",
+      "price": 327,
+      "type": "phone"
     },
     {
       "itemName": "HTC U12 life",
@@ -4146,7 +4508,9 @@
       "systemOs": "Android 8.1",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "10W",
-      "body": "175g, 8.3mm thickness"
+      "body": "175g, 8.3mm thickness",
+      "price": 1579,
+      "type": "phone"
     },
     {
       "itemName": "HTC U12+",
@@ -4169,7 +4533,9 @@
       "systemOs": "Android 8.0, up to Android 9.0, Sense UI",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "18W",
-      "body": "188g, 8.7mm thickness"
+      "body": "188g, 8.7mm thickness",
+      "price": 1434,
+      "type": "phone"
     },
     {
       "itemName": "HTC Desire 12+",
@@ -4192,7 +4558,9 @@
       "systemOs": "Android 8.0",
       "storage": "32GB storage, microSDXC",
       "charger": "",
-      "body": "157.5g, 8.4mm thickness"
+      "body": "157.5g, 8.4mm thickness",
+      "price": 231,
+      "type": "phone"
     },
     {
       "itemName": "HTC Desire 12",
@@ -4215,7 +4583,9 @@
       "systemOs": "Android 7.x",
       "storage": "16GB/32GB storage, microSDXC",
       "charger": "",
-      "body": "137g, 8.2mm thickness"
+      "body": "137g, 8.2mm thickness",
+      "price": 1846,
+      "type": "phone"
     },
     {
       "itemName": "HTC U11 Eyes",
@@ -4238,7 +4608,9 @@
       "systemOs": "Android 8.0, Sense UI",
       "storage": "64GB storage, microSDXC",
       "charger": "18W",
-      "body": "185g, 8.5mm thickness"
+      "body": "185g, 8.5mm thickness",
+      "price": 374,
+      "type": "phone"
     },
     {
       "itemName": "HTC U11+",
@@ -4262,7 +4634,9 @@
       "systemOs": "Android 8.0, up to Android 9.0, Sense UI",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "18W",
-      "body": "188g, 8.5mm thickness"
+      "body": "188g, 8.5mm thickness",
+      "price": 1221,
+      "type": "phone"
     },
     {
       "itemName": "HTC U11 Life",
@@ -4286,7 +4660,9 @@
       "systemOs": "Android 8.0, up to Android 9.0, Android One",
       "storage": "32GB/64GB storage, microSDXC",
       "charger": "",
-      "body": "142g, 8.1mm thickness"
+      "body": "142g, 8.1mm thickness",
+      "price": 783,
+      "type": "phone"
     },
     {
       "itemName": "HTC U11",
@@ -4310,7 +4686,9 @@
       "systemOs": "Android 7.1, up to Android 9.0, Sense UI",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "18W",
-      "body": "169g, 7.9mm thickness"
+      "body": "169g, 7.9mm thickness",
+      "price": 451,
+      "type": "phone"
     },
     {
       "itemName": "HTC One X10",
@@ -4332,7 +4710,9 @@
       "systemOs": "Android OS",
       "storage": "32GB storage, microSDXC",
       "charger": "",
-      "body": "175g, 8.2mm thickness"
+      "body": "175g, 8.2mm thickness",
+      "price": 245,
+      "type": "phone"
     },
     {
       "itemName": "HTC U Ultra",
@@ -4356,7 +4736,9 @@
       "systemOs": "Android 7.0, up to Android 8.0",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "18W",
-      "body": "170g, 8mm thickness"
+      "body": "170g, 8mm thickness",
+      "price": 600,
+      "type": "phone"
     },
     {
       "itemName": "HTC U Play",
@@ -4380,7 +4762,9 @@
       "systemOs": "Android 6.0",
       "storage": "32GB/64GB storage, microSDXC",
       "charger": "10W",
-      "body": "145g, 8mm thickness"
+      "body": "145g, 8mm thickness",
+      "price": 1831,
+      "type": "phone"
     },
     {
       "itemName": "HTC 10 evo",
@@ -4404,7 +4788,9 @@
       "systemOs": "Android 7.0",
       "storage": "32GB/64GB storage, microSDXC",
       "charger": "18W",
-      "body": "174g, 8.1mm thickness"
+      "body": "174g, 8.1mm thickness",
+      "price": 1626,
+      "type": "phone"
     },
     {
       "itemName": "HTC Desire 650",
@@ -4426,7 +4812,9 @@
       "systemOs": "Android 6.0, Sense UI",
       "storage": "16GB storage, microSDXC",
       "charger": "",
-      "body": "140g, 8.4mm thickness"
+      "body": "140g, 8.4mm thickness",
+      "price": 521,
+      "type": "phone"
     },
     {
       "itemName": "HTC Desire 10 Pro",
@@ -4448,7 +4836,9 @@
       "systemOs": "Android 6.0",
       "storage": "64GB storage, microSDXC",
       "charger": "10W",
-      "body": "165g, 7.9mm thickness"
+      "body": "165g, 7.9mm thickness",
+      "price": 636,
+      "type": "phone"
     },
     {
       "itemName": "HTC Desire 10 Compact",
@@ -4470,7 +4860,9 @@
       "systemOs": "Android 6.0",
       "storage": "32GB storage, microSDXC",
       "charger": "",
-      "body": "148g, 7.5mm thickness"
+      "body": "148g, 7.5mm thickness",
+      "price": 182,
+      "type": "phone"
     },
     {
       "itemName": "HTC One A9s",
@@ -4493,7 +4885,9 @@
       "systemOs": "Android 6.0, Sense UI",
       "storage": "16GB/32GB storage, microSDXC",
       "charger": "10W",
-      "body": "149.8g, 8mm thickness"
+      "body": "149.8g, 8mm thickness",
+      "price": 1164,
+      "type": "phone"
     },
     {
       "itemName": "HTC Desire 10 Lifestyle",
@@ -4515,7 +4909,9 @@
       "systemOs": "Android 6.0",
       "storage": "32GB storage, microSDXC",
       "charger": "",
-      "body": "155g, 7.7mm thickness"
+      "body": "155g, 7.7mm thickness",
+      "price": 711,
+      "type": "phone"
     },
     {
       "itemName": "HTC Desire 728 Ultra",
@@ -4536,7 +4932,9 @@
       "systemOs": "Android 5.1.1, Sense UI",
       "storage": "32GB storage, microSDXC",
       "charger": "",
-      "body": "153g, 7.9mm thickness"
+      "body": "153g, 7.9mm thickness",
+      "price": 516,
+      "type": "phone"
     },
     {
       "itemName": "HTC Desire 628",
@@ -4558,7 +4956,9 @@
       "systemOs": "Android 5.1, Sense 7 UI",
       "storage": "32GB storage, microSDXC",
       "charger": "",
-      "body": "142g, 8.1mm thickness"
+      "body": "142g, 8.1mm thickness",
+      "price": 1589,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Redmi Pad Pro",
@@ -4581,7 +4981,9 @@
       "systemOs": "Android 14, HyperOS",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "33W",
-      "body": "571g, 7.5mm thickness"
+      "body": "571g, 7.5mm thickness",
+      "price": 871,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Redmi Turbo 3",
@@ -4604,7 +5006,9 @@
       "systemOs": "Android 14, HyperOS",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "90W",
-      "body": "179g, 7.8mm thickness"
+      "body": "179g, 7.8mm thickness",
+      "price": 754,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Poco C61",
@@ -4626,7 +5030,9 @@
       "systemOs": "Android 14, MIUI",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "10W",
-      "body": "199g, 8.3mm thickness"
+      "body": "199g, 8.3mm thickness",
+      "price": 1477,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Civi 4 Pro",
@@ -4650,7 +5056,9 @@
       "systemOs": "Android 14, HyperOS",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "67W",
-      "body": "177.6 or 179.3g or 180.9g, 7.5mm thickness"
+      "body": "177.6 or 179.3g or 180.9g, 7.5mm thickness",
+      "price": 1979,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Poco X6 Neo",
@@ -4674,7 +5082,9 @@
       "systemOs": "Android 13",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "33W",
-      "body": "175g, 7.7mm thickness"
+      "body": "175g, 7.7mm thickness",
+      "price": 894,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi 14",
@@ -4699,7 +5109,9 @@
       "systemOs": "Android 14, HyperOS",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "90W50W",
-      "body": "188g or 193g, 8.2mm thickness"
+      "body": "188g or 193g, 8.2mm thickness",
+      "price": 1912,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi 14 Ultra",
@@ -4724,7 +5136,9 @@
       "systemOs": "Android 14, HyperOS",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "90W80W",
-      "body": "219.8 / 224.4 / 229.5g, 9.2mm thickness"
+      "body": "219.8 / 224.4 / 229.5g, 9.2mm thickness",
+      "price": 574,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Pad 6S Pro 12.4",
@@ -4746,7 +5160,9 @@
       "systemOs": "Android 14, HyperOS",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "120W",
-      "body": "590g, 6.3mm thickness"
+      "body": "590g, 6.3mm thickness",
+      "price": 423,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Watch 2",
@@ -4769,7 +5185,9 @@
       "systemOs": "Android Wear OS",
       "storage": "32GB storage, no card slot",
       "charger": "",
-      "body": "36.8g, 11.8mm thickness"
+      "body": "36.8g, 11.8mm thickness",
+      "type": "watch",
+      "price": 86
     },
     {
       "itemName": "Xiaomi Watch S3",
@@ -4793,7 +5211,9 @@
       "systemOs": "HyperOS",
       "storage": "No card slot",
       "charger": "",
-      "body": "44g, 12mm thickness"
+      "body": "44g, 12mm thickness",
+      "type": "watch",
+      "price": 149
     },
     {
       "itemName": "Xiaomi Redmi A3",
@@ -4815,7 +5235,9 @@
       "systemOs": "Android 14, MIUI",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "10W",
-      "body": "193g or 199g, 8.3mm thickness"
+      "body": "193g or 199g, 8.3mm thickness",
+      "price": 1286,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Redmi Note 13 Pro 4G",
@@ -4839,7 +5261,9 @@
       "systemOs": "Android 13, MIUI 14",
       "storage": "128GB/256GB/512GB storage, microSDXC",
       "charger": "67W",
-      "body": "188g, 8mm thickness"
+      "body": "188g, 8mm thickness",
+      "price": 726,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Redmi Note 13 4G",
@@ -4863,7 +5287,9 @@
       "systemOs": "Android 13, MIUI 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "33W",
-      "body": "188.5g, 8mm thickness"
+      "body": "188.5g, 8mm thickness",
+      "price": 1384,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Redmi Note 13 Pro+",
@@ -4888,7 +5314,9 @@
       "systemOs": "Android 13, up to Android 14, HyperOS",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "120W",
-      "body": "199g or 204.5g, 8.9mm thickness"
+      "body": "199g or 204.5g, 8.9mm thickness",
+      "price": 1594,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Redmi Note 13 Pro",
@@ -4912,7 +5340,9 @@
       "systemOs": "Android 13, up to Android 14, HyperOS",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "67W",
-      "body": "187g, 8mm thickness"
+      "body": "187g, 8mm thickness",
+      "price": 107,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Redmi Note 13",
@@ -4937,7 +5367,9 @@
       "systemOs": "Android 13, up to Android 14, HyperOS",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "33W",
-      "body": "174.5g, 7.6mm thickness"
+      "body": "174.5g, 7.6mm thickness",
+      "price": 1698,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Poco X6 Pro",
@@ -4961,7 +5393,9 @@
       "systemOs": "Android 14, HyperOS",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "67W",
-      "body": "186g or 190g, 8.3mm thickness"
+      "body": "186g or 190g, 8.3mm thickness",
+      "price": 1870,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Poco X6",
@@ -4985,7 +5419,9 @@
       "systemOs": "Android 13, MIUI 14, planned upgrade to 14",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "67W",
-      "body": "181g, 8mm thickness"
+      "body": "181g, 8mm thickness",
+      "price": 1047,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Poco M6 Pro",
@@ -5009,7 +5445,9 @@
       "systemOs": "Android 13, MIUI 14, planned upgrade to 14",
       "storage": "256GB/512GB storage, microSDXC",
       "charger": "67W",
-      "body": "179g, 8mm thickness"
+      "body": "179g, 8mm thickness",
+      "price": 1091,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Poco M6",
@@ -5033,7 +5471,9 @@
       "systemOs": "Android 13, MIUI 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "18W",
-      "body": "195g, 8.1mm thickness"
+      "body": "195g, 8.1mm thickness",
+      "price": 181,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Redmi 13R",
@@ -5056,7 +5496,9 @@
       "systemOs": "Android 13, MIUI 14",
       "storage": "128GB storage, microSDXC",
       "charger": "18W",
-      "body": "195g, 8.2mm thickness"
+      "body": "195g, 8.2mm thickness",
+      "price": 459,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Redmi 13C 5G",
@@ -5078,7 +5520,9 @@
       "systemOs": "Android 13, MIUI 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "18W",
-      "body": "192g, 8.1mm thickness"
+      "body": "192g, 8.1mm thickness",
+      "price": 456,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Redmi K70 Pro",
@@ -5102,7 +5546,9 @@
       "systemOs": "Android 14, HyperOS",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "120W",
-      "body": "209g, 8.2mm thickness"
+      "body": "209g, 8.2mm thickness",
+      "price": 334,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Redmi K70",
@@ -5124,7 +5570,9 @@
       "systemOs": "Android 14, HyperOS",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "120W",
-      "body": "209g, 8.2mm thickness"
+      "body": "209g, 8.2mm thickness",
+      "price": 421,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Redmi K70E",
@@ -5147,7 +5595,9 @@
       "systemOs": "Android 14, HyperOS",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "90W",
-      "body": "198g, 8.1mm thickness"
+      "body": "198g, 8.1mm thickness",
+      "price": 1943,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Redmi Watch 4",
@@ -5169,7 +5619,9 @@
       "systemOs": "HyperOS",
       "storage": "Unspecified storage storage, no card slot",
       "charger": "",
-      "body": "31.5g, 10.5mm thickness"
+      "body": "31.5g, 10.5mm thickness",
+      "type": "watch",
+      "price": 57
     },
     {
       "itemName": "Xiaomi Redmi Note 13R Pro",
@@ -5191,7 +5643,9 @@
       "systemOs": "Android 13, MIUI 14",
       "storage": "256GB storage, no card slot",
       "charger": "33W",
-      "body": "175g, 7.7mm thickness"
+      "body": "175g, 7.7mm thickness",
+      "price": 1984,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Redmi 13C",
@@ -5214,7 +5668,9 @@
       "systemOs": "Android 13, MIUI 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "18W",
-      "body": "192g, 8.1mm thickness"
+      "body": "192g, 8.1mm thickness",
+      "price": 528,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Poco C65",
@@ -5238,7 +5694,9 @@
       "systemOs": "Android 13, MIUI 14 for POCO",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "18W",
-      "body": "192g, 8.1mm thickness"
+      "body": "192g, 8.1mm thickness",
+      "price": 177,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi 14 Pro",
@@ -5262,7 +5720,9 @@
       "systemOs": "Android 14, HyperOS",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "120W50W",
-      "body": "223g or 230g, 8.5mm thickness"
+      "body": "223g or 230g, 8.5mm thickness",
+      "price": 1138,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi 13T Pro",
@@ -5286,7 +5746,9 @@
       "systemOs": "Android 13, up to Android 14, HyperOS",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "120W",
-      "body": "200g or 206g, 8.5mm thickness"
+      "body": "200g or 206g, 8.5mm thickness",
+      "price": 572,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi 13T",
@@ -5310,7 +5772,9 @@
       "systemOs": "Android 13, up to Android 14, HyperOS",
       "storage": "256GB storage, no card slot",
       "charger": "67W",
-      "body": "193g or 197g, 8.5mm thickness"
+      "body": "193g or 197g, 8.5mm thickness",
+      "price": 889,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Watch 2 Pro",
@@ -5334,7 +5798,9 @@
       "systemOs": "Android Wear OS 3.5",
       "storage": "32GB storage, no card slot",
       "charger": "",
-      "body": "54.5g, 11.8mm thickness"
+      "body": "54.5g, 11.8mm thickness",
+      "type": "watch",
+      "price": 406
     },
     {
       "itemName": "Xiaomi Redmi Note 13 (China)",
@@ -5357,7 +5823,9 @@
       "systemOs": "Android 13, MIUI 14",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "33W",
-      "body": "173.5g, 7.6mm thickness"
+      "body": "173.5g, 7.6mm thickness",
+      "price": 1721,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Redmi Pad SE",
@@ -5381,7 +5849,9 @@
       "systemOs": "Android 13, MIUI Pad 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "10W",
-      "body": "478g, 7.4mm thickness"
+      "body": "478g, 7.4mm thickness",
+      "price": 857,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Redmi K60 Ultra",
@@ -5403,7 +5873,9 @@
       "systemOs": "Android 13, MIUI 14",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "120W",
-      "body": "204g, 8.5mm thickness"
+      "body": "204g, 8.5mm thickness",
+      "price": 340,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Mix Fold 3",
@@ -5427,7 +5899,9 @@
       "systemOs": "Android 13, MIUI Fold 14",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "67W50W",
-      "body": "255g or 259g, 5.3mm thickness"
+      "body": "255g or 259g, 5.3mm thickness",
+      "price": 1482,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Pad 6 Max 14",
@@ -5450,7 +5924,9 @@
       "systemOs": "Android 13, MIUI Pad 14",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "67W",
-      "body": "750g, 6.5mm thickness"
+      "body": "750g, 6.5mm thickness",
+      "price": 120,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Poco M6 Pro 5G",
@@ -5472,7 +5948,9 @@
       "systemOs": "Android 13, MIUI 14",
       "storage": "64GB/128GB/256GB storage, microSDXC",
       "charger": "18W",
-      "body": "199g, 8.2mm thickness"
+      "body": "199g, 8.2mm thickness",
+      "price": 880,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Redmi Watch 3 Active",
@@ -5493,7 +5971,9 @@
       "systemOs": "Proprietary OS",
       "storage": "Unspecified storage storage, no card slot",
       "charger": "",
-      "body": "42g, 10.9mm thickness"
+      "body": "42g, 10.9mm thickness",
+      "type": "watch",
+      "price": 301
     },
     {
       "itemName": "Xiaomi Redmi 12 5G",
@@ -5517,7 +5997,9 @@
       "systemOs": "Android 13, MIUI 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "18W",
-      "body": "199g, 8.2mm thickness"
+      "body": "199g, 8.2mm thickness",
+      "price": 1280,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Redmi Note 12R",
@@ -5540,7 +6022,9 @@
       "systemOs": "Android 13, MIUI 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "18W",
-      "body": "199g, 8.2mm thickness"
+      "body": "199g, 8.2mm thickness",
+      "price": 390,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Redmi Note 12R Pro",
@@ -5563,7 +6047,9 @@
       "systemOs": "Android 13, MIUI 13",
       "storage": "256GB storage, microSDXC",
       "charger": "33W",
-      "body": "188g, 8mm thickness"
+      "body": "188g, 8mm thickness",
+      "price": 445,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Redmi 12",
@@ -5587,7 +6073,9 @@
       "systemOs": "Android 13, MIUI 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "18W",
-      "body": "198.5g, 8.2mm thickness"
+      "body": "198.5g, 8.2mm thickness",
+      "price": 195,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Redmi Note 12T Pro",
@@ -5609,7 +6097,9 @@
       "systemOs": "Android 13, MIUI 14",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "67W",
-      "body": "200g, 8.9mm thickness"
+      "body": "200g, 8.9mm thickness",
+      "price": 180,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Civi 3",
@@ -5628,7 +6118,9 @@
       "systemOs": "Android 13, MIUI 14",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "67W",
-      "body": "174g, 7.6mm thickness"
+      "body": "174g, 7.6mm thickness",
+      "price": 512,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Poco F5 Pro",
@@ -5652,7 +6144,9 @@
       "systemOs": "Android 13, MIUI 14 for POCO",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "67W30W",
-      "body": "204g, 8.6mm thickness"
+      "body": "204g, 8.6mm thickness",
+      "price": 655,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Poco F5",
@@ -5676,7 +6170,9 @@
       "systemOs": "Android 13, up to Android 14, HyperOS",
       "storage": "256GB storage, no card slot",
       "charger": "67W",
-      "body": "181g, 7.9mm thickness"
+      "body": "181g, 7.9mm thickness",
+      "price": 293,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi 13 Ultra",
@@ -5701,7 +6197,9 @@
       "systemOs": "Android 13, up to Android 14, HyperOS",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "90W50W",
-      "body": "227g, 9.1mm thickness"
+      "body": "227g, 9.1mm thickness",
+      "price": 1231,
+      "type": "phone"
     },
     {
       "itemName": "Xiaomi Pad 6 Pro",
@@ -5723,7 +6221,9 @@
       "systemOs": "Android 13, MIUI 14",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "67W",
-      "body": "490g, 6.5mm thickness"
+      "body": "490g, 6.5mm thickness",
+      "price": 1316,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel 8 Pro",
@@ -5747,7 +6247,9 @@
       "systemOs": "Android 14",
       "storage": "128GB/256GB/1TB storage, no card slot",
       "charger": "30W23W",
-      "body": "213g, 8.8mm thickness"
+      "body": "213g, 8.8mm thickness",
+      "price": 1944,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel 8",
@@ -5771,7 +6273,9 @@
       "systemOs": "Android 14",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "27W18W",
-      "body": "187g, 8.9mm thickness"
+      "body": "187g, 8.9mm thickness",
+      "price": 458,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel Watch 2",
@@ -5796,7 +6300,9 @@
       "systemOs": "Android Wear OS 4",
       "storage": "32GB storage, no card slot",
       "charger": "",
-      "body": "31g, 12.3mm thickness"
+      "body": "31g, 12.3mm thickness",
+      "type": "watch",
+      "price": 323
     },
     {
       "itemName": "Google Pixel Fold",
@@ -5820,7 +6326,9 @@
       "systemOs": "Android 13, up to Android 14",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "PD3.015W",
-      "body": "283g, 5.8mm thickness"
+      "body": "283g, 5.8mm thickness",
+      "price": 1361,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel Tablet",
@@ -5842,7 +6350,9 @@
       "systemOs": "Android 13, up to Android 14",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "15W",
-      "body": "493g, 8.1mm thickness"
+      "body": "493g, 8.1mm thickness",
+      "type": "tablet",
+      "price": 625
     },
     {
       "itemName": "Google Pixel 7a",
@@ -5866,7 +6376,9 @@
       "systemOs": "Android 13, up to Android 14",
       "storage": "128GB storage, no card slot",
       "charger": "20W8W",
-      "body": "193.5g, 9mm thickness"
+      "body": "193.5g, 9mm thickness",
+      "price": 385,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel 7 Pro",
@@ -5890,7 +6402,9 @@
       "systemOs": "Android 13, up to Android 14",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "23W23W",
-      "body": "212g, 8.9mm thickness"
+      "body": "212g, 8.9mm thickness",
+      "price": 494,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel 7",
@@ -5914,7 +6428,9 @@
       "systemOs": "Android 13, up to Android 14",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "20W21W",
-      "body": "197g, 8.7mm thickness"
+      "body": "197g, 8.7mm thickness",
+      "price": 760,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel Watch",
@@ -5937,7 +6453,9 @@
       "systemOs": "Android Wear OS 3.5",
       "storage": "32GB storage, no card slot",
       "charger": "5W",
-      "body": "36g, 12.3mm thickness"
+      "body": "36g, 12.3mm thickness",
+      "type": "watch",
+      "price": 349
     },
     {
       "itemName": "Google Pixel 6a",
@@ -5961,7 +6479,9 @@
       "systemOs": "Android 12, up to Android 14",
       "storage": "128GB storage, no card slot",
       "charger": "18W",
-      "body": "178g, 8.9mm thickness"
+      "body": "178g, 8.9mm thickness",
+      "price": 572,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel 6 Pro",
@@ -5985,7 +6505,9 @@
       "systemOs": "Android 12, up to Android 14",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "30W23W",
-      "body": "210g, 8.9mm thickness"
+      "body": "210g, 8.9mm thickness",
+      "price": 1162,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel 6",
@@ -6009,7 +6531,9 @@
       "systemOs": "Android 12, up to Android 14",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "PD3.021W",
-      "body": "207g, 8.9mm thickness"
+      "body": "207g, 8.9mm thickness",
+      "price": 1822,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel 5a 5G",
@@ -6033,7 +6557,9 @@
       "systemOs": "Android 11, up to Android 14",
       "storage": "128GB storage, no card slot",
       "charger": "18W",
-      "body": "183g, 8.8mm thickness"
+      "body": "183g, 8.8mm thickness",
+      "price": 361,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel 5",
@@ -6057,7 +6583,9 @@
       "systemOs": "Android 11, up to Android 14",
       "storage": "128GB storage, no card slot",
       "charger": "18W12W",
-      "body": "151g, 8mm thickness"
+      "body": "151g, 8mm thickness",
+      "price": 1946,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel 4a 5G",
@@ -6078,7 +6606,9 @@
       "systemOs": "Android 11, up to Android 14",
       "storage": "128GB storage, no card slot",
       "charger": "18W",
-      "body": "168g (5G Sub-6); 171g ( 5G Sub-6 and mmWave), 8.2mm thickness"
+      "body": "168g (5G Sub-6); 171g ( 5G Sub-6 and mmWave), 8.2mm thickness",
+      "price": 187,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel 4a",
@@ -6102,7 +6632,9 @@
       "systemOs": "Android 10, up to Android 13",
       "storage": "128GB storage, no card slot",
       "charger": "18W",
-      "body": "143g, 8.2mm thickness"
+      "body": "143g, 8.2mm thickness",
+      "price": 1961,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel 4 XL",
@@ -6127,7 +6659,9 @@
       "systemOs": "Android 10, up to Android 13",
       "storage": "64GB/128GB storage, no card slot",
       "charger": "18W5W",
-      "body": "193g, 8.2mm thickness"
+      "body": "193g, 8.2mm thickness",
+      "price": 728,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel 4",
@@ -6152,7 +6686,9 @@
       "systemOs": "Android 10, up to Android 13",
       "storage": "64GB/128GB storage, no card slot",
       "charger": "18W5W",
-      "body": "162g, 8.2mm thickness"
+      "body": "162g, 8.2mm thickness",
+      "price": 1960,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel 3a XL",
@@ -6175,7 +6711,9 @@
       "systemOs": "Android 9.0, up to Android 12",
       "storage": "64GB storage, no card slot",
       "charger": "18W",
-      "body": "167g, 8.2mm thickness"
+      "body": "167g, 8.2mm thickness",
+      "price": 1235,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel 3a",
@@ -6198,7 +6736,9 @@
       "systemOs": "Android 9.0, up to Android 12",
       "storage": "64GB storage, no card slot",
       "charger": "18W",
-      "body": "147g, 8.2mm thickness"
+      "body": "147g, 8.2mm thickness",
+      "price": 682,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel 3 XL",
@@ -6222,7 +6762,9 @@
       "systemOs": "Android 9.0, up to Android 12",
       "storage": "64GB/128GB storage, no card slot",
       "charger": "18W5W",
-      "body": "184g, 7.9mm thickness"
+      "body": "184g, 7.9mm thickness",
+      "price": 1324,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel 3",
@@ -6246,7 +6788,9 @@
       "systemOs": "Android 9.0, up to Android 12",
       "storage": "64GB/128GB storage, no card slot",
       "charger": "18W5W",
-      "body": "148g, 7.9mm thickness"
+      "body": "148g, 7.9mm thickness",
+      "price": 1233,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel 2",
@@ -6270,7 +6814,9 @@
       "systemOs": "Android 8.0, up to Android 11",
       "storage": "64GB/128GB storage, no card slot",
       "charger": "11W",
-      "body": "143g, 7.8mm thickness"
+      "body": "143g, 7.8mm thickness",
+      "price": 332,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel 2 XL",
@@ -6294,7 +6840,9 @@
       "systemOs": "Android 8.0, up to Android 11",
       "storage": "64GB/128GB storage, no card slot",
       "charger": "11W",
-      "body": "175g, 7.9mm thickness"
+      "body": "175g, 7.9mm thickness",
+      "price": 824,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel XL",
@@ -6318,7 +6866,9 @@
       "systemOs": "Android 7.1, up to Android 10",
       "storage": "32GB/128GB storage, no card slot",
       "charger": "18W",
-      "body": "168g, 8.5mm thickness"
+      "body": "168g, 8.5mm thickness",
+      "price": 698,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel",
@@ -6342,7 +6892,9 @@
       "systemOs": "Android 7.1, up to Android 10",
       "storage": "32GB/128GB storage, no card slot",
       "charger": "18W",
-      "body": "143g, 8.5mm thickness"
+      "body": "143g, 8.5mm thickness",
+      "price": 1776,
+      "type": "phone"
     },
     {
       "itemName": "Google Pixel C",
@@ -6365,7 +6917,9 @@
       "systemOs": "Android 6.0.1, up to Android 8.0",
       "storage": "32GB/64GB storage, no card slot",
       "charger": "",
-      "body": "517g, 7mm thickness"
+      "body": "517g, 7mm thickness",
+      "price": 1734,
+      "type": "phone"
     },
     {
       "itemName": "Honor 200 Lite",
@@ -6387,7 +6941,9 @@
       "systemOs": "Android 14, MagicOS 8",
       "storage": "256GB storage, no card slot",
       "charger": "35W",
-      "body": "166g, 6.8mm thickness"
+      "body": "166g, 6.8mm thickness",
+      "price": 817,
+      "type": "phone"
     },
     {
       "itemName": "Honor 90 Smart",
@@ -6410,7 +6966,9 @@
       "systemOs": "Android 13, Magic OS 7.2",
       "storage": "128GB storage, no card slot",
       "charger": "35W",
-      "body": "199g, 8.2mm thickness"
+      "body": "199g, 8.2mm thickness",
+      "price": 1276,
+      "type": "phone"
     },
     {
       "itemName": "Honor X7b 5G",
@@ -6432,7 +6990,9 @@
       "systemOs": "Android 13, Magic OS 7.2",
       "storage": "256GB storage, no card slot",
       "charger": "35W",
-      "body": "199g, 8.2mm thickness"
+      "body": "199g, 8.2mm thickness",
+      "price": 567,
+      "type": "phone"
     },
     {
       "itemName": "Honor Magic6 RSR Porsche Design",
@@ -6456,7 +7016,9 @@
       "systemOs": "Android 14, MagicOS 8",
       "storage": "1TB storage, no card slot",
       "charger": "80W66W",
-      "body": "237g, 8.9mm thickness"
+      "body": "237g, 8.9mm thickness",
+      "price": 1486,
+      "type": "phone"
     },
     {
       "itemName": "Honor Magic6 Ultimate",
@@ -6478,7 +7040,9 @@
       "systemOs": "Android 14, MagicOS 8",
       "storage": "512GB/1TB storage, no card slot",
       "charger": "80W66W",
-      "body": "227g, 8.9mm thickness"
+      "body": "227g, 8.9mm thickness",
+      "price": 1602,
+      "type": "phone"
     },
     {
       "itemName": "Honor Watch GS 4",
@@ -6502,7 +7066,9 @@
       "systemOs": "Proprietary OS",
       "storage": "4GB 32MB RAM storage, no card slot",
       "charger": "",
-      "body": "44g, 10.5mm thickness"
+      "body": "44g, 10.5mm thickness",
+      "type": "watch",
+      "price": 167
     },
     {
       "itemName": "Honor Choice Watch",
@@ -6526,7 +7092,9 @@
       "systemOs": "Proprietary OS",
       "storage": "No card slot",
       "charger": "",
-      "body": "10.2mm thickness"
+      "body": "10.2mm thickness",
+      "type": "watch",
+      "price": 492
     },
     {
       "itemName": "Honor Magic V2 RSR Porsche Design",
@@ -6551,7 +7119,9 @@
       "systemOs": "Android 13, MagicOS 7.2",
       "storage": "1TB storage, no card slot",
       "charger": "66W",
-      "body": "234g, 4.7mm thickness"
+      "body": "234g, 4.7mm thickness",
+      "price": 363,
+      "type": "phone"
     },
     {
       "itemName": "Honor Magic6 Pro",
@@ -6575,7 +7145,9 @@
       "systemOs": "Android 14, MagicOS 8",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "80W66W",
-      "body": "225g or 229g, 8.9mm thickness"
+      "body": "225g or 229g, 8.9mm thickness",
+      "price": 1853,
+      "type": "phone"
     },
     {
       "itemName": "Honor Magic6",
@@ -6597,7 +7169,9 @@
       "systemOs": "Android 14, MagicOS 8",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "66W50W",
-      "body": "199g or 206g, 8.1mm thickness"
+      "body": "199g or 206g, 8.1mm thickness",
+      "price": 1096,
+      "type": "phone"
     },
     {
       "itemName": "Honor X50 GT",
@@ -6619,7 +7193,9 @@
       "systemOs": "Android 13, MagicOS 7.2",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "35W",
-      "body": "192g, 8mm thickness"
+      "body": "192g, 8mm thickness",
+      "price": 1675,
+      "type": "phone"
     },
     {
       "itemName": "Honor X50 Pro",
@@ -6642,7 +7218,9 @@
       "systemOs": "Android 14",
       "storage": "256GB storage, no card slot",
       "charger": "35W",
-      "body": "192g, 8mm thickness"
+      "body": "192g, 8mm thickness",
+      "price": 1634,
+      "type": "phone"
     },
     {
       "itemName": "Honor 90 GT",
@@ -6664,7 +7242,9 @@
       "systemOs": "Android 13, MagicOS 7.2",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "100W",
-      "body": "185g, 7.9mm thickness"
+      "body": "185g, 7.9mm thickness",
+      "price": 691,
+      "type": "phone"
     },
     {
       "itemName": "Honor Pad 9",
@@ -6688,7 +7268,9 @@
       "systemOs": "Android 13, Magic OS 7.2",
       "storage": "128GB/256GB/512GB storage, microSDXC",
       "charger": "35W",
-      "body": "555g or 568g, 6.9mm thickness"
+      "body": "555g or 568g, 6.9mm thickness",
+      "price": 564,
+      "type": "phone"
     },
     {
       "itemName": "Honor X8b",
@@ -6710,7 +7292,9 @@
       "systemOs": "Android 13, MagicOS 7.2",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "35W",
-      "body": "166g, 6.8mm thickness"
+      "body": "166g, 6.8mm thickness",
+      "price": 1419,
+      "type": "phone"
     },
     {
       "itemName": "Honor Magic6 Lite",
@@ -6733,7 +7317,9 @@
       "systemOs": "Android 13, Magic OS 7.2",
       "storage": "256GB storage, no card slot",
       "charger": "35W",
-      "body": "185g, 8mm thickness"
+      "body": "185g, 8mm thickness",
+      "price": 999,
+      "type": "phone"
     },
     {
       "itemName": "Honor X7b",
@@ -6755,7 +7341,9 @@
       "systemOs": "Android 13, MagicOS 7.2",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "35W",
-      "body": "199g, 8.2mm thickness"
+      "body": "199g, 8.2mm thickness",
+      "price": 1307,
+      "type": "phone"
     },
     {
       "itemName": "Honor 100 Pro",
@@ -6778,7 +7366,9 @@
       "systemOs": "Android 13, MagicOS 7.2",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "100W66W",
-      "body": "195g, 8.2mm thickness"
+      "body": "195g, 8.2mm thickness",
+      "price": 652,
+      "type": "phone"
     },
     {
       "itemName": "Honor 100",
@@ -6800,7 +7390,9 @@
       "systemOs": "Android 13, MagicOS 7.2",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "100W",
-      "body": "183g, 7.8mm thickness"
+      "body": "183g, 7.8mm thickness",
+      "price": 1470,
+      "type": "phone"
     },
     {
       "itemName": "Honor X50i+",
@@ -6822,7 +7414,9 @@
       "systemOs": "Android 13, MagicOS 7.2",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "35W",
-      "body": "166g, 6.8mm thickness"
+      "body": "166g, 6.8mm thickness",
+      "price": 1197,
+      "type": "phone"
     },
     {
       "itemName": "Honor X5 Plus",
@@ -6844,7 +7438,9 @@
       "systemOs": "Android 13, MagicOS 7.1",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "10W",
-      "body": "188g, 8.4mm thickness"
+      "body": "188g, 8.4mm thickness",
+      "price": 1724,
+      "type": "phone"
     },
     {
       "itemName": "Honor X9b",
@@ -6866,7 +7462,9 @@
       "systemOs": "Android 13, Magic OS 7.2",
       "storage": "256GB storage, no card slot",
       "charger": "35W",
-      "body": "185g, 8mm thickness"
+      "body": "185g, 8mm thickness",
+      "price": 1495,
+      "type": "phone"
     },
     {
       "itemName": "Honor Play 8T",
@@ -6888,7 +7486,9 @@
       "systemOs": "Android 13, MagicOS 7.2",
       "storage": "256GB storage, no card slot",
       "charger": "35W",
-      "body": "199g, 8.2mm thickness"
+      "body": "199g, 8.2mm thickness",
+      "price": 1227,
+      "type": "phone"
     },
     {
       "itemName": "Honor Magic Vs2",
@@ -6912,7 +7512,9 @@
       "systemOs": "Android 13, MagicOS 7.2",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "66W",
-      "body": "229g, 5.1mm thickness"
+      "body": "229g, 5.1mm thickness",
+      "price": 356,
+      "type": "phone"
     },
     {
       "itemName": "Honor Watch 4 Pro",
@@ -6937,7 +7539,9 @@
       "systemOs": "MagicOS 7.2",
       "storage": "No card slot",
       "charger": "5W",
-      "body": "50g, 11.4mm thickness"
+      "body": "50g, 11.4mm thickness",
+      "type": "watch",
+      "price": 214
     },
     {
       "itemName": "Honor Play 50 Plus",
@@ -6959,7 +7563,9 @@
       "systemOs": "Android 13, MagicOS 7.2",
       "storage": "256GB storage, no card slot",
       "charger": "35W",
-      "body": "199g, 8.2mm thickness"
+      "body": "199g, 8.2mm thickness",
+      "price": 381,
+      "type": "phone"
     },
     {
       "itemName": "Honor V Purse",
@@ -6984,7 +7590,9 @@
       "systemOs": "Android 13, MagicOS 7.2",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "35W",
-      "body": "214g, 4.3mm thickness"
+      "body": "214g, 4.3mm thickness",
+      "price": 1257,
+      "type": "phone"
     },
     {
       "itemName": "Honor X40 GT Racing",
@@ -7006,7 +7614,9 @@
       "systemOs": "Android 13, Magic OS 7.1",
       "storage": "512GB/256GB storage, no card slot",
       "charger": "66W",
-      "body": "199.5g, 8.5mm thickness"
+      "body": "199.5g, 8.5mm thickness",
+      "price": 418,
+      "type": "phone"
     },
     {
       "itemName": "Honor X6a",
@@ -7025,7 +7635,9 @@
       "systemOs": "Android 13, Magic OS 7.1",
       "storage": "128GB storage, microSDXC",
       "charger": "23W",
-      "body": "188g, 8.4mm thickness"
+      "body": "188g, 8.4mm thickness",
+      "price": 797,
+      "type": "phone"
     },
     {
       "itemName": "Honor Magic V2",
@@ -7049,7 +7661,9 @@
       "systemOs": "Android 13, MagicOS 7.2",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "66W",
-      "body": "231g or 237g, 4.7mm thickness"
+      "body": "231g or 237g, 4.7mm thickness",
+      "price": 1607,
+      "type": "phone"
     },
     {
       "itemName": "Honor Watch 4",
@@ -7073,7 +7687,9 @@
       "systemOs": "MagicOS 7.2",
       "storage": "4GB 32MB RAM storage, no card slot",
       "charger": "",
-      "body": "32g, 11.2mm thickness"
+      "body": "32g, 11.2mm thickness",
+      "type": "watch",
+      "price": 365
     },
     {
       "itemName": "Honor MagicPad 13",
@@ -7096,7 +7712,9 @@
       "systemOs": "Android 13, MagicOS 7.2",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "66W",
-      "body": "660g or 673g, 6.5mm thickness"
+      "body": "660g or 673g, 6.5mm thickness",
+      "price": 192,
+      "type": "phone"
     },
     {
       "itemName": "Honor Pad X9",
@@ -7120,7 +7738,9 @@
       "systemOs": "Android 13, MagicOS 7.1",
       "storage": "128GB storage, no card slot",
       "charger": "23W",
-      "body": "495g or 499g, 6.9mm thickness"
+      "body": "495g or 499g, 6.9mm thickness",
+      "price": 356,
+      "type": "phone"
     },
     {
       "itemName": "Honor Pad X8 Pro",
@@ -7143,7 +7763,9 @@
       "systemOs": "Android 13, MagicOS 7.1",
       "storage": "128GB storage, no card slot",
       "charger": "",
-      "body": "495g, 6.9mm thickness"
+      "body": "495g, 6.9mm thickness",
+      "price": 1597,
+      "type": "phone"
     },
     {
       "itemName": "Honor X50",
@@ -7166,7 +7788,9 @@
       "systemOs": "Android 13, Magic OS 7.1",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "35W",
-      "body": "185g, 8mm thickness"
+      "body": "185g, 8mm thickness",
+      "price": 428,
+      "type": "phone"
     },
     {
       "itemName": "Honor Play 40",
@@ -7189,7 +7813,9 @@
       "systemOs": "Android 13, Magic OS 7.1",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "10W",
-      "body": "188g, 8.4mm thickness"
+      "body": "188g, 8.4mm thickness",
+      "price": 1665,
+      "type": "phone"
     },
     {
       "itemName": "Honor X50i",
@@ -7211,7 +7837,9 @@
       "systemOs": "Android 13, Magic OS 7.1",
       "storage": "256GB storage, no card slot",
       "charger": "35W",
-      "body": "179g, 7.5mm thickness"
+      "body": "179g, 7.5mm thickness",
+      "price": 380,
+      "type": "phone"
     },
     {
       "itemName": "Honor 90 Lite",
@@ -7234,7 +7862,9 @@
       "systemOs": "Android 13, Magic OS 7.1",
       "storage": "256GB storage, no card slot",
       "charger": "35W",
-      "body": "179g, 7.5mm thickness"
+      "body": "179g, 7.5mm thickness",
+      "price": 180,
+      "type": "phone"
     },
     {
       "itemName": "Honor 90 Pro",
@@ -7257,7 +7887,9 @@
       "systemOs": "Android 13, MagicOS 7.1",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "90W",
-      "body": "192g, 8.1mm thickness"
+      "body": "192g, 8.1mm thickness",
+      "price": 867,
+      "type": "phone"
     },
     {
       "itemName": "Honor 90",
@@ -7281,7 +7913,9 @@
       "systemOs": "Android 13, MagicOS 7.1",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "66W",
-      "body": "183g, 7.8mm thickness"
+      "body": "183g, 7.8mm thickness",
+      "price": 732,
+      "type": "phone"
     },
     {
       "itemName": "Honor Pad V8",
@@ -7304,7 +7938,9 @@
       "systemOs": "Android 12, MagicOS 6.1",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "23W",
-      "body": "485g, 7.4mm thickness"
+      "body": "485g, 7.4mm thickness",
+      "price": 1282,
+      "type": "phone"
     },
     {
       "itemName": "Honor Play7T Pro",
@@ -7326,7 +7962,9 @@
       "systemOs": "Android 12, Magic UI 6.1",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "40W",
-      "body": "175g, 7.4mm thickness"
+      "body": "175g, 7.4mm thickness",
+      "price": 1118,
+      "type": "phone"
     },
     {
       "itemName": "Honor Play7T",
@@ -7348,7 +7986,9 @@
       "systemOs": "Android 12, Magic UI 6.1",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "23W",
-      "body": "196g, 8.3mm thickness"
+      "body": "196g, 8.3mm thickness",
+      "price": 432,
+      "type": "phone"
     },
     {
       "itemName": "Honor 70 Lite",
@@ -7371,7 +8011,9 @@
       "systemOs": "Android 12, Magic UI 6.1",
       "storage": "128GB storage, Unspecified",
       "charger": "23W",
-      "body": "194g, 8.7mm thickness"
+      "body": "194g, 8.7mm thickness",
+      "price": 984,
+      "type": "phone"
     },
     {
       "itemName": "Honor Magic5 Ultimate",
@@ -7394,7 +8036,9 @@
       "systemOs": "Android 13, MagicOS 7.1",
       "storage": "512GB storage, no card slot",
       "charger": "66W50W",
-      "body": "217g, 8.8mm thickness"
+      "body": "217g, 8.8mm thickness",
+      "price": 1307,
+      "type": "phone"
     },
     {
       "itemName": "Honor Magic5 Pro",
@@ -7418,7 +8062,9 @@
       "systemOs": "Android 13, up to Android 14, MagicOS 8",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "66W50W",
-      "body": "219g, 8.8mm thickness"
+      "body": "219g, 8.8mm thickness",
+      "price": 1028,
+      "type": "phone"
     },
     {
       "itemName": "Honor Magic5",
@@ -7440,7 +8086,9 @@
       "systemOs": "Android 13, MagicOS 7.1",
       "storage": "256GB storage, no card slot",
       "charger": "66W",
-      "body": "191g, 7.8mm thickness"
+      "body": "191g, 7.8mm thickness",
+      "price": 1215,
+      "type": "phone"
     },
     {
       "itemName": "Honor Magic5 Lite",
@@ -7464,7 +8112,9 @@
       "systemOs": "Android 12, up to Android 13, MagicOS 7.1",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "40W",
-      "body": "175g, 7.9mm thickness"
+      "body": "175g, 7.9mm thickness",
+      "price": 879,
+      "type": "phone"
     },
     {
       "itemName": "Honor X8a",
@@ -7486,7 +8136,9 @@
       "systemOs": "Android 12, Magic UI 6.1",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "23W",
-      "body": "179g, 7.5mm thickness"
+      "body": "179g, 7.5mm thickness",
+      "price": 124,
+      "type": "phone"
     },
     {
       "itemName": "Honor X5",
@@ -7509,7 +8161,9 @@
       "systemOs": "Android 12",
       "storage": "32GB storage, microSDXC",
       "charger": "",
-      "body": "193g, 8.9mm thickness"
+      "body": "193g, 8.9mm thickness",
+      "price": 1167,
+      "type": "phone"
     },
     {
       "itemName": "Oppo A60",
@@ -7531,7 +8185,9 @@
       "systemOs": "Android 14, ColorOS 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "45W",
-      "body": "186g, 7.7mm thickness"
+      "body": "186g, 7.7mm thickness",
+      "price": 775,
+      "type": "phone"
     },
     {
       "itemName": "Oppo K12",
@@ -7553,7 +8209,9 @@
       "systemOs": "Android 14, ColorOS 14",
       "storage": "256GB/512GB storage, microSDXC",
       "charger": "100W",
-      "body": "186g, 8.4mm thickness"
+      "body": "186g, 8.4mm thickness",
+      "price": 1368,
+      "type": "phone"
     },
     {
       "itemName": "Oppo A3 Pro",
@@ -7576,7 +8234,9 @@
       "systemOs": "Android 14, ColorOS 14",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "67W",
-      "body": "177g or 182g, 7.5mm thickness"
+      "body": "177g or 182g, 7.5mm thickness",
+      "price": 1505,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Watch X",
@@ -7599,7 +8259,9 @@
       "systemOs": "Android Wear OS 4",
       "storage": "32GB storage, no card slot",
       "charger": "8W",
-      "body": "49g, 12.1mm thickness"
+      "body": "49g, 12.1mm thickness",
+      "type": "watch",
+      "price": 374
     },
     {
       "itemName": "Oppo F25 Pro",
@@ -7622,7 +8284,9 @@
       "systemOs": "Android 14, ColorOS 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "67W",
-      "body": "177g, 7.5mm thickness"
+      "body": "177g, 7.5mm thickness",
+      "price": 256,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Reno11 F",
@@ -7644,7 +8308,9 @@
       "systemOs": "Android 14, ColorOS 14",
       "storage": "256GB storage, microSDXC",
       "charger": "67W",
-      "body": "177g, 7.5mm thickness"
+      "body": "177g, 7.5mm thickness",
+      "price": 150,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Pad Neo",
@@ -7666,7 +8332,9 @@
       "systemOs": "Android 13, ColorOS 13.2",
       "storage": "128GB storage, microSDXC",
       "charger": "33W",
-      "body": "538g, 6.9mm thickness"
+      "body": "538g, 6.9mm thickness",
+      "price": 1938,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Reno11 Pro",
@@ -7688,7 +8356,9 @@
       "systemOs": "Android 14, ColorOS 14",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "80W",
-      "body": "181g, 7.6mm thickness"
+      "body": "181g, 7.6mm thickness",
+      "price": 651,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Reno11",
@@ -7711,7 +8381,9 @@
       "systemOs": "Android 14, ColorOS 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "67W",
-      "body": "182g, 7.9mm thickness"
+      "body": "182g, 7.9mm thickness",
+      "price": 1278,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Find X7 Ultra",
@@ -7735,7 +8407,9 @@
       "systemOs": "Android 14, ColorOS 14",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "100W50W",
-      "body": "221g, 9.5mm thickness"
+      "body": "221g, 9.5mm thickness",
+      "price": 991,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Find X7",
@@ -7757,7 +8431,9 @@
       "systemOs": "Android 14, ColorOS 14",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "100W",
-      "body": "202g or 206g, 8.7mm thickness"
+      "body": "202g or 206g, 8.7mm thickness",
+      "price": 507,
+      "type": "phone"
     },
     {
       "itemName": "Oppo A59",
@@ -7779,7 +8455,9 @@
       "systemOs": "Android 13, ColorOS 13.1",
       "storage": "128GB storage, microSDXC",
       "charger": "33W",
-      "body": "187 g"
+      "body": "187 g",
+      "price": 254,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Reno11 Pro (China)",
@@ -7802,7 +8480,9 @@
       "systemOs": "Android 14, ColorOS 14",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "80W",
-      "body": "190g, 8.2mm thickness"
+      "body": "190g, 8.2mm thickness",
+      "price": 1212,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Reno11 (China)",
@@ -7825,7 +8505,9 @@
       "systemOs": "Android 14, ColorOS 14",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "67W",
-      "body": "184g, 7.6mm thickness"
+      "body": "184g, 7.6mm thickness",
+      "price": 1101,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Pad Air2",
@@ -7847,7 +8529,9 @@
       "systemOs": "Android 13, ColorOS 13.2",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "33W",
-      "body": "538g, 6.9mm thickness"
+      "body": "538g, 6.9mm thickness",
+      "price": 1716,
+      "type": "phone"
     },
     {
       "itemName": "Oppo A2",
@@ -7870,7 +8554,9 @@
       "systemOs": "Android 13, ColorOS 13.1",
       "storage": "256GB/512GB storage, microSDXC",
       "charger": "33W",
-      "body": "193g, 8mm thickness"
+      "body": "193g, 8mm thickness",
+      "price": 756,
+      "type": "phone"
     },
     {
       "itemName": "Oppo A79",
@@ -7892,7 +8578,9 @@
       "systemOs": "Android 13, ColorOS 13.1",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "33W",
-      "body": "193g, 8mm thickness"
+      "body": "193g, 8mm thickness",
+      "price": 1885,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Find N3",
@@ -7917,7 +8605,9 @@
       "systemOs": "Android 13, up to Android 14, ColorOS 14",
       "storage": "512GB/1TB storage, no card slot",
       "charger": "67W",
-      "body": "239g or 245g, 5.8mm thickness"
+      "body": "239g or 245g, 5.8mm thickness",
+      "price": 1532,
+      "type": "phone"
     },
     {
       "itemName": "Oppo A2x",
@@ -7940,7 +8630,9 @@
       "systemOs": "Android 13, ColorOS 13.1",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "10W",
-      "body": "185g, 8.1mm thickness"
+      "body": "185g, 8.1mm thickness",
+      "price": 1691,
+      "type": "phone"
     },
     {
       "itemName": "Oppo A18",
@@ -7962,7 +8654,9 @@
       "systemOs": "Android 13, up to Android 14, ColorOS 14",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "",
-      "body": "188g, 8.2mm thickness"
+      "body": "188g, 8.2mm thickness",
+      "price": 1127,
+      "type": "phone"
     },
     {
       "itemName": "Oppo A2 Pro",
@@ -7985,7 +8679,9 @@
       "systemOs": "Android 13, ColorOS 13.1",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "67W",
-      "body": "183g or 185g, 8mm thickness"
+      "body": "183g or 185g, 8mm thickness",
+      "price": 1576,
+      "type": "phone"
     },
     {
       "itemName": "Oppo A38",
@@ -8007,7 +8703,9 @@
       "systemOs": "Android 13, up to Android 14, ColorOS 14",
       "storage": "128GB storage, microSDXC",
       "charger": "33W",
-      "body": "190g, 8.2mm thickness"
+      "body": "190g, 8.2mm thickness",
+      "price": 972,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Watch SE",
@@ -8029,7 +8727,9 @@
       "systemOs": "ColorOS Watch 3.0 - China",
       "storage": "8GB storage, no card slot",
       "charger": "",
-      "body": "31g, 11.7mm thickness"
+      "body": "31g, 11.7mm thickness",
+      "type": "watch",
+      "price": 149
     },
     {
       "itemName": "Oppo Watch 4 Pro",
@@ -8051,7 +8751,9 @@
       "systemOs": "ColorOS Watch 3.0 - China",
       "storage": "32GB storage, no card slot",
       "charger": "",
-      "body": "52.3g, 12.9mm thickness"
+      "body": "52.3g, 12.9mm thickness",
+      "type": "watch",
+      "price": 454
     },
     {
       "itemName": "Oppo Find N3 Flip",
@@ -8075,7 +8777,9 @@
       "systemOs": "Android 13, up to Android 14, ColorOS 14",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "44W",
-      "body": "198g, 7.8mm thickness"
+      "body": "198g, 7.8mm thickness",
+      "price": 1096,
+      "type": "phone"
     },
     {
       "itemName": "Oppo A58 4G",
@@ -8094,7 +8798,9 @@
       "systemOs": "Android 13, up to Android 14, ColorOS 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "33W",
-      "body": "192g, 8mm thickness"
+      "body": "192g, 8mm thickness",
+      "price": 496,
+      "type": "phone"
     },
     {
       "itemName": "Oppo K11",
@@ -8113,7 +8819,9 @@
       "systemOs": "Android 13, ColorOS 13.1",
       "storage": "256GB/512GB storage, microSDXC",
       "charger": "100W",
-      "body": "184g, 8.2mm thickness"
+      "body": "184g, 8.2mm thickness",
+      "price": 188,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Reno10 Pro",
@@ -8137,7 +8845,9 @@
       "systemOs": "Android 13, up to Android 14, ColorOS 14",
       "storage": "256GB storage, no card slot",
       "charger": "80W",
-      "body": "185g, 7.9mm thickness"
+      "body": "185g, 7.9mm thickness",
+      "price": 504,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Reno10",
@@ -8161,7 +8871,9 @@
       "systemOs": "Android 13, up to Android 14, ColorOS 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "67W",
-      "body": "185g, 8mm thickness"
+      "body": "185g, 8mm thickness",
+      "price": 826,
+      "type": "phone"
     },
     {
       "itemName": "Oppo A78 4G",
@@ -8183,7 +8895,9 @@
       "systemOs": "Android 13, ColorOS 13.1",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "67W",
-      "body": "180g, 7.9mm thickness"
+      "body": "180g, 7.9mm thickness",
+      "price": 532,
+      "type": "phone"
     },
     {
       "itemName": "Oppo K11x",
@@ -8202,7 +8916,9 @@
       "systemOs": "Android 13, ColorOS 13.1",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "67W",
-      "body": "195g, 8.3mm thickness"
+      "body": "195g, 8.3mm thickness",
+      "price": 784,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Reno10 Pro+",
@@ -8224,7 +8940,9 @@
       "systemOs": "Android 13, up to Android 14, ColorOS 14",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "100W",
-      "body": "194g, 8.3mm thickness"
+      "body": "194g, 8.3mm thickness",
+      "price": 1391,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Reno10 Pro (China)",
@@ -8246,7 +8964,9 @@
       "systemOs": "Android 13, up to Android 14, ColorOS 14",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "100W",
-      "body": "186g, 7.7mm thickness"
+      "body": "186g, 7.7mm thickness",
+      "price": 1682,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Reno10 (China)",
@@ -8268,7 +8988,9 @@
       "systemOs": "Android 13, up to Android 14, ColorOS 14",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "80W",
-      "body": "180g, 7.6mm thickness"
+      "body": "180g, 7.6mm thickness",
+      "price": 1937,
+      "type": "phone"
     },
     {
       "itemName": "Oppo F23",
@@ -8291,7 +9013,9 @@
       "systemOs": "Android 13, up to Android 14, ColorOS 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "67W",
-      "body": "192g, 8.2mm thickness"
+      "body": "192g, 8.2mm thickness",
+      "price": 626,
+      "type": "phone"
     },
     {
       "itemName": "Oppo A98",
@@ -8313,7 +9037,9 @@
       "systemOs": "Android 13, up to Android 14, ColorOS 14",
       "storage": "256GB storage, microSDXC",
       "charger": "67W",
-      "body": "192g, 8.2mm thickness"
+      "body": "192g, 8.2mm thickness",
+      "price": 533,
+      "type": "phone"
     },
     {
       "itemName": "Oppo A1",
@@ -8336,7 +9062,9 @@
       "systemOs": "Android 13, ColorOS 13.1",
       "storage": "256GB storage, microSDXC",
       "charger": "67W",
-      "body": "191g or 193g, 8.2mm thickness"
+      "body": "191g or 193g, 8.2mm thickness",
+      "price": 1100,
+      "type": "phone"
     },
     {
       "itemName": "Oppo A1x",
@@ -8358,7 +9086,9 @@
       "systemOs": "Android 12, ColorOS 12.1",
       "storage": "128GB storage, microSDXC",
       "charger": "10W",
-      "body": "186g, 8mm thickness"
+      "body": "186g, 8mm thickness",
+      "price": 1686,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Find X6 Pro",
@@ -8382,7 +9112,9 @@
       "systemOs": "Android 13, ColorOS 13.1",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "100W50W",
-      "body": "216g or 218g, 9.1mm thickness"
+      "body": "216g or 218g, 9.1mm thickness",
+      "price": 1488,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Find X6",
@@ -8405,7 +9137,9 @@
       "systemOs": "Android 13, ColorOS 13.1",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "80W",
-      "body": "207g, 9mm thickness"
+      "body": "207g, 9mm thickness",
+      "price": 489,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Pad 2",
@@ -8427,7 +9161,9 @@
       "systemOs": "Android 13, ColorOS 13.1",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "67W",
-      "body": "552g, 6.5mm thickness"
+      "body": "552g, 6.5mm thickness",
+      "price": 1776,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Reno8 T",
@@ -8450,7 +9186,9 @@
       "systemOs": "Android 13, up to Android 14, ColorOS 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "33W",
-      "body": "180g or 183g, 7.8mm thickness"
+      "body": "180g or 183g, 7.8mm thickness",
+      "price": 1643,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Reno8 T 5G",
@@ -8473,7 +9211,9 @@
       "systemOs": "Android 13, up to Android 14, ColorOS 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "67W",
-      "body": "171g, 7.7mm thickness"
+      "body": "171g, 7.7mm thickness",
+      "price": 476,
+      "type": "phone"
     },
     {
       "itemName": "Oppo A78",
@@ -8495,7 +9235,9 @@
       "systemOs": "Android 12, up to Android 14, ColorOS 14",
       "storage": "128GB storage, microSDXC",
       "charger": "33W",
-      "body": "188g, 8mm thickness"
+      "body": "188g, 8mm thickness",
+      "price": 1172,
+      "type": "phone"
     },
     {
       "itemName": "Oppo A56s",
@@ -8517,7 +9259,9 @@
       "systemOs": "Android 12, ColorOS 12.1",
       "storage": "256GB storage, microSDXC",
       "charger": "10W",
-      "body": "186g, 8mm thickness"
+      "body": "186g, 8mm thickness",
+      "price": 665,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Find N2 Flip",
@@ -8541,7 +9285,9 @@
       "systemOs": "Android 13, up to Android 14, ColorOS 14",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "44W",
-      "body": "191g, 7.5mm thickness"
+      "body": "191g, 7.5mm thickness",
+      "price": 947,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Find N2",
@@ -8565,7 +9311,9 @@
       "systemOs": "Android 13, ColorOS 13",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "67W",
-      "body": "233g or 237g, 7.4mm thickness"
+      "body": "233g or 237g, 7.4mm thickness",
+      "price": 1649,
+      "type": "phone"
     },
     {
       "itemName": "Oppo A58x",
@@ -8587,7 +9335,9 @@
       "systemOs": "Android 12, ColorOS 12.1",
       "storage": "128GB storage, microSDXC",
       "charger": "10W",
-      "body": "186g, 8mm thickness"
+      "body": "186g, 8mm thickness",
+      "price": 1740,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Reno9 Pro+",
@@ -8610,7 +9360,9 @@
       "systemOs": "Android 13, ColorOS 13",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "80W",
-      "body": "192g, 8mm thickness"
+      "body": "192g, 8mm thickness",
+      "price": 1873,
+      "type": "phone"
     },
     {
       "itemName": "Oppo Reno9 Pro",
@@ -8633,7 +9385,9 @@
       "systemOs": "Android 13, ColorOS 13",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "67W",
-      "body": "174g, 7.2mm thickness"
+      "body": "174g, 7.2mm thickness",
+      "price": 622,
+      "type": "phone"
     },
     {
       "itemName": "Realme C65 5G",
@@ -8656,7 +9410,9 @@
       "systemOs": "Android 14, Realme UI 5.0",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "15W",
-      "body": "190g, 7.9mm thickness"
+      "body": "190g, 7.9mm thickness",
+      "price": 1117,
+      "type": "phone"
     },
     {
       "itemName": "Realme Narzo 70",
@@ -8679,7 +9435,9 @@
       "systemOs": "Android 14, Realme UI 5.0",
       "storage": "128GB storage, Unspecified",
       "charger": "45W",
-      "body": "188g, 8mm thickness"
+      "body": "188g, 8mm thickness",
+      "price": 1279,
+      "type": "phone"
     },
     {
       "itemName": "Realme Narzo 70x",
@@ -8702,7 +9460,9 @@
       "systemOs": "Android 14, Realme UI 5.0",
       "storage": "128GB storage, microSDXC",
       "charger": "45W",
-      "body": "188g, 7.7mm thickness"
+      "body": "188g, 7.7mm thickness",
+      "price": 706,
+      "type": "phone"
     },
     {
       "itemName": "Realme 12 Lite",
@@ -8724,7 +9484,9 @@
       "systemOs": "Android 14, Realme UI",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "33W",
-      "body": "185g, 7.6mm thickness"
+      "body": "185g, 7.6mm thickness",
+      "price": 887,
+      "type": "phone"
     },
     {
       "itemName": "Realme P1 Pro",
@@ -8746,7 +9508,9 @@
       "systemOs": "Android 14, Realme UI 5.0",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "45W",
-      "body": "217g, 8.4mm thickness"
+      "body": "217g, 8.4mm thickness",
+      "price": 1537,
+      "type": "phone"
     },
     {
       "itemName": "Realme P1",
@@ -8768,7 +9532,9 @@
       "systemOs": "Android 14, Realme UI 5.0",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "45W",
-      "body": "188g, 8mm thickness"
+      "body": "188g, 8mm thickness",
+      "price": 1070,
+      "type": "phone"
     },
     {
       "itemName": "Realme GT Neo6 SE",
@@ -8791,7 +9557,9 @@
       "systemOs": "Android 14, Realme UI 5.0",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "100W",
-      "body": "191g, 8.7mm thickness"
+      "body": "191g, 8.7mm thickness",
+      "price": 1334,
+      "type": "phone"
     },
     {
       "itemName": "Realme 12x",
@@ -8814,7 +9582,9 @@
       "systemOs": "Android 14, Realme UI 5.0",
       "storage": "128GB storage, microSDXC",
       "charger": "45W",
-      "body": "188g, 7.7mm thickness"
+      "body": "188g, 7.7mm thickness",
+      "price": 1645,
+      "type": "phone"
     },
     {
       "itemName": "Realme C65",
@@ -8836,7 +9606,9 @@
       "systemOs": "Android 14, Realme UI 5.0",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "45W",
-      "body": "185g, 7.6mm thickness"
+      "body": "185g, 7.6mm thickness",
+      "price": 1912,
+      "type": "phone"
     },
     {
       "itemName": "Realme 12x (China)",
@@ -8859,7 +9631,9 @@
       "systemOs": "Android 14, Realme UI 5.0",
       "storage": "256GB/512GB storage, Unspecified",
       "charger": "15W",
-      "body": "190g, 7.9mm thickness"
+      "body": "190g, 7.9mm thickness",
+      "price": 1306,
+      "type": "phone"
     },
     {
       "itemName": "Realme Narzo 70 Pro",
@@ -8881,7 +9655,9 @@
       "systemOs": "Android 14, Realme UI 5.0",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "67W",
-      "body": "195g, 8mm thickness"
+      "body": "195g, 8mm thickness",
+      "price": 160,
+      "type": "phone"
     },
     {
       "itemName": "Realme 12",
@@ -8904,7 +9680,9 @@
       "systemOs": "Android 14, Realme UI 5.0",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "45W",
-      "body": "188g, 7.7mm thickness"
+      "body": "188g, 7.7mm thickness",
+      "price": 835,
+      "type": "phone"
     },
     {
       "itemName": "Realme 12+",
@@ -8928,7 +9706,9 @@
       "systemOs": "Android 14, Realme UI 5.0",
       "storage": "128GB/256GB/512GB storage, microSDXC",
       "charger": "67W",
-      "body": "190g, 7.9mm thickness"
+      "body": "190g, 7.9mm thickness",
+      "price": 1023,
+      "type": "phone"
     },
     {
       "itemName": "Realme 12 Pro+",
@@ -8952,7 +9732,9 @@
       "systemOs": "Android 14, Realme UI 5.0",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "67W",
-      "body": "196g, 8.8mm thickness"
+      "body": "196g, 8.8mm thickness",
+      "price": 738,
+      "type": "phone"
     },
     {
       "itemName": "Realme 12 Pro",
@@ -8975,7 +9757,9 @@
       "systemOs": "Android 14, Realme UI 5.0",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "67W",
-      "body": "190g, 8.8mm thickness"
+      "body": "190g, 8.8mm thickness",
+      "price": 1727,
+      "type": "phone"
     },
     {
       "itemName": "Realme Note 50",
@@ -8997,7 +9781,9 @@
       "systemOs": "Android 13, Realme UI T",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "10W",
-      "body": "186g, 8mm thickness"
+      "body": "186g, 8mm thickness",
+      "price": 1604,
+      "type": "phone"
     },
     {
       "itemName": "Realme C67 4G",
@@ -9020,7 +9806,9 @@
       "systemOs": "Android 14, Realme UI",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "33W",
-      "body": "185g, 7.6mm thickness"
+      "body": "185g, 7.6mm thickness",
+      "price": 411,
+      "type": "phone"
     },
     {
       "itemName": "Realme C67",
@@ -9043,7 +9831,9 @@
       "systemOs": "Android 13, Realme UI 4.0",
       "storage": "128GB storage, microSDXC",
       "charger": "33W",
-      "body": "190g, 7.9mm thickness"
+      "body": "190g, 7.9mm thickness",
+      "price": 801,
+      "type": "phone"
     },
     {
       "itemName": "Realme V50s",
@@ -9065,7 +9855,9 @@
       "systemOs": "Android 13, Realme UI 4.0",
       "storage": "128GB/256GB storage, Unspecified",
       "charger": "",
-      "body": "190g, 7.9mm thickness"
+      "body": "190g, 7.9mm thickness",
+      "price": 1266,
+      "type": "phone"
     },
     {
       "itemName": "Realme GT5 Pro",
@@ -9089,7 +9881,9 @@
       "systemOs": "Android 14, Realme UI 5.0",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "100W50W",
-      "body": "218g / 224g, 9.2mm thickness"
+      "body": "218g / 224g, 9.2mm thickness",
+      "price": 979,
+      "type": "phone"
     },
     {
       "itemName": "Realme Narzo 60x",
@@ -9111,7 +9905,9 @@
       "systemOs": "Android 13, Realme UI 4.0",
       "storage": "128GB storage, microSDXC",
       "charger": "33W",
-      "body": "190g, 7.9mm thickness"
+      "body": "190g, 7.9mm thickness",
+      "price": 1907,
+      "type": "phone"
     },
     {
       "itemName": "Realme GT5 240W",
@@ -9133,7 +9929,9 @@
       "systemOs": "Android 13, Realme UI 4.0",
       "storage": "1TB storage, no card slot",
       "charger": "240W",
-      "body": "205g, 8.9mm thickness"
+      "body": "205g, 8.9mm thickness",
+      "price": 729,
+      "type": "phone"
     },
     {
       "itemName": "Realme GT5",
@@ -9157,7 +9955,9 @@
       "systemOs": "Android 13, Realme UI 4.0",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "150W",
-      "body": "205g, 8.9mm thickness"
+      "body": "205g, 8.9mm thickness",
+      "price": 1769,
+      "type": "phone"
     },
     {
       "itemName": "Realme 11x",
@@ -9180,7 +9980,9 @@
       "systemOs": "Android 13, Realme UI 4.0",
       "storage": "128GB storage, microSDXC",
       "charger": "33W",
-      "body": "190g, 7.9mm thickness"
+      "body": "190g, 7.9mm thickness",
+      "price": 1682,
+      "type": "phone"
     },
     {
       "itemName": "Realme 11 4G",
@@ -9202,7 +10004,9 @@
       "systemOs": "Android 12, Realme UI 3.0",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "67W",
-      "body": "178g, 8mm thickness"
+      "body": "178g, 8mm thickness",
+      "price": 1636,
+      "type": "phone"
     },
     {
       "itemName": "Realme 11",
@@ -9224,7 +10028,9 @@
       "systemOs": "Android 13, Realme UI 4.0",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "67W",
-      "body": "190g, 8.1mm thickness"
+      "body": "190g, 8.1mm thickness",
+      "price": 1249,
+      "type": "phone"
     },
     {
       "itemName": "Realme C51",
@@ -9247,7 +10053,9 @@
       "systemOs": "Android 13, Realme UI T",
       "storage": "64GB/128GB/256GB storage, microSDXC",
       "charger": "33W",
-      "body": "186g, 8mm thickness"
+      "body": "186g, 8mm thickness",
+      "price": 140,
+      "type": "phone"
     },
     {
       "itemName": "Realme C53 (India)",
@@ -9270,7 +10078,9 @@
       "systemOs": "Android 13, Realme UI",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "18W",
-      "body": "186g, 8mm thickness"
+      "body": "186g, 8mm thickness",
+      "price": 1168,
+      "type": "phone"
     },
     {
       "itemName": "Realme Pad 2",
@@ -9293,7 +10103,9 @@
       "systemOs": "Android 13 or Android 14, Realme UI 4",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "33W",
-      "body": ""
+      "body": "",
+      "price": 1553,
+      "type": "phone"
     },
     {
       "itemName": "Realme GT3",
@@ -9317,7 +10129,9 @@
       "systemOs": "Android 13, up to Android 14, Realme UI 5.0",
       "storage": "128GB/256GB/1TB storage, no card slot",
       "charger": "240W",
-      "body": "199g, 8.9mm thickness"
+      "body": "199g, 8.9mm thickness",
+      "price": 1508,
+      "type": "phone"
     },
     {
       "itemName": "Realme Narzo 60 Pro",
@@ -9339,7 +10153,9 @@
       "systemOs": "Android 13, Realme UI 4.0",
       "storage": "128GB/256GB/1TB storage, no card slot",
       "charger": "67W",
-      "body": "185g or 191g, 8.2mm thickness"
+      "body": "185g or 191g, 8.2mm thickness",
+      "price": 1870,
+      "type": "phone"
     },
     {
       "itemName": "Realme Narzo 60",
@@ -9361,7 +10177,9 @@
       "systemOs": "Android 13, Realme UI 4.0",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "33W",
-      "body": "182g, 7.9mm thickness"
+      "body": "182g, 7.9mm thickness",
+      "price": 103,
+      "type": "phone"
     },
     {
       "itemName": "Realme C53",
@@ -9383,7 +10201,9 @@
       "systemOs": "Android 13, Realme UI T",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "33W",
-      "body": "182g, 7.5mm thickness"
+      "body": "182g, 7.5mm thickness",
+      "price": 1536,
+      "type": "phone"
     },
     {
       "itemName": "Realme Narzo N53",
@@ -9405,7 +10225,9 @@
       "systemOs": "Android 13, Realme UI T",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "33W",
-      "body": "182g, 7.5mm thickness"
+      "body": "182g, 7.5mm thickness",
+      "price": 1122,
+      "type": "phone"
     },
     {
       "itemName": "Realme 11 Pro+",
@@ -9429,7 +10251,9 @@
       "systemOs": "Android 13, Realme UI 4.0",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "100W",
-      "body": "183g or 189g, 8.2mm thickness"
+      "body": "183g or 189g, 8.2mm thickness",
+      "price": 519,
+      "type": "phone"
     },
     {
       "itemName": "Realme 11 Pro",
@@ -9453,7 +10277,9 @@
       "systemOs": "Android 13, Realme UI 4.0",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "67W",
-      "body": "183g or 189g, 8.2mm thickness"
+      "body": "183g or 189g, 8.2mm thickness",
+      "price": 201,
+      "type": "phone"
     },
     {
       "itemName": "Realme 11 (China)",
@@ -9476,7 +10302,9 @@
       "systemOs": "Android 13, Realme UI 4.0",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "33W",
-      "body": "182g, 7.9mm thickness"
+      "body": "182g, 7.9mm thickness",
+      "price": 696,
+      "type": "phone"
     },
     {
       "itemName": "Realme Narzo N55",
@@ -9498,7 +10326,9 @@
       "systemOs": "Android 13, Realme UI 4.0",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "33W",
-      "body": "189.5g, 7.9mm thickness"
+      "body": "189.5g, 7.9mm thickness",
+      "price": 1962,
+      "type": "phone"
     },
     {
       "itemName": "Realme GT Neo5 SE",
@@ -9520,7 +10350,9 @@
       "systemOs": "Android 13, Realme UI 4.0",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "100W",
-      "body": "193.1g, 9mm thickness"
+      "body": "193.1g, 9mm thickness",
+      "price": 381,
+      "type": "phone"
     },
     {
       "itemName": "Realme 10T",
@@ -9542,7 +10374,9 @@
       "systemOs": "Android 12, Realme UI 3.0",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "18W",
-      "body": "187g, 8.1mm thickness"
+      "body": "187g, 8.1mm thickness",
+      "price": 1290,
+      "type": "phone"
     },
     {
       "itemName": "Realme C33 2023",
@@ -9564,7 +10398,9 @@
       "systemOs": "Android 12, Realme UI S",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "10W",
-      "body": "187g, 8.3mm thickness"
+      "body": "187g, 8.3mm thickness",
+      "price": 1534,
+      "type": "phone"
     },
     {
       "itemName": "Realme C55",
@@ -9588,7 +10424,9 @@
       "systemOs": "Android 13, Realme UI 4.0",
       "storage": "64GB/128GB/256GB storage, microSDXC",
       "charger": "33W",
-      "body": "189.5g, 7.9mm thickness"
+      "body": "189.5g, 7.9mm thickness",
+      "price": 1738,
+      "type": "phone"
     },
     {
       "itemName": "Realme GT Neo 5 240W",
@@ -9611,7 +10449,9 @@
       "systemOs": "Android 13, Realme UI 4.0",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "240W",
-      "body": "199g, 8.9mm thickness"
+      "body": "199g, 8.9mm thickness",
+      "price": 1720,
+      "type": "phone"
     },
     {
       "itemName": "Realme GT Neo 5",
@@ -9634,7 +10474,9 @@
       "systemOs": "Android 13, Realme UI 4.0",
       "storage": "256GB storage, no card slot",
       "charger": "150W",
-      "body": "199g, 8.9mm thickness"
+      "body": "199g, 8.9mm thickness",
+      "price": 1453,
+      "type": "phone"
     },
     {
       "itemName": "Realme V30",
@@ -9656,7 +10498,9 @@
       "systemOs": "Android 12, Realme UI 3.0",
       "storage": "128GB storage, microSDXC",
       "charger": "",
-      "body": "186 g"
+      "body": "186 g",
+      "price": 1530,
+      "type": "phone"
     },
     {
       "itemName": "Realme 10s",
@@ -9678,7 +10522,9 @@
       "systemOs": "Android 12, Realme UI 3.0",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "33W",
-      "body": "191g, 8.1mm thickness"
+      "body": "191g, 8.1mm thickness",
+      "price": 1544,
+      "type": "phone"
     },
     {
       "itemName": "Realme V20",
@@ -9700,7 +10546,9 @@
       "systemOs": "Android 12, ColorOS 12",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "10W",
-      "body": "184g, 8.1mm thickness"
+      "body": "184g, 8.1mm thickness",
+      "price": 115,
+      "type": "phone"
     },
     {
       "itemName": "Realme 10 Pro+",
@@ -9724,7 +10572,9 @@
       "systemOs": "Android 13, Realme UI 4.0",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "67W",
-      "body": "173g / 175g, 7.8mm thickness"
+      "body": "173g / 175g, 7.8mm thickness",
+      "price": 1149,
+      "type": "phone"
     },
     {
       "itemName": "Realme 10 Pro",
@@ -9748,7 +10598,9 @@
       "systemOs": "Android 13, Realme UI 4.0",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "33W",
-      "body": "190g / 192g, 8.1mm thickness"
+      "body": "190g / 192g, 8.1mm thickness",
+      "price": 371,
+      "type": "phone"
     },
     {
       "itemName": "Realme 10 5G",
@@ -9770,7 +10622,9 @@
       "systemOs": "Android 12, Realme UI 3.0",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "33W",
-      "body": "191g, 8.1mm thickness"
+      "body": "191g, 8.1mm thickness",
+      "price": 1956,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Ace 3V",
@@ -9792,7 +10646,9 @@
       "systemOs": "Android 14, ColorOS 14",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "100W",
-      "body": "200g, 8.5mm thickness"
+      "body": "200g, 8.5mm thickness",
+      "price": 989,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Nord CE4",
@@ -9816,7 +10672,9 @@
       "systemOs": "Android 14, ColorOS 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "100W",
-      "body": "186g, 8.4mm thickness"
+      "body": "186g, 8.4mm thickness",
+      "price": 677,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Watch 2",
@@ -9839,7 +10697,9 @@
       "systemOs": "Android Wear OS 4",
       "storage": "32GB storage, no card slot",
       "charger": "8W",
-      "body": "49g, 12.1mm thickness"
+      "body": "49g, 12.1mm thickness",
+      "type": "watch",
+      "price": 386
     },
     {
       "itemName": "OnePlus Nord N30 SE",
@@ -9862,7 +10722,9 @@
       "systemOs": "Android 13, OxygenOS 13.1",
       "storage": "128GB storage, no card slot",
       "charger": "33W",
-      "body": "193g, 8mm thickness"
+      "body": "193g, 8mm thickness",
+      "price": 1032,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus 12R",
@@ -9886,7 +10748,9 @@
       "systemOs": "Android 14, OxygenOS 14",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "100W",
-      "body": "207g, 8.8mm thickness"
+      "body": "207g, 8.8mm thickness",
+      "price": 1629,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus 12",
@@ -9910,7 +10774,9 @@
       "systemOs": "Android 14, OxygenOS 14, ColorOS 14",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "100W50W",
-      "body": "220g, 9.2mm thickness"
+      "body": "220g, 9.2mm thickness",
+      "price": 699,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Ace 3",
@@ -9933,7 +10799,9 @@
       "systemOs": "Android 14, ColorOS 14",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "100W",
-      "body": "207g, 8.8mm thickness"
+      "body": "207g, 8.8mm thickness",
+      "price": 1977,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Open",
@@ -9958,7 +10826,9 @@
       "systemOs": "Android 13, up to Android 14, OxygenOS 14",
       "storage": "512GB storage, no card slot",
       "charger": "67W",
-      "body": "239g or 245g, 5.8mm thickness"
+      "body": "239g or 245g, 5.8mm thickness",
+      "price": 864,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Pad Go",
@@ -9982,7 +10852,9 @@
       "systemOs": "Android 13, OxygenOS 13.2",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "33W",
-      "body": "532g, 6.9mm thickness"
+      "body": "532g, 6.9mm thickness",
+      "price": 401,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Ace 2 Pro",
@@ -10004,7 +10876,9 @@
       "systemOs": "Android 13, ColorOS 13.1",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "150W",
-      "body": "210g, 9mm thickness"
+      "body": "210g, 9mm thickness",
+      "price": 1711,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Nord CE3",
@@ -10028,7 +10902,9 @@
       "systemOs": "Android 13, OxygenOS 13.1",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "80W",
-      "body": "184g, 8.2mm thickness"
+      "body": "184g, 8.2mm thickness",
+      "price": 143,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Nord 3",
@@ -10052,7 +10928,9 @@
       "systemOs": "Android 13, OxygenOS 13.1",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "80W",
-      "body": "193.5g, 8.2mm thickness"
+      "body": "193.5g, 8.2mm thickness",
+      "price": 216,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Nord N30",
@@ -10076,7 +10954,9 @@
       "systemOs": "Android 13, OxygenOS 13.1",
       "storage": "128GB storage, microSDXC",
       "charger": "50W",
-      "body": "195g, 8.3mm thickness"
+      "body": "195g, 8.3mm thickness",
+      "price": 612,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Nord CE 3 Lite",
@@ -10098,7 +10978,9 @@
       "systemOs": "Android 13, OxygenOS 13.1",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "67W",
-      "body": "195g, 8.3mm thickness"
+      "body": "195g, 8.3mm thickness",
+      "price": 1372,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Ace 2V",
@@ -10120,7 +11002,9 @@
       "systemOs": "Android 13, ColorOS 13",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "80W",
-      "body": "191.5g, 8.2mm thickness"
+      "body": "191.5g, 8.2mm thickness",
+      "price": 1658,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Pad",
@@ -10142,7 +11026,9 @@
       "systemOs": "Android 13, OxygenOS 13.1",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "67W",
-      "body": "552g, 6.5mm thickness"
+      "body": "552g, 6.5mm thickness",
+      "price": 362,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus 11R",
@@ -10166,7 +11052,9 @@
       "systemOs": "Android 13, OxygenOS 13",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "100W",
-      "body": "204g, 8.7mm thickness"
+      "body": "204g, 8.7mm thickness",
+      "price": 1961,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Ace 2",
@@ -10188,7 +11076,9 @@
       "systemOs": "Android 13, ColorOS 13",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "100W",
-      "body": "204g, 8.7mm thickness"
+      "body": "204g, 8.7mm thickness",
+      "price": 485,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus 11",
@@ -10212,7 +11102,9 @@
       "systemOs": "Android 13, up to 14, OxygenOS 14, ColorOS 14",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "100W",
-      "body": "205g, 8.5mm thickness"
+      "body": "205g, 8.5mm thickness",
+      "price": 1856,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Nord N300",
@@ -10236,7 +11128,9 @@
       "systemOs": "Android 12, OxygenOS",
       "storage": "64GB storage, microSDXC",
       "charger": "33W",
-      "body": "190g, 8mm thickness"
+      "body": "190g, 8mm thickness",
+      "price": 1300,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Nord Watch",
@@ -10255,7 +11149,9 @@
       "systemOs": "Proprietary OS",
       "storage": "256MB storage, no card slot",
       "charger": "",
-      "body": "52.4g, 10.4mm thickness"
+      "body": "52.4g, 10.4mm thickness",
+      "type": "watch",
+      "price": 318
     },
     {
       "itemName": "OnePlus Ace Pro",
@@ -10277,7 +11173,9 @@
       "systemOs": "Android 12, ColorOS 12.1",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "150W",
-      "body": "203.5g, 8.8mm thickness"
+      "body": "203.5g, 8.8mm thickness",
+      "price": 618,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Nord N20 SE",
@@ -10299,7 +11197,9 @@
       "systemOs": "Android 12, OxygenOS 12.1",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "33W",
-      "body": "187g, 8mm thickness"
+      "body": "187g, 8mm thickness",
+      "price": 603,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus 10T",
@@ -10323,7 +11223,9 @@
       "systemOs": "Android 12, OxygenOS 13",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "150W",
-      "body": "204g, 8.8mm thickness"
+      "body": "204g, 8.8mm thickness",
+      "price": 366,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Nord 2T",
@@ -10347,7 +11249,9 @@
       "systemOs": "Android 12, up to Android 14, OxygenOS 14",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "80W",
-      "body": "190g, 8.2mm thickness"
+      "body": "190g, 8.2mm thickness",
+      "price": 991,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Ace Racing",
@@ -10369,7 +11273,9 @@
       "systemOs": "Android 12, ColorOS 12.1",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "67W",
-      "body": "205g, 8.7mm thickness"
+      "body": "205g, 8.7mm thickness",
+      "price": 853,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Nord N20 5G",
@@ -10393,7 +11299,9 @@
       "systemOs": "Android 11, OxygenOS 11",
       "storage": "128GB storage, microSDXC",
       "charger": "33W",
-      "body": "173g, 7.5mm thickness"
+      "body": "173g, 7.5mm thickness",
+      "price": 1771,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus 10R 150W",
@@ -10417,7 +11325,9 @@
       "systemOs": "Android 12, up to Android 13, OxygenOS 13",
       "storage": "256GB storage, no card slot",
       "charger": "150W",
-      "body": "186g, 8.2mm thickness"
+      "body": "186g, 8.2mm thickness",
+      "price": 1696,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus 10R",
@@ -10440,7 +11350,9 @@
       "systemOs": "Android 12, up to Android 13, OxygenOS 13",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "80W",
-      "body": "186g, 8.2mm thickness"
+      "body": "186g, 8.2mm thickness",
+      "price": 479,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Nord CE 2 Lite 5G",
@@ -10464,7 +11376,9 @@
       "systemOs": "Android 12, up to Android 13, OxygenOS 13",
       "storage": "128GB storage, microSDXC",
       "charger": "33W",
-      "body": "195g, 8.5mm thickness"
+      "body": "195g, 8.5mm thickness",
+      "price": 1491,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Ace",
@@ -10486,7 +11400,9 @@
       "systemOs": "Android 12, ColorOS 12.1",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "150W",
-      "body": "186g, 8.2mm thickness"
+      "body": "186g, 8.2mm thickness",
+      "price": 189,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus 10 Pro",
@@ -10510,7 +11426,9 @@
       "systemOs": "Android 12, up to 14, OxygenOS 14, ColorOS",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "80W50W",
-      "body": "201g, 8.6mm thickness"
+      "body": "201g, 8.6mm thickness",
+      "price": 955,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Nord CE 2 5G",
@@ -10534,7 +11452,9 @@
       "systemOs": "Android 11, up to Android 13, OxygenOS 13",
       "storage": "128GB storage, microSDXC",
       "charger": "65W",
-      "body": "173g, 7.8mm thickness"
+      "body": "173g, 7.8mm thickness",
+      "price": 933,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus 9RT 5G",
@@ -10558,7 +11478,9 @@
       "systemOs": "Android 11, up to Android 13, OxygenOS 13",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "65W",
-      "body": "198.5g, 8.3mm thickness"
+      "body": "198.5g, 8.3mm thickness",
+      "price": 1971,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Nord 2 5G",
@@ -10582,7 +11504,9 @@
       "systemOs": "Android 11, up to Android 13, OxygenOS 13",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "65W",
-      "body": "189g, 8.3mm thickness"
+      "body": "189g, 8.3mm thickness",
+      "price": 1114,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Nord N200 5G",
@@ -10604,7 +11528,9 @@
       "systemOs": "Android 11, OxygenOS 11",
       "storage": "64GB storage, microSDXC",
       "charger": "18W",
-      "body": "189g, 8.3mm thickness"
+      "body": "189g, 8.3mm thickness",
+      "price": 249,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Nord CE 5G",
@@ -10628,7 +11554,9 @@
       "systemOs": "Android 11, up to Android 13, OxygenOS 13",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "30W",
-      "body": "170g, 7.9mm thickness"
+      "body": "170g, 7.9mm thickness",
+      "price": 1908,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus 9 Pro",
@@ -10652,7 +11580,9 @@
       "systemOs": "Android 11, up to Android 14, OxygenOS 14",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "65W50W",
-      "body": "197g, 8.7mm thickness"
+      "body": "197g, 8.7mm thickness",
+      "price": 621,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus 9",
@@ -10676,7 +11606,9 @@
       "systemOs": "Android 11, up to Android 13, OxygenOS 13",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "65W15W",
-      "body": "192g (EU/NA)183g (IN/CN), 8.1mm thickness"
+      "body": "192g (EU/NA)183g (IN/CN), 8.1mm thickness",
+      "price": 1966,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus 9R",
@@ -10698,7 +11630,9 @@
       "systemOs": "Android 10, up to Android 13, OxygenOS 13",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "65W",
-      "body": "189g, 8.4mm thickness"
+      "body": "189g, 8.4mm thickness",
+      "price": 1906,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Watch",
@@ -10722,7 +11656,9 @@
       "systemOs": "Proprietary OS",
       "storage": "4GB 1GB RAM storage, no card slot",
       "charger": "",
-      "body": "45g, 10.9mm thickness"
+      "body": "45g, 10.9mm thickness",
+      "type": "watch",
+      "price": 202
     },
     {
       "itemName": "OnePlus Nord N10 5G",
@@ -10746,7 +11682,9 @@
       "systemOs": "Android 10, OxygenOS 10.5",
       "storage": "128GB storage, microSDXC",
       "charger": "30W",
-      "body": "190g, 9mm thickness"
+      "body": "190g, 9mm thickness",
+      "price": 1920,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Nord N100",
@@ -10767,7 +11705,9 @@
       "systemOs": "Android 10, OxygenOS 10.5.9",
       "storage": "64GB storage, microSDXC",
       "charger": "18W",
-      "body": "188g, 8.5mm thickness"
+      "body": "188g, 8.5mm thickness",
+      "price": 325,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus 8T",
@@ -10791,7 +11731,9 @@
       "systemOs": "Android 11, up to Android 14, OxygenOS 14",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "65W",
-      "body": "188g, 8.4mm thickness"
+      "body": "188g, 8.4mm thickness",
+      "price": 762,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus 8T+ 5G",
@@ -10814,7 +11756,9 @@
       "systemOs": "Android 11, OxygenOS 11",
       "storage": "256GB storage, no card slot",
       "charger": "65W",
-      "body": "8.4mm thickness"
+      "body": "8.4mm thickness",
+      "price": 447,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus Nord",
@@ -10838,7 +11782,9 @@
       "systemOs": "Android 10, up to Android 12, OxygenOS 12",
       "storage": "64GB/128GB/256GB storage, no card slot",
       "charger": "30W",
-      "body": "184g, 8.2mm thickness"
+      "body": "184g, 8.2mm thickness",
+      "price": 343,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus 8 Pro",
@@ -10862,7 +11808,9 @@
       "systemOs": "Android 10, up to Android 13, OxygenOS 13",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "30W30W",
-      "body": "199g, 8.5mm thickness"
+      "body": "199g, 8.5mm thickness",
+      "price": 194,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus 8",
@@ -10886,7 +11834,9 @@
       "systemOs": "Android 10, up to Android 13, OxygenOS 13",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "30W",
-      "body": "180g, 8mm thickness"
+      "body": "180g, 8mm thickness",
+      "price": 1253,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus 8 5G UW (Verizon)",
@@ -10907,7 +11857,9 @@
       "systemOs": "Android 10, OxygenOS 10.0",
       "storage": "128GB storage, no card slot",
       "charger": "30W",
-      "body": "180g, 8mm thickness"
+      "body": "180g, 8mm thickness",
+      "price": 516,
+      "type": "phone"
     },
     {
       "itemName": "OnePlus 8 5G (T-Mobile)",
@@ -10929,7 +11881,9 @@
       "systemOs": "Android 10, OxygenOS 10.0",
       "storage": "128GB storage, no card slot",
       "charger": "30W",
-      "body": "180g, 8mm thickness"
+      "body": "180g, 8mm thickness",
+      "price": 1095,
+      "type": "phone"
     },
     {
       "itemName": "vivo Y18",
@@ -10951,7 +11905,9 @@
       "systemOs": "Android 14, Funtouch 14",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "15W",
-      "body": "185g, 8.4mm thickness"
+      "body": "185g, 8.4mm thickness",
+      "price": 1883,
+      "type": "phone"
     },
     {
       "itemName": "vivo Y18e",
@@ -10973,7 +11929,9 @@
       "systemOs": "Android 14, Funtouch 14",
       "storage": "64GB storage, microSDXC",
       "charger": "15W",
-      "body": "185g, 8.4mm thickness"
+      "body": "185g, 8.4mm thickness",
+      "price": 1842,
+      "type": "phone"
     },
     {
       "itemName": "vivo Y100 4G",
@@ -10995,7 +11953,9 @@
       "systemOs": "Android 14, Funtouch 14",
       "storage": "256GB storage, microSDXC",
       "charger": "80W",
-      "body": "186g or 196g, 7.8mm thickness"
+      "body": "186g or 196g, 7.8mm thickness",
+      "price": 1336,
+      "type": "phone"
     },
     {
       "itemName": "vivo V30e",
@@ -11017,7 +11977,9 @@
       "systemOs": "Android 14, Funtouch 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "44W",
-      "body": "179g or 188g, 7.7mm thickness"
+      "body": "179g or 188g, 7.7mm thickness",
+      "price": 1868,
+      "type": "phone"
     },
     {
       "itemName": "vivo Y38",
@@ -11039,7 +12001,9 @@
       "systemOs": "Android 14, Funtouch 14",
       "storage": "256GB storage, microSDXC",
       "charger": "44W",
-      "body": "199g, 8mm thickness"
+      "body": "199g, 8mm thickness",
+      "price": 1037,
+      "type": "phone"
     },
     {
       "itemName": "vivo V30 SE",
@@ -11062,7 +12026,9 @@
       "systemOs": "Android 14, Funtouch 14",
       "storage": "256GB storage, microSDXC",
       "charger": "44W",
-      "body": "185.5g or 191g, 7.8mm thickness"
+      "body": "185.5g or 191g, 7.8mm thickness",
+      "price": 1960,
+      "type": "phone"
     },
     {
       "itemName": "vivo iQOO Z9 Turbo",
@@ -11084,7 +12050,9 @@
       "systemOs": "Android 14, OriginOS 4",
       "storage": "256GB/512GB storage, Unspecified",
       "charger": "80W",
-      "body": "194.9g, 8mm thickness"
+      "body": "194.9g, 8mm thickness",
+      "price": 1236,
+      "type": "phone"
     },
     {
       "itemName": "vivo iQOO Z9x",
@@ -11106,7 +12074,9 @@
       "systemOs": "Android 14, OriginOS 4",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "44W",
-      "body": "199g, 8mm thickness"
+      "body": "199g, 8mm thickness",
+      "price": 1011,
+      "type": "phone"
     },
     {
       "itemName": "vivo iQOO Z9 (China)",
@@ -11128,7 +12098,9 @@
       "systemOs": "Android 14, OriginOS 4",
       "storage": "128GB/256GB/512GB storage, Unspecified",
       "charger": "80W",
-      "body": "194.6g, 8mm thickness"
+      "body": "194.6g, 8mm thickness",
+      "price": 1028,
+      "type": "phone"
     },
     {
       "itemName": "vivo iQOO Watch",
@@ -11151,7 +12123,9 @@
       "systemOs": "Blue OS",
       "storage": "4GB 64MB RAM storage, no card slot",
       "charger": "",
-      "body": "36g, 11.3mm thickness"
+      "body": "36g, 11.3mm thickness",
+      "type": "watch",
+      "price": 438
     },
     {
       "itemName": "vivo Y200i",
@@ -11173,7 +12147,9 @@
       "systemOs": "Android 14, OriginOS 4",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "44W",
-      "body": "199g, 8mm thickness"
+      "body": "199g, 8mm thickness",
+      "price": 133,
+      "type": "phone"
     },
     {
       "itemName": "vivo T3x",
@@ -11196,7 +12172,9 @@
       "systemOs": "Android 14, Funtouch 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "44W",
-      "body": "199g, 8mm thickness"
+      "body": "199g, 8mm thickness",
+      "price": 1606,
+      "type": "phone"
     },
     {
       "itemName": "vivo V30 Lite 4G",
@@ -11219,7 +12197,9 @@
       "systemOs": "Android 14, Funtouch 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "80W",
-      "body": "186g or 188g, 7.8mm thickness"
+      "body": "186g or 188g, 7.8mm thickness",
+      "price": 1125,
+      "type": "phone"
     },
     {
       "itemName": "vivo V30 Lite (ME)",
@@ -11242,7 +12222,9 @@
       "systemOs": "Android 14, Funtouch 14",
       "storage": "256GB storage, microSDXC",
       "charger": "80W",
-      "body": "185.5g or 191g, 7.8mm thickness"
+      "body": "185.5g or 191g, 7.8mm thickness",
+      "price": 436,
+      "type": "phone"
     },
     {
       "itemName": "vivo V40 SE",
@@ -11265,7 +12247,9 @@
       "systemOs": "Android 14, Funtouch 14",
       "storage": "256GB storage, microSDXC",
       "charger": "44W",
-      "body": "185.5g or 191g, 7.8mm thickness"
+      "body": "185.5g or 191g, 7.8mm thickness",
+      "price": 361,
+      "type": "phone"
     },
     {
       "itemName": "vivo X Fold3 Pro",
@@ -11289,7 +12273,9 @@
       "systemOs": "Android 14, OriginOS 4",
       "storage": "512GB/1TB storage, no card slot",
       "charger": "100W50W",
-      "body": "236g, 5.2mm thickness"
+      "body": "236g, 5.2mm thickness",
+      "price": 1994,
+      "type": "phone"
     },
     {
       "itemName": "vivo X Fold3",
@@ -11313,7 +12299,9 @@
       "systemOs": "Android 14, OriginOS 4",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "80W",
-      "body": "219g, 4.7mm thickness"
+      "body": "219g, 4.7mm thickness",
+      "price": 772,
+      "type": "phone"
     },
     {
       "itemName": "vivo Pad3 Pro",
@@ -11335,7 +12323,9 @@
       "systemOs": "Android 14, OriginOS 4",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "66W",
-      "body": "679g, 6.6mm thickness"
+      "body": "679g, 6.6mm thickness",
+      "price": 1877,
+      "type": "phone"
     },
     {
       "itemName": "vivo T3",
@@ -11357,7 +12347,9 @@
       "systemOs": "Android 14, Funtouch 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "44W",
-      "body": "185.5g or 188g, 7.8mm thickness"
+      "body": "185.5g or 188g, 7.8mm thickness",
+      "price": 461,
+      "type": "phone"
     },
     {
       "itemName": "vivo Y03",
@@ -11376,7 +12368,9 @@
       "systemOs": "Android 14, Funtouch 14",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "15W",
-      "body": "185g, 8.4mm thickness"
+      "body": "185g, 8.4mm thickness",
+      "price": 966,
+      "type": "phone"
     },
     {
       "itemName": "vivo iQOO Z9",
@@ -11398,7 +12392,9 @@
       "systemOs": "Android 14, Funtouch 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "44W",
-      "body": "188g, 7.8mm thickness"
+      "body": "188g, 7.8mm thickness",
+      "price": 1317,
+      "type": "phone"
     },
     {
       "itemName": "vivo V30 Pro",
@@ -11422,7 +12418,9 @@
       "systemOs": "Android 14, Funtouch 14",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "80W",
-      "body": "188g, 7.5mm thickness"
+      "body": "188g, 7.5mm thickness",
+      "price": 1288,
+      "type": "phone"
     },
     {
       "itemName": "vivo Y100t",
@@ -11444,7 +12442,9 @@
       "systemOs": "Android 13, OriginOS 3",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "120W",
-      "body": "200g, 8.8mm thickness"
+      "body": "200g, 8.8mm thickness",
+      "price": 135,
+      "type": "phone"
     },
     {
       "itemName": "vivo iQOO Neo9 Pro",
@@ -11466,7 +12466,9 @@
       "systemOs": "Android 14, Funtouch 14",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "120W",
-      "body": "190g or 196g, 8mm thickness"
+      "body": "190g or 196g, 8mm thickness",
+      "price": 1874,
+      "type": "phone"
     },
     {
       "itemName": "vivo Y200e",
@@ -11488,7 +12490,9 @@
       "systemOs": "Android 14, Funtouch 14",
       "storage": "128GB storage, microSDXC",
       "charger": "44W",
-      "body": "185.5g or 191g, 7.8mm thickness"
+      "body": "185.5g or 191g, 7.8mm thickness",
+      "price": 1471,
+      "type": "phone"
     },
     {
       "itemName": "vivo V30",
@@ -11512,7 +12516,9 @@
       "systemOs": "Android 14, Funtouch 14",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "80W",
-      "body": "186g, 7.5mm thickness"
+      "body": "186g, 7.5mm thickness",
+      "price": 1377,
+      "type": "phone"
     },
     {
       "itemName": "vivo Y100 (IDN)",
@@ -11534,7 +12540,9 @@
       "systemOs": "Android 14, Funtouch 14",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "80W",
-      "body": "185.5g or 191g, 7.8mm thickness"
+      "body": "185.5g or 191g, 7.8mm thickness",
+      "price": 625,
+      "type": "phone"
     },
     {
       "itemName": "vivo Y28",
@@ -11556,7 +12564,9 @@
       "systemOs": "Android 13, Funtouch 13",
       "storage": "128GB storage, microSDXC",
       "charger": "15W",
-      "body": "186g, 8.1mm thickness"
+      "body": "186g, 8.1mm thickness",
+      "price": 366,
+      "type": "phone"
     },
     {
       "itemName": "vivo G2",
@@ -11578,7 +12588,9 @@
       "systemOs": "Android 13, OriginOS 3",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "15W",
-      "body": "186g, 8.1mm thickness"
+      "body": "186g, 8.1mm thickness",
+      "price": 1294,
+      "type": "phone"
     },
     {
       "itemName": "vivo V30 Lite",
@@ -11600,7 +12612,9 @@
       "systemOs": "Android 13, Funtouch 13",
       "storage": "256GB storage, no card slot",
       "charger": "44W",
-      "body": "190g, 7.7mm thickness"
+      "body": "190g, 7.7mm thickness",
+      "price": 957,
+      "type": "phone"
     },
     {
       "itemName": "vivo iQOO Neo9 Pro (China)",
@@ -11623,7 +12637,9 @@
       "systemOs": "Android 14, OriginOS 4",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "120W",
-      "body": "190g or 196g, 8mm thickness"
+      "body": "190g or 196g, 8mm thickness",
+      "price": 1478,
+      "type": "phone"
     },
     {
       "itemName": "vivo iQOO Neo9",
@@ -11646,7 +12662,9 @@
       "systemOs": "Android 14, OriginOS 4",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "120W",
-      "body": "190g or 196g, 8mm thickness"
+      "body": "190g or 196g, 8mm thickness",
+      "price": 1455,
+      "type": "phone"
     },
     {
       "itemName": "vivo S18 Pro",
@@ -11669,7 +12687,9 @@
       "systemOs": "Android 14, OriginOS 4",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "80W",
-      "body": "188g, 7.5mm thickness"
+      "body": "188g, 7.5mm thickness",
+      "price": 428,
+      "type": "phone"
     },
     {
       "itemName": "vivo S18",
@@ -11692,7 +12712,9 @@
       "systemOs": "Android 14, OriginOS 4",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "80W",
-      "body": "185.8g, 7.5mm thickness"
+      "body": "185.8g, 7.5mm thickness",
+      "price": 1541,
+      "type": "phone"
     },
     {
       "itemName": "vivo S18e",
@@ -11715,7 +12737,9 @@
       "systemOs": "Android 14, OriginOS 4",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "80W",
-      "body": "193g, 7.7mm thickness"
+      "body": "193g, 7.7mm thickness",
+      "price": 738,
+      "type": "phone"
     },
     {
       "itemName": "vivo Y36i",
@@ -11737,7 +12761,9 @@
       "systemOs": "Android 13, OriginOS 3",
       "storage": "128GB storage, microSDXC",
       "charger": "15W",
-      "body": "186g, 8.1mm thickness"
+      "body": "186g, 8.1mm thickness",
+      "price": 775,
+      "type": "phone"
     },
     {
       "itemName": "vivo Y100i",
@@ -11760,7 +12786,9 @@
       "systemOs": "Android 13, OriginOS 3",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "44W",
-      "body": "190g, 8mm thickness"
+      "body": "190g, 8mm thickness",
+      "price": 1029,
+      "type": "phone"
     },
     {
       "itemName": "vivo X100 Pro",
@@ -11784,7 +12812,9 @@
       "systemOs": "Android 14, Funtouch 14, OriginOS 4",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "100W50W",
-      "body": "221g or 225g, 8.9mm thickness"
+      "body": "221g or 225g, 8.9mm thickness",
+      "price": 1734,
+      "type": "phone"
     },
     {
       "itemName": "vivo X100",
@@ -11807,7 +12837,9 @@
       "systemOs": "Android 14, Funtouch 14, OriginOS 4",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "120W",
-      "body": "202g or 206g, 8.5mm thickness"
+      "body": "202g or 206g, 8.5mm thickness",
+      "price": 1730,
+      "type": "phone"
     },
     {
       "itemName": "vivo Watch 3",
@@ -11831,7 +12863,9 @@
       "systemOs": "Blue OS",
       "storage": "4GB 64MB RAM storage, no card slot",
       "charger": "",
-      "body": "36g, 13.8mm thickness"
+      "body": "36g, 13.8mm thickness",
+      "type": "watch",
+      "price": 65
     },
     {
       "itemName": "vivo iQOO 12 Pro",
@@ -11854,7 +12888,9 @@
       "systemOs": "Android 14, Funtouch 14, OriginOS 4",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "120W50W",
-      "body": "205g or 210g, 8.6mm thickness"
+      "body": "205g or 210g, 8.6mm thickness",
+      "price": 1506,
+      "type": "phone"
     },
     {
       "itemName": "vivo iQOO 12",
@@ -11878,7 +12914,9 @@
       "systemOs": "Android 14, Funtouch 14, OriginOS 4",
       "storage": "256GB/512GB/1TB storage, no card slot",
       "charger": "120W",
-      "body": "198.5g or 203.7g, 8.1mm thickness"
+      "body": "198.5g or 203.7g, 8.1mm thickness",
+      "price": 1799,
+      "type": "phone"
     },
     {
       "itemName": "vivo Y27s",
@@ -11901,7 +12939,9 @@
       "systemOs": "Android 13, Funtouch 13",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "44W",
-      "body": "192g, 8.2mm thickness"
+      "body": "192g, 8.2mm thickness",
+      "price": 521,
+      "type": "phone"
     },
     {
       "itemName": "vivo Y100 (China)",
@@ -11923,7 +12963,9 @@
       "systemOs": "Android 13, OriginOS 3",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "44W",
-      "body": "172g or 183g, 7.6mm thickness"
+      "body": "172g or 183g, 7.6mm thickness",
+      "price": 1333,
+      "type": "phone"
     },
     {
       "itemName": "vivo T2",
@@ -11945,7 +12987,9 @@
       "systemOs": "Android 13, Funtouch 13",
       "storage": "256GB storage, microSDXC",
       "charger": "66W",
-      "body": "186g, 7.7mm thickness"
+      "body": "186g, 7.7mm thickness",
+      "price": 1855,
+      "type": "phone"
     },
     {
       "itemName": "vivo V29e",
@@ -11967,7 +13011,9 @@
       "systemOs": "Android 13, Funtouch 13",
       "storage": "256GB storage, no card slot",
       "charger": "44W",
-      "body": "190g, 7.7mm thickness"
+      "body": "190g, 7.7mm thickness",
+      "price": 1688,
+      "type": "phone"
     },
     {
       "itemName": "vivo Y200",
@@ -11989,7 +13035,9 @@
       "systemOs": "Android 13, Funtouch 13",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "44W",
-      "body": "190g, 7.7mm thickness"
+      "body": "190g, 7.7mm thickness",
+      "price": 836,
+      "type": "phone"
     },
     {
       "itemName": "vivo Y78t",
@@ -12012,7 +13060,9 @@
       "systemOs": "Android 13, OriginOS 3",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "44W",
-      "body": "199.6g, 9.1mm thickness"
+      "body": "199.6g, 9.1mm thickness",
+      "price": 217,
+      "type": "phone"
     },
     {
       "itemName": "vivo V29 Pro",
@@ -12036,7 +13086,9 @@
       "systemOs": "Android 13, Funtouch 13",
       "storage": "256GB storage, no card slot",
       "charger": "80W",
-      "body": "188g, 7.5mm thickness"
+      "body": "188g, 7.5mm thickness",
+      "price": 1943,
+      "type": "phone"
     },
     {
       "itemName": "vivo iQOO Z8x",
@@ -12058,7 +13110,9 @@
       "systemOs": "Android 13, OriginOS 3",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "44W",
-      "body": "199.6g, 9.1mm thickness"
+      "body": "199.6g, 9.1mm thickness",
+      "price": 746,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone 11 Ultra",
@@ -12082,7 +13136,9 @@
       "systemOs": "Android 14",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "65W15W",
-      "body": "224g, 8.9mm thickness"
+      "body": "224g, 8.9mm thickness",
+      "price": 1745,
+      "type": "phone"
     },
     {
       "itemName": "Asus ROG Phone 8 Pro",
@@ -12104,7 +13160,9 @@
       "systemOs": "Android 14",
       "storage": "512GB/1TB storage, no card slot",
       "charger": "65W15W",
-      "body": "225g, 8.9mm thickness"
+      "body": "225g, 8.9mm thickness",
+      "price": 509,
+      "type": "phone"
     },
     {
       "itemName": "Asus ROG Phone 8",
@@ -12127,7 +13185,9 @@
       "systemOs": "Android 14",
       "storage": "256GB storage, no card slot",
       "charger": "65W15W",
-      "body": "225g, 8.9mm thickness"
+      "body": "225g, 8.9mm thickness",
+      "price": 1742,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone 10",
@@ -12151,7 +13211,9 @@
       "systemOs": "Android 13, up to Android 14",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "30W15W",
-      "body": "172g, 9.4mm thickness"
+      "body": "172g, 9.4mm thickness",
+      "price": 1183,
+      "type": "phone"
     },
     {
       "itemName": "Asus ROG Phone 7 Ultimate",
@@ -12175,7 +13237,9 @@
       "systemOs": "Android 13, up to Android 14",
       "storage": "512GB storage, no card slot",
       "charger": "65W",
-      "body": "239g, 10.3mm thickness"
+      "body": "239g, 10.3mm thickness",
+      "price": 295,
+      "type": "phone"
     },
     {
       "itemName": "Asus ROG Phone 7",
@@ -12199,7 +13263,9 @@
       "systemOs": "Android 13, up to Android 14",
       "storage": "256GB/512GB storage, no card slot",
       "charger": "65W",
-      "body": "239g, 10.3mm thickness"
+      "body": "239g, 10.3mm thickness",
+      "price": 1085,
+      "type": "phone"
     },
     {
       "itemName": "Asus ROG Phone 6D Ultimate",
@@ -12223,7 +13289,9 @@
       "systemOs": "Android 12",
       "storage": "512GB storage, no card slot",
       "charger": "65W",
-      "body": "247g, 10.4mm thickness"
+      "body": "247g, 10.4mm thickness",
+      "price": 1363,
+      "type": "phone"
     },
     {
       "itemName": "Asus ROG Phone 6D",
@@ -12244,7 +13312,9 @@
       "systemOs": "Android 12",
       "storage": "256GB storage, no card slot",
       "charger": "65W",
-      "body": "239g, 10.4mm thickness"
+      "body": "239g, 10.4mm thickness",
+      "price": 1355,
+      "type": "phone"
     },
     {
       "itemName": "Asus ROG Phone 6 Diablo Immortal Edition",
@@ -12266,7 +13336,9 @@
       "systemOs": "Android 12",
       "storage": "512GB storage, no card slot",
       "charger": "65W",
-      "body": "239g, 10.4mm thickness"
+      "body": "239g, 10.4mm thickness",
+      "price": 1961,
+      "type": "phone"
     },
     {
       "itemName": "Asus ROG Phone 6 Batman Edition",
@@ -12287,7 +13359,9 @@
       "systemOs": "Android 12",
       "storage": "256GB storage, no card slot",
       "charger": "65W",
-      "body": "239g, 10.4mm thickness"
+      "body": "239g, 10.4mm thickness",
+      "price": 1771,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone 9",
@@ -12311,7 +13385,9 @@
       "systemOs": "Android 12, up to Android 13",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "30W",
-      "body": "169g, 9.1mm thickness"
+      "body": "169g, 9.1mm thickness",
+      "price": 1030,
+      "type": "phone"
     },
     {
       "itemName": "Asus ROG Phone 6 Pro",
@@ -12335,7 +13411,9 @@
       "systemOs": "Android 12, up to Android 13",
       "storage": "512GB storage, no card slot",
       "charger": "65W",
-      "body": "239g, 10.3mm thickness"
+      "body": "239g, 10.3mm thickness",
+      "price": 230,
+      "type": "phone"
     },
     {
       "itemName": "Asus ROG Phone 6",
@@ -12357,7 +13435,9 @@
       "systemOs": "Android 12, up to Android 13",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "65W",
-      "body": "239g, 10.3mm thickness"
+      "body": "239g, 10.3mm thickness",
+      "price": 1771,
+      "type": "phone"
     },
     {
       "itemName": "Asus ROG Phone 5s Pro",
@@ -12381,7 +13461,9 @@
       "systemOs": "Android 11, ROG UI",
       "storage": "512GB storage, no card slot",
       "charger": "65W",
-      "body": "238g, 9.9mm thickness"
+      "body": "238g, 9.9mm thickness",
+      "price": 991,
+      "type": "phone"
     },
     {
       "itemName": "Asus ROG Phone 5s",
@@ -12406,7 +13488,9 @@
       "systemOs": "Android 11, up to Android 12, ROG UI",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "65W",
-      "body": "238g, 9.9mm thickness"
+      "body": "238g, 9.9mm thickness",
+      "price": 1397,
+      "type": "phone"
     },
     {
       "itemName": "Asus Smartphone for Snapdragon Insiders",
@@ -12427,7 +13511,9 @@
       "systemOs": "Android 11",
       "storage": "512GB storage, no card slot",
       "charger": "65W",
-      "body": "210g, 9.6mm thickness"
+      "body": "210g, 9.6mm thickness",
+      "price": 1043,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone 8 Flip",
@@ -12451,7 +13537,9 @@
       "systemOs": "Android 11, up to Android 13",
       "storage": "128GB/256GB storage, microSDXC",
       "charger": "30W",
-      "body": "230g, 9.6mm thickness"
+      "body": "230g, 9.6mm thickness",
+      "price": 1380,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone 8",
@@ -12475,7 +13563,9 @@
       "systemOs": "Android 11, up to Android 13",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "30W",
-      "body": "169g, 8.9mm thickness"
+      "body": "169g, 8.9mm thickness",
+      "price": 670,
+      "type": "phone"
     },
     {
       "itemName": "Asus ROG Phone 5 Ultimate",
@@ -12497,7 +13587,9 @@
       "systemOs": "Android 11, ROG UI",
       "storage": "512GB storage, no card slot",
       "charger": "65W",
-      "body": "238g, 10.3mm thickness"
+      "body": "238g, 10.3mm thickness",
+      "price": 313,
+      "type": "phone"
     },
     {
       "itemName": "Asus ROG Phone 5 Pro",
@@ -12518,7 +13610,9 @@
       "systemOs": "Android 11, ROG UI",
       "storage": "512GB storage, no card slot",
       "charger": "65W",
-      "body": "238g, 10.3mm thickness"
+      "body": "238g, 10.3mm thickness",
+      "price": 368,
+      "type": "phone"
     },
     {
       "itemName": "Asus ROG Phone 5",
@@ -12542,7 +13636,9 @@
       "systemOs": "Android 11, up to Android 12, ROG UI",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "65W",
-      "body": "238g, 10.3mm thickness"
+      "body": "238g, 10.3mm thickness",
+      "price": 719,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone 7 Pro",
@@ -12566,7 +13662,9 @@
       "systemOs": "Android 10, up to Android 12, ZenUI",
       "storage": "256GB storage, microSDXC",
       "charger": "30W",
-      "body": "230g, 9.6mm thickness"
+      "body": "230g, 9.6mm thickness",
+      "price": 1337,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone 7",
@@ -12589,7 +13687,9 @@
       "systemOs": "Android 10, up to Android 12, ZenUI",
       "storage": "128GB storage, microSDXC",
       "charger": "30W",
-      "body": "230g, 9.6mm thickness"
+      "body": "230g, 9.6mm thickness",
+      "price": 1340,
+      "type": "phone"
     },
     {
       "itemName": "Asus ROG Phone 3",
@@ -12613,7 +13713,9 @@
       "systemOs": "Android 10, up to Android 12, ROG UI",
       "storage": "128GB/256GB/512GB storage, no card slot",
       "charger": "30W",
-      "body": "240g, 9.9mm thickness"
+      "body": "240g, 9.9mm thickness",
+      "price": 991,
+      "type": "phone"
     },
     {
       "itemName": "Asus ROG Phone 3 Strix",
@@ -12635,7 +13737,9 @@
       "systemOs": "Android 10, ROG UI",
       "storage": "128GB/256GB storage, no card slot",
       "charger": "30W",
-      "body": "240g, 9.9mm thickness"
+      "body": "240g, 9.9mm thickness",
+      "price": 728,
+      "type": "phone"
     },
     {
       "itemName": "Asus ROG Phone II ZS660KL",
@@ -12660,7 +13764,9 @@
       "systemOs": "Android 9.0, ROG UI",
       "storage": "128GB/256GB/1TB storage, no card slot",
       "charger": "30W",
-      "body": "240g, 9.5mm thickness"
+      "body": "240g, 9.5mm thickness",
+      "price": 170,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone 6 ZS630KL",
@@ -12685,7 +13791,9 @@
       "systemOs": "Android 9.0, up to Android 11, ZenUI",
       "storage": "64GB/128GB/512GB storage, microSDXC",
       "charger": "18W",
-      "body": "190g, 9.2mm thickness"
+      "body": "190g, 9.2mm thickness",
+      "price": 841,
+      "type": "phone"
     },
     {
       "itemName": "Asus ZenFone Live (L2)",
@@ -12707,7 +13815,9 @@
       "systemOs": "Android 8.0 Oreo, ZenUI 5",
       "storage": "16GB/32GB storage, microSDXC",
       "charger": "",
-      "body": "140g, 8.2mm thickness"
+      "body": "140g, 8.2mm thickness",
+      "price": 1358,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone Max Plus (M2) ZB634KL",
@@ -12730,7 +13840,9 @@
       "systemOs": "Android 8.0",
       "storage": "32GB/64GB storage, microSDXC",
       "charger": "10W",
-      "body": "165g, 8.4mm thickness"
+      "body": "165g, 8.4mm thickness",
+      "price": 674,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone Max Shot ZB634KL",
@@ -12753,7 +13865,9 @@
       "systemOs": "Android 8.0",
       "storage": "32GB/64GB storage, microSDXC",
       "charger": "10W",
-      "body": "165g, 8.4mm thickness"
+      "body": "165g, 8.4mm thickness",
+      "price": 960,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone Max Pro (M2) ZB631KL",
@@ -12776,7 +13890,9 @@
       "systemOs": "Android 8.1, up to Android 9.0",
       "storage": "32GB/64GB/128GB storage, microSDXC",
       "charger": "10W",
-      "body": "175g, 8.5mm thickness"
+      "body": "175g, 8.5mm thickness",
+      "price": 699,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone Max (M2) ZB633KL",
@@ -12799,7 +13915,9 @@
       "systemOs": "Android 8.1, up to Android 9.0",
       "storage": "32GB/64GB storage, microSDXC",
       "charger": "",
-      "body": "160g, 7.7mm thickness"
+      "body": "160g, 7.7mm thickness",
+      "price": 1560,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone Max (M1) ZB556KL",
@@ -12821,7 +13939,9 @@
       "systemOs": "Android 8, ZenUI 5",
       "storage": "32GB storage, microSDXC",
       "charger": "10W",
-      "body": "150g, 8.7mm thickness"
+      "body": "150g, 8.7mm thickness",
+      "price": 270,
+      "type": "phone"
     },
     {
       "itemName": "Asus ZenFone Lite (L1) ZA551KL",
@@ -12843,7 +13963,9 @@
       "systemOs": "Android 8.0 Oreo",
       "storage": "16GB storage, microSDXC",
       "charger": "",
-      "body": "140g, 8.2mm thickness"
+      "body": "140g, 8.2mm thickness",
+      "price": 366,
+      "type": "phone"
     },
     {
       "itemName": "Asus ROG Phone ZS600KL",
@@ -12868,7 +13990,9 @@
       "systemOs": "Android 8.1, up to 9.0, ROG Gaming X UI",
       "storage": "128GB/512GB storage, no card slot",
       "charger": "30W",
-      "body": "200g, 8.3mm thickness"
+      "body": "200g, 8.3mm thickness",
+      "price": 1313,
+      "type": "phone"
     },
     {
       "itemName": "Asus ZenFone Live (L1) ZA550KL",
@@ -12890,7 +14014,9 @@
       "systemOs": "Android 8.0 Oreo, ZenUI 5",
       "storage": "16GB/32GB storage, microSDXC",
       "charger": "",
-      "body": "140g, 8.2mm thickness"
+      "body": "140g, 8.2mm thickness",
+      "price": 228,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone Max Pro (M1) ZB601KL/ZB602K",
@@ -12913,7 +14039,9 @@
       "systemOs": "Android 8.1, up to Android 9.0",
       "storage": "32GB/64GB/128GB storage, microSDXC",
       "charger": "10W",
-      "body": "180g, 8.5mm thickness"
+      "body": "180g, 8.5mm thickness",
+      "price": 1344,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone 5z ZS620KL",
@@ -12936,7 +14064,9 @@
       "systemOs": "Android 8.0, up to Android 10",
       "storage": "64GB/128GB/256GB storage, microSDXC",
       "charger": "18W",
-      "body": "165g, 7.9mm thickness"
+      "body": "165g, 7.9mm thickness",
+      "price": 485,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone 5 ZE620KL",
@@ -12959,7 +14089,9 @@
       "systemOs": "Android 8.0, up to Android 9.0, ZenUI 5",
       "storage": "64GB storage, microSDXC",
       "charger": "10W",
-      "body": "165g, 7.7mm thickness"
+      "body": "165g, 7.7mm thickness",
+      "price": 1556,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone 5 Lite ZC600KL",
@@ -12982,7 +14114,9 @@
       "systemOs": "Android 7.1.1, up to Android 9.0",
       "storage": "32GB/64GB storage, microSDXC",
       "charger": "",
-      "body": "168g, 7.8mm thickness"
+      "body": "168g, 7.8mm thickness",
+      "price": 1629,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone Max (M1) ZB555KL",
@@ -13004,7 +14138,9 @@
       "systemOs": "Android 8, ZenUI 5",
       "storage": "16GB/32GB storage, microSDXC",
       "charger": "10W",
-      "body": "150g, 8.7mm thickness"
+      "body": "150g, 8.7mm thickness",
+      "price": 1998,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone Max Plus (M1) ZB570TL",
@@ -13025,7 +14161,9 @@
       "systemOs": "Android 7, ZenUI 4",
       "storage": "16GB/32GB/64GB storage, microSDXC",
       "charger": "10W",
-      "body": "160g, 8.8mm thickness"
+      "body": "160g, 8.8mm thickness",
+      "price": 300,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone V V520KL",
@@ -13047,7 +14185,9 @@
       "systemOs": "Android 7, ZenUI 3",
       "storage": "32GB storage, microSDXC",
       "charger": "18W",
-      "body": "147.1g, 7.6mm thickness"
+      "body": "147.1g, 7.6mm thickness",
+      "price": 1106,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone 4 Pro ZS551KL",
@@ -13070,7 +14210,9 @@
       "systemOs": "Android 7.1.1, up to Android 8, ZenUI 4",
       "storage": "64GB/128GB storage, microSDXC",
       "charger": "18W",
-      "body": "175g, 7.6mm thickness"
+      "body": "175g, 7.6mm thickness",
+      "price": 1758,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone 4 ZE554KL",
@@ -13094,7 +14236,9 @@
       "systemOs": "Android 7.1.1, ZenUI 4",
       "storage": "64GB storage, microSDXC",
       "charger": "18W",
-      "body": "165g, 7.7mm thickness"
+      "body": "165g, 7.7mm thickness",
+      "price": 247,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone 4 Selfie Lite ZB553KL",
@@ -13116,7 +14260,9 @@
       "systemOs": "Android 7, ZenUI 4",
       "storage": "16GB/32GB storage, microSDXC",
       "charger": "",
-      "body": "144g, 7.9mm thickness"
+      "body": "144g, 7.9mm thickness",
+      "price": 1177,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone 4 Selfie ZB553KL",
@@ -13139,7 +14285,9 @@
       "systemOs": "Android 7.0, up to Android 8.1, ZenUI 5",
       "storage": "32GB storage, microSDXC",
       "charger": "",
-      "body": "144g, 7.9mm thickness"
+      "body": "144g, 7.9mm thickness",
+      "price": 323,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone 4 Selfie Pro ZD552KL",
@@ -13161,7 +14309,9 @@
       "systemOs": "Android 7, ZenUI 4",
       "storage": "64GB storage, microSDXC",
       "charger": "18W",
-      "body": "147g, 6.9mm thickness"
+      "body": "147g, 6.9mm thickness",
+      "price": 1921,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone 4 Selfie ZD553KL",
@@ -13183,7 +14333,9 @@
       "systemOs": "Android 7.0, up to Android 8.1, ZenUI 5",
       "storage": "64GB storage, microSDXC",
       "charger": "",
-      "body": "144g, 7.9mm thickness"
+      "body": "144g, 7.9mm thickness",
+      "price": 366,
+      "type": "phone"
     },
     {
       "itemName": "Asus Zenfone 4 Max ZC520KL",
@@ -13202,7 +14354,9 @@
       "systemOs": "Android 7, up to Android 8, ZenUI 4",
       "storage": "16GB/32GB storage, microSDXC",
       "charger": "",
-      "body": "156g, 8.8mm thickness"
+      "body": "156g, 8.8mm thickness",
+      "price": 685,
+      "type": "phone"
     }
   ]
 }
