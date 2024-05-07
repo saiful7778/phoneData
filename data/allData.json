@@ -1,6 +1,32 @@
 {
   "allItemsData": [
     {
+      "itemName": "Samsung Galaxy A55",
+      "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a55.jpg",
+      "imageAlt": "Samsung Galaxy A55",
+      "imagesLink": "https://www.gsmarena.com/samsung_galaxy_a55-pictures-12824.php",
+      "images": [
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a55-1.jpg",
+        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a55-2.jpg"
+      ],
+      "processor": "Exynos 1480",
+      "displaySize": "6.6 inch",
+      "displayRes": "1080x2340 pixels",
+      "cameraMgpix": "50MP",
+      "cameraRes": "2160p",
+      "ram": "6-12GB RAM",
+      "batteryMah": "5000mAh",
+      "releasedData": "Released 2024, March 15",
+      "systemOs": "Android 14, One UI 6.1",
+      "storage": "128GB/256GB storage, microSDXC",
+      "charger": "25W",
+      "body": "213g, 8.2mm thickness",
+      "price": 1214,
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_a55"
+    },
+    {
       "itemName": "Samsung Galaxy C55",
       "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-c55.jpg",
       "imageAlt": "Samsung Galaxy C55",
@@ -22,7 +48,9 @@
       "charger": "45W",
       "body": "180g, 7.8mm thickness",
       "price": 1130,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_c55"
     },
     {
       "itemName": "Samsung Galaxy M55",
@@ -46,7 +74,9 @@
       "charger": "45W",
       "body": "180g, 7.8mm thickness",
       "price": 1619,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_m55"
     },
     {
       "itemName": "Samsung Galaxy Tab S6 Lite (2024)",
@@ -71,33 +101,9 @@
       "charger": "15W",
       "body": "465/467g, 7mm thickness",
       "type": "tab",
-      "price": 416
-    },
-    {
-      "itemName": "Samsung Galaxy A55",
-      "imageUrl": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-a55.jpg",
-      "imageAlt": "Samsung Galaxy A55",
-      "imagesLink": "https://www.gsmarena.com/samsung_galaxy_a55-pictures-12824.php",
-      "images": [
-        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a55-1.jpg",
-        "https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-a55-2.jpg",
-        "https://fdn.gsmarena.com/imgroot/reviews/24/samsung-galaxy-a55/lifestyle/-1024w2/gsmarena_001.jpg",
-        "https://fdn.gsmarena.com/imgroot/reviews/24/samsung-galaxy-a55/lifestyle/-1024w2/gsmarena_002.jpg"
-      ],
-      "processor": "Exynos 1480",
-      "displaySize": "6.6 inch",
-      "displayRes": "1080x2340 pixels",
-      "cameraMgpix": "50MP",
-      "cameraRes": "2160p",
-      "ram": "6-12GB RAM",
-      "batteryMah": "5000mAh",
-      "releasedData": "Released 2024, March 15",
-      "systemOs": "Android 14, One UI 6.1",
-      "storage": "128GB/256GB storage, microSDXC",
-      "charger": "25W",
-      "body": "213g, 8.2mm thickness",
-      "price": 1214,
-      "type": "phone"
+      "price": 416,
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_tab_s6_lite_(2024)"
     },
     {
       "itemName": "Samsung Galaxy A35",
@@ -123,7 +129,9 @@
       "charger": "25W",
       "body": "209g, 8.2mm thickness",
       "price": 1533,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_a35"
     },
     {
       "itemName": "Samsung Galaxy M15",
@@ -147,7 +155,9 @@
       "charger": "25W",
       "body": "217g, 9.3mm thickness",
       "price": 104,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_m15"
     },
     {
       "itemName": "Samsung Galaxy M14 4G",
@@ -171,7 +181,9 @@
       "charger": "25W",
       "body": "194 g",
       "price": 1045,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_m14_4g"
     },
     {
       "itemName": "Samsung Galaxy F15",
@@ -195,7 +207,9 @@
       "charger": "25W",
       "body": "217g, 9.3mm thickness",
       "price": 1636,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_f15"
     },
     {
       "itemName": "Samsung Galaxy S24 Ultra",
@@ -222,7 +236,9 @@
       "charger": "45W15W",
       "body": "232g or 233g, 8.6mm thickness",
       "price": 850,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_s24_ultra"
     },
     {
       "itemName": "Samsung Galaxy S24+",
@@ -248,7 +264,9 @@
       "charger": "45W15W",
       "body": "196g or 197g, 7.7mm thickness",
       "price": 958,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_s24+"
     },
     {
       "itemName": "Samsung Galaxy S24",
@@ -274,7 +292,9 @@
       "charger": "25W15W",
       "body": "167g or 168g, 7.6mm thickness",
       "price": 542,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_s24"
     },
     {
       "itemName": "Samsung Galaxy Xcover7",
@@ -298,7 +318,9 @@
       "charger": "15W",
       "body": "240g, 10.2mm thickness",
       "price": 1781,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_xcover7"
     },
     {
       "itemName": "Samsung Galaxy Tab Active5",
@@ -322,7 +344,9 @@
       "charger": "",
       "body": "433g, 10.1mm thickness",
       "type": "tab",
-      "price": 726
+      "price": 726,
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_tab_active5"
     },
     {
       "itemName": "Samsung Galaxy A25",
@@ -348,7 +372,9 @@
       "charger": "25W",
       "body": "197g, 8.3mm thickness",
       "price": 1017,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_a25"
     },
     {
       "itemName": "Samsung Galaxy A15 5G",
@@ -374,7 +400,9 @@
       "charger": "25W",
       "body": "200g, 8.4mm thickness",
       "price": 827,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_a15_5g"
     },
     {
       "itemName": "Samsung Galaxy A15",
@@ -400,7 +428,9 @@
       "charger": "25W",
       "body": "200g, 8.4mm thickness",
       "price": 1747,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_a15"
     },
     {
       "itemName": "Samsung Galaxy Tab A9+",
@@ -424,7 +454,9 @@
       "charger": "15W",
       "body": "480g or 492g, 6.9mm thickness",
       "type": "tab",
-      "price": 696
+      "price": 696,
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_tab_a9+"
     },
     {
       "itemName": "Samsung Galaxy Tab A9",
@@ -448,7 +480,9 @@
       "charger": "15W",
       "body": "332g or 333g, 8mm thickness",
       "type": "tab",
-      "price": 583
+      "price": 583,
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_tab_a9"
     },
     {
       "itemName": "Samsung Galaxy S23 FE",
@@ -474,7 +508,9 @@
       "charger": "25W10W",
       "body": "209g, 8.2mm thickness",
       "price": 263,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_s23_fe"
     },
     {
       "itemName": "Samsung Galaxy Tab S9 FE+",
@@ -499,7 +535,9 @@
       "charger": "45W",
       "body": "627g or 628g, 6.5mm thickness",
       "type": "tab",
-      "price": 314
+      "price": 314,
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_tab_s9_fe+"
     },
     {
       "itemName": "Samsung Galaxy Tab S9 FE",
@@ -524,7 +562,9 @@
       "charger": "45W",
       "body": "523g or 524g, 6.5mm thickness",
       "type": "tab",
-      "price": 695
+      "price": 695,
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_tab_s9_fe"
     },
     {
       "itemName": "Samsung Galaxy A05s",
@@ -550,7 +590,9 @@
       "charger": "25W",
       "body": "194g, 8.8mm thickness",
       "price": 1506,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_a05s"
     },
     {
       "itemName": "Samsung Galaxy A05",
@@ -574,7 +616,9 @@
       "charger": "25W",
       "body": "195g, 8.8mm thickness",
       "price": 1409,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_a05"
     },
     {
       "itemName": "Samsung Galaxy F34",
@@ -598,7 +642,9 @@
       "charger": "25W",
       "body": "208g, 8.8mm thickness",
       "price": 574,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_f34"
     },
     {
       "itemName": "Samsung Galaxy Z Fold5",
@@ -624,7 +670,9 @@
       "charger": "25W15W",
       "body": "253g, 6.1mm thickness",
       "price": 1910,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_z_fold5"
     },
     {
       "itemName": "Samsung Galaxy Z Flip5",
@@ -650,7 +698,9 @@
       "charger": "25W15W",
       "body": "187g, 6.9mm thickness",
       "price": 1675,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_z_flip5"
     },
     {
       "itemName": "Samsung Galaxy Tab S9 Ultra",
@@ -676,7 +726,9 @@
       "charger": "45W",
       "body": "732g, 5.5mm thickness",
       "type": "tab",
-      "price": 712
+      "price": 712,
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_tab_s9_ultra"
     },
     {
       "itemName": "Samsung Galaxy Tab S9+",
@@ -699,7 +751,9 @@
       "charger": "45W",
       "body": "586g (581g Wi-Fi), 5.7mm thickness",
       "type": "tab",
-      "price": 283
+      "price": 283,
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_tab_s9+"
     },
     {
       "itemName": "Samsung Galaxy Tab S9",
@@ -722,7 +776,9 @@
       "charger": "45W",
       "body": "498g, 5.9mm thickness",
       "type": "tab",
-      "price": 365
+      "price": 365,
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_tab_s9"
     },
     {
       "itemName": "Samsung Galaxy Watch6 Classic",
@@ -748,7 +804,9 @@
       "charger": "10W",
       "body": "59g (47mm), 52g (43mm), 10.9mm thickness",
       "type": "watch",
-      "price": 334
+      "price": 334,
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_watch6_classic"
     },
     {
       "itemName": "Samsung Galaxy Watch6",
@@ -772,7 +830,9 @@
       "charger": "10W",
       "body": "33.3g (44mm), 28.7g (40mm), 9mm thickness",
       "type": "watch",
-      "price": 124
+      "price": 124,
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_watch6"
     },
     {
       "itemName": "Samsung Galaxy M34 5G",
@@ -796,7 +856,9 @@
       "charger": "25W",
       "body": "208g, 8.8mm thickness",
       "price": 385,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_m34_5g"
     },
     {
       "itemName": "Samsung Galaxy F54",
@@ -820,7 +882,9 @@
       "charger": "",
       "body": "199g, 8.4mm thickness",
       "price": 1631,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_f54"
     },
     {
       "itemName": "Samsung Galaxy A24 4G",
@@ -846,7 +910,9 @@
       "charger": "25W",
       "body": "195g, 8.3mm thickness",
       "price": 931,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_a24_4g"
     },
     {
       "itemName": "Samsung Galaxy F14",
@@ -870,7 +936,9 @@
       "charger": "25W",
       "body": "206g, 9.4mm thickness",
       "price": 607,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_f14"
     },
     {
       "itemName": "Samsung Galaxy M54",
@@ -894,7 +962,9 @@
       "charger": "25W",
       "body": "199g, 8.4mm thickness",
       "price": 386,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_m54"
     },
     {
       "itemName": "Samsung Galaxy A54",
@@ -920,7 +990,9 @@
       "charger": "25W",
       "body": "202g, 8.2mm thickness",
       "price": 1289,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_a54"
     },
     {
       "itemName": "Samsung Galaxy A34",
@@ -946,7 +1018,9 @@
       "charger": "25W",
       "body": "199g, 8.2mm thickness",
       "price": 459,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_a34"
     },
     {
       "itemName": "Samsung Galaxy M14",
@@ -970,7 +1044,9 @@
       "charger": "25W",
       "body": "206g, 9.4mm thickness",
       "price": 274,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_m14"
     },
     {
       "itemName": "Samsung Galaxy S23 Ultra",
@@ -997,7 +1073,9 @@
       "charger": "45W15W",
       "body": "234g, 8.9mm thickness",
       "price": 891,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_s23_ultra"
     },
     {
       "itemName": "Samsung Galaxy S23+",
@@ -1023,7 +1101,9 @@
       "charger": "45W10W",
       "body": "196g, 7.6mm thickness",
       "price": 1334,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_s23+"
     },
     {
       "itemName": "Samsung Galaxy S23",
@@ -1049,7 +1129,9 @@
       "charger": "25W15W",
       "body": "168g, 7.6mm thickness",
       "price": 412,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_s23"
     },
     {
       "itemName": "Samsung Galaxy A14",
@@ -1074,7 +1156,9 @@
       "charger": "15W",
       "body": "201g, 9.1mm thickness",
       "price": 954,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_a14"
     },
     {
       "itemName": "Samsung Galaxy A14 5G",
@@ -1100,7 +1184,9 @@
       "charger": "15W",
       "body": "202g, 9.1mm thickness",
       "price": 1458,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_a14_5g"
     },
     {
       "itemName": "Samsung Galaxy F04",
@@ -1124,7 +1210,9 @@
       "charger": "15W",
       "body": "188g, 9.1mm thickness",
       "price": 273,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_f04"
     },
     {
       "itemName": "Samsung Galaxy M04",
@@ -1147,7 +1235,9 @@
       "charger": "15W",
       "body": "188g, 9.1mm thickness",
       "price": 926,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_m04"
     },
     {
       "itemName": "Samsung Galaxy Tab A7 10.4 (2022)",
@@ -1173,7 +1263,9 @@
       "charger": "15W",
       "body": "477g, 7mm thickness",
       "type": "tab",
-      "price": 394
+      "price": 394,
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_tab_a7_10.4_(2022)"
     },
     {
       "itemName": "Samsung Galaxy A04e",
@@ -1197,7 +1289,9 @@
       "charger": "",
       "body": "188g, 9.1mm thickness",
       "price": 1061,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_a04e"
     },
     {
       "itemName": "Samsung Galaxy Tab Active4 Pro",
@@ -1223,7 +1317,9 @@
       "charger": "",
       "body": "674g, 10.2mm thickness",
       "type": "tab",
-      "price": 138
+      "price": 138,
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_tab_active4_pro"
     },
     {
       "itemName": "Samsung Galaxy A04s",
@@ -1249,7 +1345,9 @@
       "charger": "15W",
       "body": "195g, 9.1mm thickness",
       "price": 1822,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "samsung",
+      "slug": "samsung_galaxy_a04s"
     },
     {
       "itemName": "Apple iPhone 15 Pro Max",
@@ -1275,7 +1373,9 @@
       "charger": "PD2.015W",
       "body": "221g, 8.3mm thickness",
       "price": 1074,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_iphone_15_pro_max"
     },
     {
       "itemName": "Apple iPhone 15 Pro",
@@ -1301,7 +1401,9 @@
       "charger": "PD2.015W",
       "body": "187g, 8.3mm thickness",
       "price": 1106,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_iphone_15_pro"
     },
     {
       "itemName": "Apple iPhone 15 Plus",
@@ -1327,7 +1429,9 @@
       "charger": "PD2.015W",
       "body": "201g, 7.8mm thickness",
       "price": 1122,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_iphone_15_plus"
     },
     {
       "itemName": "Apple iPhone 15",
@@ -1353,7 +1457,9 @@
       "charger": "PD2.015W",
       "body": "171g, 7.8mm thickness",
       "price": 740,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_iphone_15"
     },
     {
       "itemName": "Apple Watch Ultra 2",
@@ -1378,7 +1484,9 @@
       "charger": "5W",
       "body": "61.4g, 14.4mm thickness",
       "type": "watch",
-      "price": 424
+      "price": 424,
+      "brandName": "apple",
+      "slug": "apple_watch_ultra_2"
     },
     {
       "itemName": "Apple Watch Series 9",
@@ -1402,7 +1510,9 @@
       "charger": "5W",
       "body": "42.3g (41mm), 51.5g (45mm), 10.7mm thickness",
       "type": "watch",
-      "price": 103
+      "price": 103,
+      "brandName": "apple",
+      "slug": "apple_watch_series_9"
     },
     {
       "itemName": "Apple Watch Series 9 Aluminum",
@@ -1428,7 +1538,9 @@
       "charger": "5W",
       "body": "31.9g (41mm), 38.7g (45mm), 10.7mm thickness",
       "type": "watch",
-      "price": 108
+      "price": 108,
+      "brandName": "apple",
+      "slug": "apple_watch_series_9_aluminum"
     },
     {
       "itemName": "Apple iPad Pro 12.9 (2022)",
@@ -1453,7 +1565,9 @@
       "charger": "",
       "body": "682g (Wi-Fi), 685g (5G), 6.4mm thickness",
       "price": 894,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_ipad_pro_12.9_(2022)"
     },
     {
       "itemName": "Apple iPad Pro 11 (2022)",
@@ -1478,7 +1592,9 @@
       "charger": "",
       "body": "466g (Wi-Fi), 470g (5G), 5.9mm thickness",
       "price": 1347,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_ipad_pro_11_(2022)"
     },
     {
       "itemName": "Apple iPad (2022)",
@@ -1503,7 +1619,9 @@
       "charger": "",
       "body": "477g (Wi-Fi) / 481g (LTE), 7mm thickness",
       "price": 1323,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_ipad_(2022)"
     },
     {
       "itemName": "Apple iPhone 14 Pro Max",
@@ -1529,7 +1647,9 @@
       "charger": "PD2.015W",
       "body": "240g, 7.9mm thickness",
       "price": 150,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_iphone_14_pro_max"
     },
     {
       "itemName": "Apple iPhone 14 Pro",
@@ -1555,7 +1675,9 @@
       "charger": "PD2.015W",
       "body": "206g, 7.9mm thickness",
       "price": 1276,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_iphone_14_pro"
     },
     {
       "itemName": "Apple iPhone 14 Plus",
@@ -1581,7 +1703,9 @@
       "charger": "PD2.015W",
       "body": "203g, 7.8mm thickness",
       "price": 1457,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_iphone_14_plus"
     },
     {
       "itemName": "Apple iPhone 14",
@@ -1607,7 +1731,9 @@
       "charger": "PD2.015W",
       "body": "172g, 7.8mm thickness",
       "price": 1226,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_iphone_14"
     },
     {
       "itemName": "Apple Watch Ultra",
@@ -1634,7 +1760,9 @@
       "charger": "5W",
       "body": "61.3g, 14.4mm thickness",
       "type": "watch",
-      "price": 178
+      "price": 178,
+      "brandName": "apple",
+      "slug": "apple_watch_ultra"
     },
     {
       "itemName": "Apple Watch Series 8",
@@ -1658,7 +1786,9 @@
       "charger": "5W",
       "body": "42.3g (41mm), 51.5g (45mm), 10.7mm thickness",
       "type": "watch",
-      "price": 413
+      "price": 413,
+      "brandName": "apple",
+      "slug": "apple_watch_series_8"
     },
     {
       "itemName": "Apple Watch Series 8 Aluminum",
@@ -1682,7 +1812,9 @@
       "charger": "5W",
       "body": "32g (41mm), 38.8g (45mm), 10.7mm thickness",
       "type": "watch",
-      "price": 53
+      "price": 53,
+      "brandName": "apple",
+      "slug": "apple_watch_series_8_aluminum"
     },
     {
       "itemName": "Apple Watch SE (2022)",
@@ -1706,7 +1838,9 @@
       "charger": "5W",
       "body": "33g, 10.7mm thickness",
       "type": "watch",
-      "price": 342
+      "price": 342,
+      "brandName": "apple",
+      "slug": "apple_watch_se_(2022)"
     },
     {
       "itemName": "Apple iPhone SE (2022)",
@@ -1732,7 +1866,9 @@
       "charger": "20W8W",
       "body": "144g, 7.3mm thickness",
       "price": 1318,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_iphone_se_(2022)"
     },
     {
       "itemName": "Apple iPad Air (2022)",
@@ -1758,7 +1894,9 @@
       "charger": "",
       "body": "461g (Wi-Fi) / 462g (5G), 6.1mm thickness",
       "price": 1482,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_ipad_air_(2022)"
     },
     {
       "itemName": "Apple iPhone 13 Pro Max",
@@ -1785,7 +1923,9 @@
       "charger": "PD2.015W",
       "body": "240g, 7.7mm thickness",
       "price": 693,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_iphone_13_pro_max"
     },
     {
       "itemName": "Apple iPhone 13 Pro",
@@ -1812,7 +1952,9 @@
       "charger": "PD2.015W",
       "body": "204g, 7.7mm thickness",
       "price": 1663,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_iphone_13_pro"
     },
     {
       "itemName": "Apple iPhone 13",
@@ -1839,7 +1981,9 @@
       "charger": "PD2.015W",
       "body": "174g, 7.7mm thickness",
       "price": 1505,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_iphone_13"
     },
     {
       "itemName": "Apple iPhone 13 mini",
@@ -1866,7 +2010,9 @@
       "charger": "PD2.015W",
       "body": "141g, 7.7mm thickness",
       "price": 710,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_iphone_13_mini"
     },
     {
       "itemName": "Apple iPad mini (2021)",
@@ -1889,7 +2035,9 @@
       "charger": "",
       "body": "293g (Wi-Fi) / 297g (Wi-Fi + Cellular), 6.3mm thickness",
       "price": 730,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_ipad_mini_(2021)"
     },
     {
       "itemName": "Apple iPad 10.2 (2021)",
@@ -1915,7 +2063,9 @@
       "charger": "",
       "body": "487g (Wi-Fi) / 498g (LTE), 7.5mm thickness",
       "price": 1109,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_ipad_10.2_(2021)"
     },
     {
       "itemName": "Apple Watch Edition Series 7",
@@ -1939,7 +2089,9 @@
       "charger": "5W",
       "body": "37g (41mm), 45.1g (45mm), 10.7mm thickness",
       "type": "watch",
-      "price": 340
+      "price": 340,
+      "brandName": "apple",
+      "slug": "apple_watch_edition_series_7"
     },
     {
       "itemName": "Apple Watch Series 7",
@@ -1963,7 +2115,9 @@
       "charger": "5W",
       "body": "42.3g (41mm), 51.5g (45mm), 10.7mm thickness",
       "type": "watch",
-      "price": 297
+      "price": 297,
+      "brandName": "apple",
+      "slug": "apple_watch_series_7"
     },
     {
       "itemName": "Apple Watch Series 7 Aluminum",
@@ -1987,7 +2141,9 @@
       "charger": "5W",
       "body": "32g (41mm), 38.8g (45mm), 10.7mm thickness",
       "type": "watch",
-      "price": 100
+      "price": 100,
+      "brandName": "apple",
+      "slug": "apple_watch_series_7_aluminum"
     },
     {
       "itemName": "Apple iPad Pro 12.9 (2021)",
@@ -2011,7 +2167,9 @@
       "charger": "",
       "body": "682g (Wi-Fi), 685g (5G), 6.4mm thickness",
       "price": 1305,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_ipad_pro_12.9_(2021)"
     },
     {
       "itemName": "Apple iPad Pro 11 (2021)",
@@ -2035,7 +2193,9 @@
       "charger": "",
       "body": "466g (Wi-Fi), 470g (5G), 5.9mm thickness",
       "price": 486,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_ipad_pro_11_(2021)"
     },
     {
       "itemName": "Apple iPhone 12 Pro Max",
@@ -2062,7 +2222,9 @@
       "charger": "PD2.015W",
       "body": "228g, 7.4mm thickness",
       "price": 908,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_iphone_12_pro_max"
     },
     {
       "itemName": "Apple iPhone 12 Pro",
@@ -2089,7 +2251,9 @@
       "charger": "PD2.015W",
       "body": "189g, 7.4mm thickness",
       "price": 733,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_iphone_12_pro"
     },
     {
       "itemName": "Apple iPhone 12",
@@ -2115,7 +2279,9 @@
       "charger": "PD2.015W",
       "body": "164g, 7.4mm thickness",
       "price": 1705,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_iphone_12"
     },
     {
       "itemName": "Apple iPhone 12 mini",
@@ -2141,7 +2307,9 @@
       "charger": "PD2.012W",
       "body": "135g, 7.4mm thickness",
       "price": 551,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_iphone_12_mini"
     },
     {
       "itemName": "Apple iPad Air (2020)",
@@ -2168,7 +2336,9 @@
       "charger": "",
       "body": "458g (Wi-Fi) / 460g (3G/LTE), 6.1mm thickness",
       "price": 1878,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_ipad_air_(2020)"
     },
     {
       "itemName": "Apple iPad 10.2 (2020)",
@@ -2194,7 +2364,9 @@
       "charger": "",
       "body": "490g (Wi-Fi) / 495g (LTE), 7.5mm thickness",
       "price": 1234,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_ipad_10.2_(2020)"
     },
     {
       "itemName": "Apple Watch SE",
@@ -2221,7 +2393,9 @@
       "charger": "5W",
       "body": "36.4g, 10.4mm thickness",
       "type": "watch",
-      "price": 72
+      "price": 72,
+      "brandName": "apple",
+      "slug": "apple_watch_se"
     },
     {
       "itemName": "Apple Watch Series 6 Aluminum",
@@ -2245,7 +2419,9 @@
       "charger": "5W",
       "body": "36.5g, 10.7mm thickness",
       "type": "watch",
-      "price": 379
+      "price": 379,
+      "brandName": "apple",
+      "slug": "apple_watch_series_6_aluminum"
     },
     {
       "itemName": "Apple Watch Series 6",
@@ -2270,7 +2446,9 @@
       "charger": "5W",
       "body": "47.1g, 10.7mm thickness",
       "type": "watch",
-      "price": 266
+      "price": 266,
+      "brandName": "apple",
+      "slug": "apple_watch_series_6"
     },
     {
       "itemName": "Apple Watch Edition Series 6",
@@ -2294,7 +2472,9 @@
       "charger": "5W",
       "body": "41.3g, 10.7mm thickness",
       "type": "watch",
-      "price": 449
+      "price": 449,
+      "brandName": "apple",
+      "slug": "apple_watch_edition_series_6"
     },
     {
       "itemName": "Apple iPhone SE (2020)",
@@ -2320,7 +2500,9 @@
       "charger": "18W8W",
       "body": "148g, 7.3mm thickness",
       "price": 1568,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_iphone_se_(2020)"
     },
     {
       "itemName": "Apple iPad Pro 12.9 (2020)",
@@ -2345,7 +2527,9 @@
       "charger": "",
       "body": "641g (Wi-Fi), 643g (LTE), 5.9mm thickness",
       "price": 964,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_ipad_pro_12.9_(2020)"
     },
     {
       "itemName": "Apple iPad Pro 11 (2020)",
@@ -2370,7 +2554,9 @@
       "charger": "",
       "body": "471g (Wi-Fi), 473g (LTE), 5.9mm thickness",
       "price": 1498,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_ipad_pro_11_(2020)"
     },
     {
       "itemName": "Apple iPhone 11 Pro Max",
@@ -2396,7 +2582,9 @@
       "charger": "PD2.05W",
       "body": "226g, 8.1mm thickness",
       "price": 175,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_iphone_11_pro_max"
     },
     {
       "itemName": "Apple iPhone 11 Pro",
@@ -2422,7 +2610,9 @@
       "charger": "PD2.05W",
       "body": "188g, 8.1mm thickness",
       "price": 384,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_iphone_11_pro"
     },
     {
       "itemName": "Apple iPhone 11",
@@ -2448,7 +2638,9 @@
       "charger": "PD2.05W",
       "body": "194g, 8.3mm thickness",
       "price": 906,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_iphone_11"
     },
     {
       "itemName": "Apple iPad 10.2 (2019)",
@@ -2472,7 +2664,9 @@
       "charger": "",
       "body": "483g (Wi-Fi) / 493g (LTE), 7.5mm thickness",
       "price": 1246,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "apple",
+      "slug": "apple_ipad_10.2_(2019)"
     },
     {
       "itemName": "Apple Watch Edition Series 5",
@@ -2496,7 +2690,9 @@
       "charger": "5W",
       "body": "47.8g, 10.7mm thickness",
       "type": "watch",
-      "price": 226
+      "price": 226,
+      "brandName": "apple",
+      "slug": "apple_watch_edition_series_5"
     },
     {
       "itemName": "Apple Watch Series 5",
@@ -2519,7 +2715,9 @@
       "charger": "5W",
       "body": "47.8g, 10.7mm thickness",
       "type": "watch",
-      "price": 404
+      "price": 404,
+      "brandName": "apple",
+      "slug": "apple_watch_series_5"
     },
     {
       "itemName": "Huawei Pura 70 Ultra",
@@ -2545,7 +2743,9 @@
       "charger": "100W80W",
       "body": "226g, 8.4mm thickness",
       "price": 439,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_pura_70_ultra"
     },
     {
       "itemName": "Huawei Pura 70 Pro+",
@@ -2570,7 +2770,9 @@
       "charger": "100W80W",
       "body": "220g, 8.4mm thickness",
       "price": 550,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_pura_70_pro+"
     },
     {
       "itemName": "Huawei Pura 70 Pro",
@@ -2595,7 +2797,9 @@
       "charger": "100W80W",
       "body": "220g, 8.4mm thickness",
       "price": 1870,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_pura_70_pro"
     },
     {
       "itemName": "Huawei Pura 70",
@@ -2620,7 +2824,9 @@
       "charger": "66W50W",
       "body": "207g, 8mm thickness",
       "price": 936,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_pura_70"
     },
     {
       "itemName": "Huawei nova 12i",
@@ -2645,7 +2851,9 @@
       "charger": "40W",
       "body": "199g, 8.4mm thickness",
       "price": 1895,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_nova_12i"
     },
     {
       "itemName": "Huawei nova 12 SE",
@@ -2670,7 +2878,9 @@
       "charger": "66W",
       "body": "186g, 7.4mm thickness",
       "price": 621,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_nova_12_se"
     },
     {
       "itemName": "Huawei nova 12s",
@@ -2694,7 +2904,9 @@
       "charger": "66W",
       "body": "168g, 6.9mm thickness",
       "price": 1791,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_nova_12s"
     },
     {
       "itemName": "Huawei Pocket 2",
@@ -2720,7 +2932,9 @@
       "charger": "66W40W",
       "body": "199g or 202g, 7.3mm thickness",
       "price": 926,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_pocket_2"
     },
     {
       "itemName": "Huawei Enjoy 70z",
@@ -2744,7 +2958,9 @@
       "charger": "23W",
       "body": "199g, 9mm thickness",
       "price": 1572,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_enjoy_70z"
     },
     {
       "itemName": "Huawei nova Y72",
@@ -2768,7 +2984,9 @@
       "charger": "23W",
       "body": "207g, 8.9mm thickness",
       "price": 364,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_nova_y72"
     },
     {
       "itemName": "Huawei nova 12 Ultra",
@@ -2792,7 +3010,9 @@
       "charger": "100W",
       "body": "198g, 7.7mm thickness",
       "price": 246,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_nova_12_ultra"
     },
     {
       "itemName": "Huawei nova 12 Pro",
@@ -2816,7 +3036,9 @@
       "charger": "100W",
       "body": "201g, 7.7mm thickness",
       "price": 252,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_nova_12_pro"
     },
     {
       "itemName": "Huawei nova 12",
@@ -2840,7 +3062,9 @@
       "charger": "100W",
       "body": "191g, 7mm thickness",
       "price": 952,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_nova_12"
     },
     {
       "itemName": "Huawei nova 12 Lite",
@@ -2864,7 +3088,9 @@
       "charger": "66W",
       "body": "168g, 6.9mm thickness",
       "price": 1690,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_nova_12_lite"
     },
     {
       "itemName": "Huawei Enjoy 70",
@@ -2889,7 +3115,9 @@
       "charger": "23W",
       "body": "207g, 8.9mm thickness",
       "price": 538,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_enjoy_70"
     },
     {
       "itemName": "Huawei MatePad Pro 11 (2024)",
@@ -2913,7 +3141,9 @@
       "charger": "66W",
       "body": "449gg cellular model), 5.9mm thickness",
       "price": 943,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_matepad_pro_11_(2024)"
     },
     {
       "itemName": "Huawei nova 11 SE",
@@ -2938,7 +3168,9 @@
       "charger": "66W",
       "body": "186g, 7.4mm thickness",
       "price": 1306,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_nova_11_se"
     },
     {
       "itemName": "Huawei Watch Ultimate Design",
@@ -2964,7 +3196,9 @@
       "charger": "5W",
       "body": "78g, 13mm thickness",
       "type": "watch",
-      "price": 62
+      "price": 62,
+      "brandName": "huawei",
+      "slug": "huawei_watch_ultimate_design"
     },
     {
       "itemName": "Huawei MatePad Pro 13.2",
@@ -2990,7 +3224,9 @@
       "charger": "88W",
       "body": "580g, 5.5mm thickness",
       "price": 1392,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_matepad_pro_13.2"
     },
     {
       "itemName": "Huawei Mate 60 RS Ultimate",
@@ -3017,7 +3253,9 @@
       "charger": "88W50W",
       "body": "242g or 246g, 8.1mm thickness",
       "price": 1192,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_mate_60_rs_ultimate"
     },
     {
       "itemName": "Huawei Watch GT 4",
@@ -3044,7 +3282,9 @@
       "charger": "5W",
       "body": "37g (41mm) / 48g (46mm), 10.9mm thickness",
       "type": "watch",
-      "price": 276
+      "price": 276,
+      "brandName": "huawei",
+      "slug": "huawei_watch_gt_4"
     },
     {
       "itemName": "Huawei Mate 60 Pro+",
@@ -3069,7 +3309,9 @@
       "charger": "88W50W",
       "body": "225g, 8.1mm thickness",
       "price": 1541,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_mate_60_pro+"
     },
     {
       "itemName": "Huawei Mate X5",
@@ -3096,7 +3338,9 @@
       "charger": "66W50W",
       "body": "243g or 245g, 5.3mm thickness",
       "price": 1570,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_mate_x5"
     },
     {
       "itemName": "Huawei Mate 60 Pro",
@@ -3120,7 +3364,9 @@
       "charger": "88W50W",
       "body": "225g, 8.1mm thickness",
       "price": 1294,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_mate_60_pro"
     },
     {
       "itemName": "Huawei Mate 60",
@@ -3141,7 +3387,9 @@
       "charger": "66W50W",
       "body": "209g, 8mm thickness",
       "price": 823,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_mate_60"
     },
     {
       "itemName": "Huawei MatePad 11.5",
@@ -3165,7 +3413,9 @@
       "charger": "23W",
       "body": "499g, 6.9mm thickness",
       "price": 1912,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_matepad_11.5"
     },
     {
       "itemName": "Huawei MatePad Air",
@@ -3189,7 +3439,9 @@
       "charger": "40W",
       "body": "508g, 6.4mm thickness",
       "price": 721,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_matepad_air"
     },
     {
       "itemName": "Huawei nova Y91",
@@ -3210,7 +3462,9 @@
       "charger": "23W",
       "body": "214g, 8.9mm thickness",
       "price": 877,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_nova_y91"
     },
     {
       "itemName": "Huawei Watch 4 Pro",
@@ -3237,7 +3491,9 @@
       "charger": "10W",
       "body": "65g, 12.9mm thickness",
       "type": "watch",
-      "price": 166
+      "price": 166,
+      "brandName": "huawei",
+      "slug": "huawei_watch_4_pro"
     },
     {
       "itemName": "Huawei Watch 4",
@@ -3263,7 +3519,9 @@
       "charger": "10W",
       "body": "48g, 10.9mm thickness",
       "type": "watch",
-      "price": 150
+      "price": 150,
+      "brandName": "huawei",
+      "slug": "huawei_watch_4"
     },
     {
       "itemName": "Huawei nova 11i",
@@ -3288,7 +3546,9 @@
       "charger": "40W",
       "body": "193g, 8.6mm thickness",
       "price": 1969,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_nova_11i"
     },
     {
       "itemName": "Huawei nova Y71",
@@ -3313,7 +3573,9 @@
       "charger": "23W",
       "body": "199g, 9mm thickness",
       "price": 1692,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_nova_y71"
     },
     {
       "itemName": "Huawei Enjoy 60X",
@@ -3338,7 +3600,9 @@
       "charger": "23W",
       "body": "216g, 8.9mm thickness",
       "price": 1520,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_enjoy_60x"
     },
     {
       "itemName": "Huawei nova 11 Ultra",
@@ -3363,7 +3627,9 @@
       "charger": "100W",
       "body": "188g, 7.9mm thickness",
       "price": 1809,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_nova_11_ultra"
     },
     {
       "itemName": "Huawei nova 11 Pro",
@@ -3389,7 +3655,9 @@
       "charger": "100W",
       "body": "188g or 193g, 7.9mm thickness",
       "price": 1168,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_nova_11_pro"
     },
     {
       "itemName": "Huawei nova 11",
@@ -3414,7 +3682,9 @@
       "charger": "66W",
       "body": "168g, 6.9mm thickness",
       "price": 1599,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_nova_11"
     },
     {
       "itemName": "Huawei Mate X3",
@@ -3440,7 +3710,9 @@
       "charger": "66W50W",
       "body": "239g or 241g, 5.3mm thickness",
       "price": 1743,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_mate_x3"
     },
     {
       "itemName": "Huawei P60 Pro",
@@ -3466,7 +3738,9 @@
       "charger": "88W50W",
       "body": "200g, 8.3mm thickness",
       "price": 839,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_p60_pro"
     },
     {
       "itemName": "Huawei P60",
@@ -3490,7 +3764,9 @@
       "charger": "66W50W",
       "body": "197g, 8.3mm thickness",
       "price": 1907,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_p60"
     },
     {
       "itemName": "Huawei P60 Art",
@@ -3515,7 +3791,9 @@
       "charger": "88W50W",
       "body": "206g, 8.3mm thickness",
       "price": 514,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_p60_art"
     },
     {
       "itemName": "Huawei Enjoy 60",
@@ -3540,7 +3818,9 @@
       "charger": "23W",
       "body": "199g, 9mm thickness",
       "price": 312,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_enjoy_60"
     },
     {
       "itemName": "Huawei Watch Ultimate",
@@ -3567,7 +3847,9 @@
       "charger": "5W",
       "body": "76g, 13mm thickness",
       "type": "watch",
-      "price": 403
+      "price": 403,
+      "brandName": "huawei",
+      "slug": "huawei_watch_ultimate"
     },
     {
       "itemName": "Huawei MatePad 11 (2023)",
@@ -3592,7 +3874,9 @@
       "charger": "23W",
       "body": "480g, 7.2mm thickness",
       "price": 347,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_matepad_11_(2023)"
     },
     {
       "itemName": "Huawei nova 10 Youth",
@@ -3616,7 +3900,9 @@
       "charger": "66W",
       "body": "191g, 7.9mm thickness",
       "price": 840,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_nova_10_youth"
     },
     {
       "itemName": "Huawei Watch Buds",
@@ -3642,7 +3928,9 @@
       "charger": "5W",
       "body": "66.5g, 15mm thickness",
       "type": "watch",
-      "price": 113
+      "price": 113,
+      "brandName": "huawei",
+      "slug": "huawei_watch_buds"
     },
     {
       "itemName": "Huawei Enjoy 50z",
@@ -3667,7 +3955,9 @@
       "charger": "23W",
       "body": "188g, 8.9mm thickness",
       "price": 1563,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_enjoy_50z"
     },
     {
       "itemName": "Huawei Watch GT 3 SE",
@@ -3692,7 +3982,9 @@
       "charger": "5W",
       "body": "35.6g, 11mm thickness",
       "type": "watch",
-      "price": 492
+      "price": 492,
+      "brandName": "huawei",
+      "slug": "huawei_watch_gt_3_se"
     },
     {
       "itemName": "Huawei Pocket S",
@@ -3719,7 +4011,9 @@
       "charger": "40W",
       "body": "190g, 7.2mm thickness",
       "price": 1379,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_pocket_s"
     },
     {
       "itemName": "Huawei Watch GT Cyber",
@@ -3746,7 +4040,9 @@
       "charger": "5W",
       "body": "58 / 59 / 77g, 10.2mm thickness",
       "type": "watch",
-      "price": 281
+      "price": 281,
+      "brandName": "huawei",
+      "slug": "huawei_watch_gt_cyber"
     },
     {
       "itemName": "Huawei nova Y61",
@@ -3771,7 +4067,9 @@
       "charger": "23W",
       "body": "188g, 8.9mm thickness",
       "price": 467,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "huawei",
+      "slug": "huawei_nova_y61"
     },
     {
       "itemName": "HTC A101 Plus",
@@ -3792,7 +4090,9 @@
       "charger": "10W",
       "body": "501g, 7.5mm thickness",
       "price": 1754,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_a101_plus"
     },
     {
       "itemName": "HTC A104",
@@ -3816,7 +4116,9 @@
       "charger": "10W",
       "body": "460g, 8mm thickness",
       "price": 158,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_a104"
     },
     {
       "itemName": "HTC Wildfire E star",
@@ -3839,7 +4141,9 @@
       "charger": "",
       "body": "200g, 9.2mm thickness",
       "price": 1982,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_wildfire_e_star"
     },
     {
       "itemName": "HTC U23",
@@ -3863,7 +4167,9 @@
       "charger": "30W15W",
       "body": "202g, 8.9mm thickness",
       "price": 1370,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_u23"
     },
     {
       "itemName": "HTC U23 Pro",
@@ -3889,7 +4195,9 @@
       "charger": "30W15W",
       "body": "205g, 8.9mm thickness",
       "price": 898,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_u23_pro"
     },
     {
       "itemName": "HTC A103 Plus",
@@ -3910,7 +4218,9 @@
       "charger": "10W",
       "body": "430g, 7.9mm thickness",
       "price": 1983,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_a103_plus"
     },
     {
       "itemName": "HTC A103",
@@ -3934,7 +4244,9 @@
       "charger": "10W",
       "body": "440g, 8.5mm thickness",
       "price": 990,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_a103"
     },
     {
       "itemName": "HTC A102",
@@ -3958,7 +4270,9 @@
       "charger": "18W",
       "body": "533g, 7.9mm thickness",
       "price": 1609,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_a102"
     },
     {
       "itemName": "HTC A101",
@@ -3982,7 +4296,9 @@
       "charger": "10W",
       "body": "530g, 8.4mm thickness",
       "price": 101,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_a101"
     },
     {
       "itemName": "HTC Wildfire E2 Play",
@@ -4005,7 +4321,9 @@
       "charger": "10W",
       "body": "210g, 9.3mm thickness",
       "price": 1860,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_wildfire_e2_play"
     },
     {
       "itemName": "HTC Wildfire E3 lite",
@@ -4029,7 +4347,9 @@
       "charger": "10W",
       "body": "218g, 9.2mm thickness",
       "price": 365,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_wildfire_e3_lite"
     },
     {
       "itemName": "HTC Wildfire E plus",
@@ -4052,7 +4372,9 @@
       "charger": "",
       "body": "190g, 8.8mm thickness",
       "price": 1813,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_wildfire_e_plus"
     },
     {
       "itemName": "HTC Desire 22 Pro",
@@ -4075,7 +4397,9 @@
       "charger": "",
       "body": "205.5g, 9.4mm thickness",
       "price": 331,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_desire_22_pro"
     },
     {
       "itemName": "HTC Wildfire E2 Plus",
@@ -4098,7 +4422,9 @@
       "charger": "10W",
       "body": "210g, 9.3mm thickness",
       "price": 160,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_wildfire_e2_plus"
     },
     {
       "itemName": "HTC Wildfire E3",
@@ -4122,7 +4448,9 @@
       "charger": "10W",
       "body": "186g, 9mm thickness",
       "price": 273,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_wildfire_e3"
     },
     {
       "itemName": "HTC Desire 21 Pro 5G",
@@ -4146,7 +4474,9 @@
       "charger": "18W",
       "body": "205g, 9.4mm thickness",
       "price": 273,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_desire_21_pro_5g"
     },
     {
       "itemName": "HTC Desire 20+",
@@ -4170,7 +4500,9 @@
       "charger": "15W",
       "body": "203g, 9mm thickness",
       "price": 1706,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_desire_20+"
     },
     {
       "itemName": "HTC Wildfire E1 lite",
@@ -4193,7 +4525,9 @@
       "charger": "",
       "body": "160g, 8.9mm thickness",
       "price": 1628,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_wildfire_e1_lite"
     },
     {
       "itemName": "HTC Wildfire E2",
@@ -4214,7 +4548,9 @@
       "charger": "10W",
       "body": "173.5g, 9mm thickness",
       "price": 1069,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_wildfire_e2"
     },
     {
       "itemName": "HTC Wildfire E1 plus",
@@ -4238,7 +4574,9 @@
       "charger": "",
       "body": "165g, 8.9mm thickness",
       "price": 531,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_wildfire_e1_plus"
     },
     {
       "itemName": "HTC Wildfire E1",
@@ -4262,7 +4600,9 @@
       "charger": "",
       "body": "165g, 8.9mm thickness",
       "price": 1105,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_wildfire_e1"
     },
     {
       "itemName": "HTC Wildfire E",
@@ -4283,7 +4623,9 @@
       "charger": "",
       "body": "160g, 8.9mm thickness",
       "price": 1647,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_wildfire_e"
     },
     {
       "itemName": "HTC U20 5G",
@@ -4304,7 +4646,9 @@
       "charger": "18W",
       "body": "215.5g, 9.4mm thickness",
       "price": 469,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_u20_5g"
     },
     {
       "itemName": "HTC Desire 20 Pro",
@@ -4327,7 +4671,9 @@
       "charger": "15W",
       "body": "201g, 9.4mm thickness",
       "price": 160,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_desire_20_pro"
     },
     {
       "itemName": "HTC Desire 19s",
@@ -4348,7 +4694,9 @@
       "charger": "10W",
       "body": "170g, 8.5mm thickness",
       "price": 437,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_desire_19s"
     },
     {
       "itemName": "HTC Exodus 1s",
@@ -4369,7 +4717,9 @@
       "charger": "",
       "body": "150g, 8.3mm thickness",
       "price": 448,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_exodus_1s"
     },
     {
       "itemName": "HTC Wildfire X",
@@ -4393,7 +4743,9 @@
       "charger": "10W",
       "body": "160g, 8mm thickness",
       "price": 493,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_wildfire_x"
     },
     {
       "itemName": "HTC U19e",
@@ -4414,7 +4766,9 @@
       "charger": "18W",
       "body": "180g, 8mm thickness",
       "price": 1268,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_u19e"
     },
     {
       "itemName": "HTC Desire 19+",
@@ -4438,7 +4792,9 @@
       "charger": "10W",
       "body": "170g, 8.5mm thickness",
       "price": 1028,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_desire_19+"
     },
     {
       "itemName": "HTC Desire 12s",
@@ -4462,7 +4818,9 @@
       "charger": "",
       "body": "150g, 8.3mm thickness",
       "price": 964,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_desire_12s"
     },
     {
       "itemName": "HTC Exodus 1",
@@ -4486,7 +4844,9 @@
       "charger": "18W",
       "body": "188g, 8.7mm thickness",
       "price": 327,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_exodus_1"
     },
     {
       "itemName": "HTC U12 life",
@@ -4510,7 +4870,9 @@
       "charger": "10W",
       "body": "175g, 8.3mm thickness",
       "price": 1579,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_u12_life"
     },
     {
       "itemName": "HTC U12+",
@@ -4535,7 +4897,9 @@
       "charger": "18W",
       "body": "188g, 8.7mm thickness",
       "price": 1434,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_u12+"
     },
     {
       "itemName": "HTC Desire 12+",
@@ -4560,7 +4924,9 @@
       "charger": "",
       "body": "157.5g, 8.4mm thickness",
       "price": 231,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_desire_12+"
     },
     {
       "itemName": "HTC Desire 12",
@@ -4585,7 +4951,9 @@
       "charger": "",
       "body": "137g, 8.2mm thickness",
       "price": 1846,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_desire_12"
     },
     {
       "itemName": "HTC U11 Eyes",
@@ -4610,7 +4978,9 @@
       "charger": "18W",
       "body": "185g, 8.5mm thickness",
       "price": 374,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_u11_eyes"
     },
     {
       "itemName": "HTC U11+",
@@ -4636,7 +5006,9 @@
       "charger": "18W",
       "body": "188g, 8.5mm thickness",
       "price": 1221,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_u11+"
     },
     {
       "itemName": "HTC U11 Life",
@@ -4662,7 +5034,9 @@
       "charger": "",
       "body": "142g, 8.1mm thickness",
       "price": 783,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_u11_life"
     },
     {
       "itemName": "HTC U11",
@@ -4688,7 +5062,9 @@
       "charger": "18W",
       "body": "169g, 7.9mm thickness",
       "price": 451,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_u11"
     },
     {
       "itemName": "HTC One X10",
@@ -4712,7 +5088,9 @@
       "charger": "",
       "body": "175g, 8.2mm thickness",
       "price": 245,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_one_x10"
     },
     {
       "itemName": "HTC U Ultra",
@@ -4738,7 +5116,9 @@
       "charger": "18W",
       "body": "170g, 8mm thickness",
       "price": 600,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_u_ultra"
     },
     {
       "itemName": "HTC U Play",
@@ -4764,7 +5144,9 @@
       "charger": "10W",
       "body": "145g, 8mm thickness",
       "price": 1831,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_u_play"
     },
     {
       "itemName": "HTC 10 evo",
@@ -4790,7 +5172,9 @@
       "charger": "18W",
       "body": "174g, 8.1mm thickness",
       "price": 1626,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_10_evo"
     },
     {
       "itemName": "HTC Desire 650",
@@ -4814,7 +5198,9 @@
       "charger": "",
       "body": "140g, 8.4mm thickness",
       "price": 521,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_desire_650"
     },
     {
       "itemName": "HTC Desire 10 Pro",
@@ -4838,7 +5224,9 @@
       "charger": "10W",
       "body": "165g, 7.9mm thickness",
       "price": 636,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_desire_10_pro"
     },
     {
       "itemName": "HTC Desire 10 Compact",
@@ -4862,7 +5250,9 @@
       "charger": "",
       "body": "148g, 7.5mm thickness",
       "price": 182,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_desire_10_compact"
     },
     {
       "itemName": "HTC One A9s",
@@ -4887,7 +5277,9 @@
       "charger": "10W",
       "body": "149.8g, 8mm thickness",
       "price": 1164,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_one_a9s"
     },
     {
       "itemName": "HTC Desire 10 Lifestyle",
@@ -4911,7 +5303,9 @@
       "charger": "",
       "body": "155g, 7.7mm thickness",
       "price": 711,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_desire_10_lifestyle"
     },
     {
       "itemName": "HTC Desire 728 Ultra",
@@ -4934,7 +5328,9 @@
       "charger": "",
       "body": "153g, 7.9mm thickness",
       "price": 516,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_desire_728_ultra"
     },
     {
       "itemName": "HTC Desire 628",
@@ -4958,7 +5354,9 @@
       "charger": "",
       "body": "142g, 8.1mm thickness",
       "price": 1589,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "htc",
+      "slug": "htc_desire_628"
     },
     {
       "itemName": "Xiaomi Redmi Pad Pro",
@@ -4983,7 +5381,9 @@
       "charger": "33W",
       "body": "571g, 7.5mm thickness",
       "price": 871,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_pad_pro"
     },
     {
       "itemName": "Xiaomi Redmi Turbo 3",
@@ -5008,7 +5408,9 @@
       "charger": "90W",
       "body": "179g, 7.8mm thickness",
       "price": 754,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_turbo_3"
     },
     {
       "itemName": "Xiaomi Poco C61",
@@ -5032,7 +5434,9 @@
       "charger": "10W",
       "body": "199g, 8.3mm thickness",
       "price": 1477,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_poco_c61"
     },
     {
       "itemName": "Xiaomi Civi 4 Pro",
@@ -5058,7 +5462,9 @@
       "charger": "67W",
       "body": "177.6 or 179.3g or 180.9g, 7.5mm thickness",
       "price": 1979,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_civi_4_pro"
     },
     {
       "itemName": "Xiaomi Poco X6 Neo",
@@ -5084,7 +5490,9 @@
       "charger": "33W",
       "body": "175g, 7.7mm thickness",
       "price": 894,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_poco_x6_neo"
     },
     {
       "itemName": "Xiaomi 14",
@@ -5111,7 +5519,9 @@
       "charger": "90W50W",
       "body": "188g or 193g, 8.2mm thickness",
       "price": 1912,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_14"
     },
     {
       "itemName": "Xiaomi 14 Ultra",
@@ -5138,7 +5548,9 @@
       "charger": "90W80W",
       "body": "219.8 / 224.4 / 229.5g, 9.2mm thickness",
       "price": 574,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_14_ultra"
     },
     {
       "itemName": "Xiaomi Pad 6S Pro 12.4",
@@ -5162,7 +5574,9 @@
       "charger": "120W",
       "body": "590g, 6.3mm thickness",
       "price": 423,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_pad_6s_pro_12.4"
     },
     {
       "itemName": "Xiaomi Watch 2",
@@ -5187,7 +5601,9 @@
       "charger": "",
       "body": "36.8g, 11.8mm thickness",
       "type": "watch",
-      "price": 86
+      "price": 86,
+      "brandName": "xiaomi",
+      "slug": "xiaomi_watch_2"
     },
     {
       "itemName": "Xiaomi Watch S3",
@@ -5213,7 +5629,9 @@
       "charger": "",
       "body": "44g, 12mm thickness",
       "type": "watch",
-      "price": 149
+      "price": 149,
+      "brandName": "xiaomi",
+      "slug": "xiaomi_watch_s3"
     },
     {
       "itemName": "Xiaomi Redmi A3",
@@ -5237,7 +5655,9 @@
       "charger": "10W",
       "body": "193g or 199g, 8.3mm thickness",
       "price": 1286,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_a3"
     },
     {
       "itemName": "Xiaomi Redmi Note 13 Pro 4G",
@@ -5263,7 +5683,9 @@
       "charger": "67W",
       "body": "188g, 8mm thickness",
       "price": 726,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_note_13_pro_4g"
     },
     {
       "itemName": "Xiaomi Redmi Note 13 4G",
@@ -5289,7 +5711,9 @@
       "charger": "33W",
       "body": "188.5g, 8mm thickness",
       "price": 1384,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_note_13_4g"
     },
     {
       "itemName": "Xiaomi Redmi Note 13 Pro+",
@@ -5316,7 +5740,9 @@
       "charger": "120W",
       "body": "199g or 204.5g, 8.9mm thickness",
       "price": 1594,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_note_13_pro+"
     },
     {
       "itemName": "Xiaomi Redmi Note 13 Pro",
@@ -5342,7 +5768,9 @@
       "charger": "67W",
       "body": "187g, 8mm thickness",
       "price": 107,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_note_13_pro"
     },
     {
       "itemName": "Xiaomi Redmi Note 13",
@@ -5369,7 +5797,9 @@
       "charger": "33W",
       "body": "174.5g, 7.6mm thickness",
       "price": 1698,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_note_13"
     },
     {
       "itemName": "Xiaomi Poco X6 Pro",
@@ -5395,7 +5825,9 @@
       "charger": "67W",
       "body": "186g or 190g, 8.3mm thickness",
       "price": 1870,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_poco_x6_pro"
     },
     {
       "itemName": "Xiaomi Poco X6",
@@ -5421,7 +5853,9 @@
       "charger": "67W",
       "body": "181g, 8mm thickness",
       "price": 1047,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_poco_x6"
     },
     {
       "itemName": "Xiaomi Poco M6 Pro",
@@ -5447,7 +5881,9 @@
       "charger": "67W",
       "body": "179g, 8mm thickness",
       "price": 1091,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_poco_m6_pro"
     },
     {
       "itemName": "Xiaomi Poco M6",
@@ -5473,7 +5909,9 @@
       "charger": "18W",
       "body": "195g, 8.1mm thickness",
       "price": 181,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_poco_m6"
     },
     {
       "itemName": "Xiaomi Redmi 13R",
@@ -5498,7 +5936,9 @@
       "charger": "18W",
       "body": "195g, 8.2mm thickness",
       "price": 459,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_13r"
     },
     {
       "itemName": "Xiaomi Redmi 13C 5G",
@@ -5522,7 +5962,9 @@
       "charger": "18W",
       "body": "192g, 8.1mm thickness",
       "price": 456,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_13c_5g"
     },
     {
       "itemName": "Xiaomi Redmi K70 Pro",
@@ -5548,7 +5990,9 @@
       "charger": "120W",
       "body": "209g, 8.2mm thickness",
       "price": 334,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_k70_pro"
     },
     {
       "itemName": "Xiaomi Redmi K70",
@@ -5572,7 +6016,9 @@
       "charger": "120W",
       "body": "209g, 8.2mm thickness",
       "price": 421,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_k70"
     },
     {
       "itemName": "Xiaomi Redmi K70E",
@@ -5597,7 +6043,9 @@
       "charger": "90W",
       "body": "198g, 8.1mm thickness",
       "price": 1943,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_k70e"
     },
     {
       "itemName": "Xiaomi Redmi Watch 4",
@@ -5621,7 +6069,9 @@
       "charger": "",
       "body": "31.5g, 10.5mm thickness",
       "type": "watch",
-      "price": 57
+      "price": 57,
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_watch_4"
     },
     {
       "itemName": "Xiaomi Redmi Note 13R Pro",
@@ -5645,7 +6095,9 @@
       "charger": "33W",
       "body": "175g, 7.7mm thickness",
       "price": 1984,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_note_13r_pro"
     },
     {
       "itemName": "Xiaomi Redmi 13C",
@@ -5670,7 +6122,9 @@
       "charger": "18W",
       "body": "192g, 8.1mm thickness",
       "price": 528,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_13c"
     },
     {
       "itemName": "Xiaomi Poco C65",
@@ -5696,7 +6150,9 @@
       "charger": "18W",
       "body": "192g, 8.1mm thickness",
       "price": 177,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_poco_c65"
     },
     {
       "itemName": "Xiaomi 14 Pro",
@@ -5722,7 +6178,9 @@
       "charger": "120W50W",
       "body": "223g or 230g, 8.5mm thickness",
       "price": 1138,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_14_pro"
     },
     {
       "itemName": "Xiaomi 13T Pro",
@@ -5748,7 +6206,9 @@
       "charger": "120W",
       "body": "200g or 206g, 8.5mm thickness",
       "price": 572,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_13t_pro"
     },
     {
       "itemName": "Xiaomi 13T",
@@ -5774,7 +6234,9 @@
       "charger": "67W",
       "body": "193g or 197g, 8.5mm thickness",
       "price": 889,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_13t"
     },
     {
       "itemName": "Xiaomi Watch 2 Pro",
@@ -5800,7 +6262,9 @@
       "charger": "",
       "body": "54.5g, 11.8mm thickness",
       "type": "watch",
-      "price": 406
+      "price": 406,
+      "brandName": "xiaomi",
+      "slug": "xiaomi_watch_2_pro"
     },
     {
       "itemName": "Xiaomi Redmi Note 13 (China)",
@@ -5825,7 +6289,9 @@
       "charger": "33W",
       "body": "173.5g, 7.6mm thickness",
       "price": 1721,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_note_13_(china)"
     },
     {
       "itemName": "Xiaomi Redmi Pad SE",
@@ -5851,7 +6317,9 @@
       "charger": "10W",
       "body": "478g, 7.4mm thickness",
       "price": 857,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_pad_se"
     },
     {
       "itemName": "Xiaomi Redmi K60 Ultra",
@@ -5875,7 +6343,9 @@
       "charger": "120W",
       "body": "204g, 8.5mm thickness",
       "price": 340,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_k60_ultra"
     },
     {
       "itemName": "Xiaomi Mix Fold 3",
@@ -5901,7 +6371,9 @@
       "charger": "67W50W",
       "body": "255g or 259g, 5.3mm thickness",
       "price": 1482,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_mix_fold_3"
     },
     {
       "itemName": "Xiaomi Pad 6 Max 14",
@@ -5926,7 +6398,9 @@
       "charger": "67W",
       "body": "750g, 6.5mm thickness",
       "price": 120,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_pad_6_max_14"
     },
     {
       "itemName": "Xiaomi Poco M6 Pro 5G",
@@ -5950,7 +6424,9 @@
       "charger": "18W",
       "body": "199g, 8.2mm thickness",
       "price": 880,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_poco_m6_pro_5g"
     },
     {
       "itemName": "Xiaomi Redmi Watch 3 Active",
@@ -5973,7 +6449,9 @@
       "charger": "",
       "body": "42g, 10.9mm thickness",
       "type": "watch",
-      "price": 301
+      "price": 301,
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_watch_3_active"
     },
     {
       "itemName": "Xiaomi Redmi 12 5G",
@@ -5999,7 +6477,9 @@
       "charger": "18W",
       "body": "199g, 8.2mm thickness",
       "price": 1280,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_12_5g"
     },
     {
       "itemName": "Xiaomi Redmi Note 12R",
@@ -6024,7 +6504,9 @@
       "charger": "18W",
       "body": "199g, 8.2mm thickness",
       "price": 390,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_note_12r"
     },
     {
       "itemName": "Xiaomi Redmi Note 12R Pro",
@@ -6049,7 +6531,9 @@
       "charger": "33W",
       "body": "188g, 8mm thickness",
       "price": 445,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_note_12r_pro"
     },
     {
       "itemName": "Xiaomi Redmi 12",
@@ -6075,7 +6559,9 @@
       "charger": "18W",
       "body": "198.5g, 8.2mm thickness",
       "price": 195,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_12"
     },
     {
       "itemName": "Xiaomi Redmi Note 12T Pro",
@@ -6099,7 +6585,9 @@
       "charger": "67W",
       "body": "200g, 8.9mm thickness",
       "price": 180,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_redmi_note_12t_pro"
     },
     {
       "itemName": "Xiaomi Civi 3",
@@ -6120,7 +6608,9 @@
       "charger": "67W",
       "body": "174g, 7.6mm thickness",
       "price": 512,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_civi_3"
     },
     {
       "itemName": "Xiaomi Poco F5 Pro",
@@ -6146,7 +6636,9 @@
       "charger": "67W30W",
       "body": "204g, 8.6mm thickness",
       "price": 655,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_poco_f5_pro"
     },
     {
       "itemName": "Xiaomi Poco F5",
@@ -6172,7 +6664,9 @@
       "charger": "67W",
       "body": "181g, 7.9mm thickness",
       "price": 293,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_poco_f5"
     },
     {
       "itemName": "Xiaomi 13 Ultra",
@@ -6199,7 +6693,9 @@
       "charger": "90W50W",
       "body": "227g, 9.1mm thickness",
       "price": 1231,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_13_ultra"
     },
     {
       "itemName": "Xiaomi Pad 6 Pro",
@@ -6223,7 +6719,9 @@
       "charger": "67W",
       "body": "490g, 6.5mm thickness",
       "price": 1316,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "xiaomi",
+      "slug": "xiaomi_pad_6_pro"
     },
     {
       "itemName": "Google Pixel 8 Pro",
@@ -6249,7 +6747,9 @@
       "charger": "30W23W",
       "body": "213g, 8.8mm thickness",
       "price": 1944,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_8_pro"
     },
     {
       "itemName": "Google Pixel 8",
@@ -6275,7 +6775,9 @@
       "charger": "27W18W",
       "body": "187g, 8.9mm thickness",
       "price": 458,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_8"
     },
     {
       "itemName": "Google Pixel Watch 2",
@@ -6302,7 +6804,9 @@
       "charger": "",
       "body": "31g, 12.3mm thickness",
       "type": "watch",
-      "price": 323
+      "price": 323,
+      "brandName": "google",
+      "slug": "google_pixel_watch_2"
     },
     {
       "itemName": "Google Pixel Fold",
@@ -6328,7 +6832,9 @@
       "charger": "PD3.015W",
       "body": "283g, 5.8mm thickness",
       "price": 1361,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_fold"
     },
     {
       "itemName": "Google Pixel Tablet",
@@ -6352,7 +6858,9 @@
       "charger": "15W",
       "body": "493g, 8.1mm thickness",
       "type": "tablet",
-      "price": 625
+      "price": 625,
+      "brandName": "google",
+      "slug": "google_pixel_tablet"
     },
     {
       "itemName": "Google Pixel 7a",
@@ -6378,7 +6886,9 @@
       "charger": "20W8W",
       "body": "193.5g, 9mm thickness",
       "price": 385,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_7a"
     },
     {
       "itemName": "Google Pixel 7 Pro",
@@ -6404,7 +6914,9 @@
       "charger": "23W23W",
       "body": "212g, 8.9mm thickness",
       "price": 494,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_7_pro"
     },
     {
       "itemName": "Google Pixel 7",
@@ -6430,7 +6942,9 @@
       "charger": "20W21W",
       "body": "197g, 8.7mm thickness",
       "price": 760,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_7"
     },
     {
       "itemName": "Google Pixel Watch",
@@ -6455,7 +6969,9 @@
       "charger": "5W",
       "body": "36g, 12.3mm thickness",
       "type": "watch",
-      "price": 349
+      "price": 349,
+      "brandName": "google",
+      "slug": "google_pixel_watch"
     },
     {
       "itemName": "Google Pixel 6a",
@@ -6481,7 +6997,9 @@
       "charger": "18W",
       "body": "178g, 8.9mm thickness",
       "price": 572,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_6a"
     },
     {
       "itemName": "Google Pixel 6 Pro",
@@ -6507,7 +7025,9 @@
       "charger": "30W23W",
       "body": "210g, 8.9mm thickness",
       "price": 1162,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_6_pro"
     },
     {
       "itemName": "Google Pixel 6",
@@ -6533,7 +7053,9 @@
       "charger": "PD3.021W",
       "body": "207g, 8.9mm thickness",
       "price": 1822,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_6"
     },
     {
       "itemName": "Google Pixel 5a 5G",
@@ -6559,7 +7081,9 @@
       "charger": "18W",
       "body": "183g, 8.8mm thickness",
       "price": 361,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_5a_5g"
     },
     {
       "itemName": "Google Pixel 5",
@@ -6585,7 +7109,9 @@
       "charger": "18W12W",
       "body": "151g, 8mm thickness",
       "price": 1946,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_5"
     },
     {
       "itemName": "Google Pixel 4a 5G",
@@ -6608,7 +7134,9 @@
       "charger": "18W",
       "body": "168g (5G Sub-6); 171g ( 5G Sub-6 and mmWave), 8.2mm thickness",
       "price": 187,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_4a_5g"
     },
     {
       "itemName": "Google Pixel 4a",
@@ -6634,7 +7162,9 @@
       "charger": "18W",
       "body": "143g, 8.2mm thickness",
       "price": 1961,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_4a"
     },
     {
       "itemName": "Google Pixel 4 XL",
@@ -6661,7 +7191,9 @@
       "charger": "18W5W",
       "body": "193g, 8.2mm thickness",
       "price": 728,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_4_xl"
     },
     {
       "itemName": "Google Pixel 4",
@@ -6688,7 +7220,9 @@
       "charger": "18W5W",
       "body": "162g, 8.2mm thickness",
       "price": 1960,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_4"
     },
     {
       "itemName": "Google Pixel 3a XL",
@@ -6713,7 +7247,9 @@
       "charger": "18W",
       "body": "167g, 8.2mm thickness",
       "price": 1235,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_3a_xl"
     },
     {
       "itemName": "Google Pixel 3a",
@@ -6738,7 +7274,9 @@
       "charger": "18W",
       "body": "147g, 8.2mm thickness",
       "price": 682,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_3a"
     },
     {
       "itemName": "Google Pixel 3 XL",
@@ -6764,7 +7302,9 @@
       "charger": "18W5W",
       "body": "184g, 7.9mm thickness",
       "price": 1324,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_3_xl"
     },
     {
       "itemName": "Google Pixel 3",
@@ -6790,7 +7330,9 @@
       "charger": "18W5W",
       "body": "148g, 7.9mm thickness",
       "price": 1233,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_3"
     },
     {
       "itemName": "Google Pixel 2",
@@ -6816,7 +7358,9 @@
       "charger": "11W",
       "body": "143g, 7.8mm thickness",
       "price": 332,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_2"
     },
     {
       "itemName": "Google Pixel 2 XL",
@@ -6842,7 +7386,9 @@
       "charger": "11W",
       "body": "175g, 7.9mm thickness",
       "price": 824,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_2_xl"
     },
     {
       "itemName": "Google Pixel XL",
@@ -6868,7 +7414,9 @@
       "charger": "18W",
       "body": "168g, 8.5mm thickness",
       "price": 698,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_xl"
     },
     {
       "itemName": "Google Pixel",
@@ -6894,7 +7442,9 @@
       "charger": "18W",
       "body": "143g, 8.5mm thickness",
       "price": 1776,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel"
     },
     {
       "itemName": "Google Pixel C",
@@ -6919,7 +7469,9 @@
       "charger": "",
       "body": "517g, 7mm thickness",
       "price": 1734,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "google",
+      "slug": "google_pixel_c"
     },
     {
       "itemName": "Honor 200 Lite",
@@ -6943,7 +7495,9 @@
       "charger": "35W",
       "body": "166g, 6.8mm thickness",
       "price": 817,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_200_lite"
     },
     {
       "itemName": "Honor 90 Smart",
@@ -6968,7 +7522,9 @@
       "charger": "35W",
       "body": "199g, 8.2mm thickness",
       "price": 1276,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_90_smart"
     },
     {
       "itemName": "Honor X7b 5G",
@@ -6992,7 +7548,9 @@
       "charger": "35W",
       "body": "199g, 8.2mm thickness",
       "price": 567,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_x7b_5g"
     },
     {
       "itemName": "Honor Magic6 RSR Porsche Design",
@@ -7018,7 +7576,9 @@
       "charger": "80W66W",
       "body": "237g, 8.9mm thickness",
       "price": 1486,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_magic6_rsr_porsche_design"
     },
     {
       "itemName": "Honor Magic6 Ultimate",
@@ -7042,7 +7602,9 @@
       "charger": "80W66W",
       "body": "227g, 8.9mm thickness",
       "price": 1602,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_magic6_ultimate"
     },
     {
       "itemName": "Honor Watch GS 4",
@@ -7068,7 +7630,9 @@
       "charger": "",
       "body": "44g, 10.5mm thickness",
       "type": "watch",
-      "price": 167
+      "price": 167,
+      "brandName": "honor",
+      "slug": "honor_watch_gs_4"
     },
     {
       "itemName": "Honor Choice Watch",
@@ -7094,7 +7658,9 @@
       "charger": "",
       "body": "10.2mm thickness",
       "type": "watch",
-      "price": 492
+      "price": 492,
+      "brandName": "honor",
+      "slug": "honor_choice_watch"
     },
     {
       "itemName": "Honor Magic V2 RSR Porsche Design",
@@ -7121,7 +7687,9 @@
       "charger": "66W",
       "body": "234g, 4.7mm thickness",
       "price": 363,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_magic_v2_rsr_porsche_design"
     },
     {
       "itemName": "Honor Magic6 Pro",
@@ -7147,7 +7715,9 @@
       "charger": "80W66W",
       "body": "225g or 229g, 8.9mm thickness",
       "price": 1853,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_magic6_pro"
     },
     {
       "itemName": "Honor Magic6",
@@ -7171,7 +7741,9 @@
       "charger": "66W50W",
       "body": "199g or 206g, 8.1mm thickness",
       "price": 1096,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_magic6"
     },
     {
       "itemName": "Honor X50 GT",
@@ -7195,7 +7767,9 @@
       "charger": "35W",
       "body": "192g, 8mm thickness",
       "price": 1675,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_x50_gt"
     },
     {
       "itemName": "Honor X50 Pro",
@@ -7220,7 +7794,9 @@
       "charger": "35W",
       "body": "192g, 8mm thickness",
       "price": 1634,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_x50_pro"
     },
     {
       "itemName": "Honor 90 GT",
@@ -7244,7 +7820,9 @@
       "charger": "100W",
       "body": "185g, 7.9mm thickness",
       "price": 691,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_90_gt"
     },
     {
       "itemName": "Honor Pad 9",
@@ -7270,7 +7848,9 @@
       "charger": "35W",
       "body": "555g or 568g, 6.9mm thickness",
       "price": 564,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_pad_9"
     },
     {
       "itemName": "Honor X8b",
@@ -7294,7 +7874,9 @@
       "charger": "35W",
       "body": "166g, 6.8mm thickness",
       "price": 1419,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_x8b"
     },
     {
       "itemName": "Honor Magic6 Lite",
@@ -7319,7 +7901,9 @@
       "charger": "35W",
       "body": "185g, 8mm thickness",
       "price": 999,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_magic6_lite"
     },
     {
       "itemName": "Honor X7b",
@@ -7343,7 +7927,9 @@
       "charger": "35W",
       "body": "199g, 8.2mm thickness",
       "price": 1307,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_x7b"
     },
     {
       "itemName": "Honor 100 Pro",
@@ -7368,7 +7954,9 @@
       "charger": "100W66W",
       "body": "195g, 8.2mm thickness",
       "price": 652,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_100_pro"
     },
     {
       "itemName": "Honor 100",
@@ -7392,7 +7980,9 @@
       "charger": "100W",
       "body": "183g, 7.8mm thickness",
       "price": 1470,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_100"
     },
     {
       "itemName": "Honor X50i+",
@@ -7416,7 +8006,9 @@
       "charger": "35W",
       "body": "166g, 6.8mm thickness",
       "price": 1197,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_x50i+"
     },
     {
       "itemName": "Honor X5 Plus",
@@ -7440,7 +8032,9 @@
       "charger": "10W",
       "body": "188g, 8.4mm thickness",
       "price": 1724,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_x5_plus"
     },
     {
       "itemName": "Honor X9b",
@@ -7464,7 +8058,9 @@
       "charger": "35W",
       "body": "185g, 8mm thickness",
       "price": 1495,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_x9b"
     },
     {
       "itemName": "Honor Play 8T",
@@ -7488,7 +8084,9 @@
       "charger": "35W",
       "body": "199g, 8.2mm thickness",
       "price": 1227,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_play_8t"
     },
     {
       "itemName": "Honor Magic Vs2",
@@ -7514,7 +8112,9 @@
       "charger": "66W",
       "body": "229g, 5.1mm thickness",
       "price": 356,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_magic_vs2"
     },
     {
       "itemName": "Honor Watch 4 Pro",
@@ -7541,7 +8141,9 @@
       "charger": "5W",
       "body": "50g, 11.4mm thickness",
       "type": "watch",
-      "price": 214
+      "price": 214,
+      "brandName": "honor",
+      "slug": "honor_watch_4_pro"
     },
     {
       "itemName": "Honor Play 50 Plus",
@@ -7565,7 +8167,9 @@
       "charger": "35W",
       "body": "199g, 8.2mm thickness",
       "price": 381,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_play_50_plus"
     },
     {
       "itemName": "Honor V Purse",
@@ -7592,7 +8196,9 @@
       "charger": "35W",
       "body": "214g, 4.3mm thickness",
       "price": 1257,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_v_purse"
     },
     {
       "itemName": "Honor X40 GT Racing",
@@ -7616,7 +8222,9 @@
       "charger": "66W",
       "body": "199.5g, 8.5mm thickness",
       "price": 418,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_x40_gt_racing"
     },
     {
       "itemName": "Honor X6a",
@@ -7637,7 +8245,9 @@
       "charger": "23W",
       "body": "188g, 8.4mm thickness",
       "price": 797,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_x6a"
     },
     {
       "itemName": "Honor Magic V2",
@@ -7663,7 +8273,9 @@
       "charger": "66W",
       "body": "231g or 237g, 4.7mm thickness",
       "price": 1607,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_magic_v2"
     },
     {
       "itemName": "Honor Watch 4",
@@ -7689,7 +8301,9 @@
       "charger": "",
       "body": "32g, 11.2mm thickness",
       "type": "watch",
-      "price": 365
+      "price": 365,
+      "brandName": "honor",
+      "slug": "honor_watch_4"
     },
     {
       "itemName": "Honor MagicPad 13",
@@ -7714,7 +8328,9 @@
       "charger": "66W",
       "body": "660g or 673g, 6.5mm thickness",
       "price": 192,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_magicpad_13"
     },
     {
       "itemName": "Honor Pad X9",
@@ -7740,7 +8356,9 @@
       "charger": "23W",
       "body": "495g or 499g, 6.9mm thickness",
       "price": 356,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_pad_x9"
     },
     {
       "itemName": "Honor Pad X8 Pro",
@@ -7765,7 +8383,9 @@
       "charger": "",
       "body": "495g, 6.9mm thickness",
       "price": 1597,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_pad_x8_pro"
     },
     {
       "itemName": "Honor X50",
@@ -7790,7 +8410,9 @@
       "charger": "35W",
       "body": "185g, 8mm thickness",
       "price": 428,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_x50"
     },
     {
       "itemName": "Honor Play 40",
@@ -7815,7 +8437,9 @@
       "charger": "10W",
       "body": "188g, 8.4mm thickness",
       "price": 1665,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_play_40"
     },
     {
       "itemName": "Honor X50i",
@@ -7839,7 +8463,9 @@
       "charger": "35W",
       "body": "179g, 7.5mm thickness",
       "price": 380,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_x50i"
     },
     {
       "itemName": "Honor 90 Lite",
@@ -7864,7 +8490,9 @@
       "charger": "35W",
       "body": "179g, 7.5mm thickness",
       "price": 180,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_90_lite"
     },
     {
       "itemName": "Honor 90 Pro",
@@ -7889,7 +8517,9 @@
       "charger": "90W",
       "body": "192g, 8.1mm thickness",
       "price": 867,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_90_pro"
     },
     {
       "itemName": "Honor 90",
@@ -7915,7 +8545,9 @@
       "charger": "66W",
       "body": "183g, 7.8mm thickness",
       "price": 732,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_90"
     },
     {
       "itemName": "Honor Pad V8",
@@ -7940,7 +8572,9 @@
       "charger": "23W",
       "body": "485g, 7.4mm thickness",
       "price": 1282,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_pad_v8"
     },
     {
       "itemName": "Honor Play7T Pro",
@@ -7964,7 +8598,9 @@
       "charger": "40W",
       "body": "175g, 7.4mm thickness",
       "price": 1118,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_play7t_pro"
     },
     {
       "itemName": "Honor Play7T",
@@ -7988,7 +8624,9 @@
       "charger": "23W",
       "body": "196g, 8.3mm thickness",
       "price": 432,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_play7t"
     },
     {
       "itemName": "Honor 70 Lite",
@@ -8013,7 +8651,9 @@
       "charger": "23W",
       "body": "194g, 8.7mm thickness",
       "price": 984,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_70_lite"
     },
     {
       "itemName": "Honor Magic5 Ultimate",
@@ -8038,7 +8678,9 @@
       "charger": "66W50W",
       "body": "217g, 8.8mm thickness",
       "price": 1307,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_magic5_ultimate"
     },
     {
       "itemName": "Honor Magic5 Pro",
@@ -8064,7 +8706,9 @@
       "charger": "66W50W",
       "body": "219g, 8.8mm thickness",
       "price": 1028,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_magic5_pro"
     },
     {
       "itemName": "Honor Magic5",
@@ -8088,7 +8732,9 @@
       "charger": "66W",
       "body": "191g, 7.8mm thickness",
       "price": 1215,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_magic5"
     },
     {
       "itemName": "Honor Magic5 Lite",
@@ -8114,7 +8760,9 @@
       "charger": "40W",
       "body": "175g, 7.9mm thickness",
       "price": 879,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_magic5_lite"
     },
     {
       "itemName": "Honor X8a",
@@ -8138,7 +8786,9 @@
       "charger": "23W",
       "body": "179g, 7.5mm thickness",
       "price": 124,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_x8a"
     },
     {
       "itemName": "Honor X5",
@@ -8163,7 +8813,9 @@
       "charger": "",
       "body": "193g, 8.9mm thickness",
       "price": 1167,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "honor",
+      "slug": "honor_x5"
     },
     {
       "itemName": "Oppo A60",
@@ -8187,7 +8839,9 @@
       "charger": "45W",
       "body": "186g, 7.7mm thickness",
       "price": 775,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_a60"
     },
     {
       "itemName": "Oppo K12",
@@ -8211,7 +8865,9 @@
       "charger": "100W",
       "body": "186g, 8.4mm thickness",
       "price": 1368,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_k12"
     },
     {
       "itemName": "Oppo A3 Pro",
@@ -8236,7 +8892,9 @@
       "charger": "67W",
       "body": "177g or 182g, 7.5mm thickness",
       "price": 1505,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_a3_pro"
     },
     {
       "itemName": "Oppo Watch X",
@@ -8261,7 +8919,9 @@
       "charger": "8W",
       "body": "49g, 12.1mm thickness",
       "type": "watch",
-      "price": 374
+      "price": 374,
+      "brandName": "oppo",
+      "slug": "oppo_watch_x"
     },
     {
       "itemName": "Oppo F25 Pro",
@@ -8286,7 +8946,9 @@
       "charger": "67W",
       "body": "177g, 7.5mm thickness",
       "price": 256,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_f25_pro"
     },
     {
       "itemName": "Oppo Reno11 F",
@@ -8310,7 +8972,9 @@
       "charger": "67W",
       "body": "177g, 7.5mm thickness",
       "price": 150,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_reno11_f"
     },
     {
       "itemName": "Oppo Pad Neo",
@@ -8334,7 +8998,9 @@
       "charger": "33W",
       "body": "538g, 6.9mm thickness",
       "price": 1938,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_pad_neo"
     },
     {
       "itemName": "Oppo Reno11 Pro",
@@ -8358,7 +9024,9 @@
       "charger": "80W",
       "body": "181g, 7.6mm thickness",
       "price": 651,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_reno11_pro"
     },
     {
       "itemName": "Oppo Reno11",
@@ -8383,7 +9051,9 @@
       "charger": "67W",
       "body": "182g, 7.9mm thickness",
       "price": 1278,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_reno11"
     },
     {
       "itemName": "Oppo Find X7 Ultra",
@@ -8409,7 +9079,9 @@
       "charger": "100W50W",
       "body": "221g, 9.5mm thickness",
       "price": 991,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_find_x7_ultra"
     },
     {
       "itemName": "Oppo Find X7",
@@ -8433,7 +9105,9 @@
       "charger": "100W",
       "body": "202g or 206g, 8.7mm thickness",
       "price": 507,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_find_x7"
     },
     {
       "itemName": "Oppo A59",
@@ -8457,7 +9131,9 @@
       "charger": "33W",
       "body": "187 g",
       "price": 254,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_a59"
     },
     {
       "itemName": "Oppo Reno11 Pro (China)",
@@ -8482,7 +9158,9 @@
       "charger": "80W",
       "body": "190g, 8.2mm thickness",
       "price": 1212,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_reno11_pro_(china)"
     },
     {
       "itemName": "Oppo Reno11 (China)",
@@ -8507,7 +9185,9 @@
       "charger": "67W",
       "body": "184g, 7.6mm thickness",
       "price": 1101,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_reno11_(china)"
     },
     {
       "itemName": "Oppo Pad Air2",
@@ -8531,7 +9211,9 @@
       "charger": "33W",
       "body": "538g, 6.9mm thickness",
       "price": 1716,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_pad_air2"
     },
     {
       "itemName": "Oppo A2",
@@ -8556,7 +9238,9 @@
       "charger": "33W",
       "body": "193g, 8mm thickness",
       "price": 756,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_a2"
     },
     {
       "itemName": "Oppo A79",
@@ -8580,7 +9264,9 @@
       "charger": "33W",
       "body": "193g, 8mm thickness",
       "price": 1885,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_a79"
     },
     {
       "itemName": "Oppo Find N3",
@@ -8607,7 +9293,9 @@
       "charger": "67W",
       "body": "239g or 245g, 5.8mm thickness",
       "price": 1532,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_find_n3"
     },
     {
       "itemName": "Oppo A2x",
@@ -8632,7 +9320,9 @@
       "charger": "10W",
       "body": "185g, 8.1mm thickness",
       "price": 1691,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_a2x"
     },
     {
       "itemName": "Oppo A18",
@@ -8656,7 +9346,9 @@
       "charger": "",
       "body": "188g, 8.2mm thickness",
       "price": 1127,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_a18"
     },
     {
       "itemName": "Oppo A2 Pro",
@@ -8681,7 +9373,9 @@
       "charger": "67W",
       "body": "183g or 185g, 8mm thickness",
       "price": 1576,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_a2_pro"
     },
     {
       "itemName": "Oppo A38",
@@ -8705,7 +9399,9 @@
       "charger": "33W",
       "body": "190g, 8.2mm thickness",
       "price": 972,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_a38"
     },
     {
       "itemName": "Oppo Watch SE",
@@ -8729,7 +9425,9 @@
       "charger": "",
       "body": "31g, 11.7mm thickness",
       "type": "watch",
-      "price": 149
+      "price": 149,
+      "brandName": "oppo",
+      "slug": "oppo_watch_se"
     },
     {
       "itemName": "Oppo Watch 4 Pro",
@@ -8753,7 +9451,9 @@
       "charger": "",
       "body": "52.3g, 12.9mm thickness",
       "type": "watch",
-      "price": 454
+      "price": 454,
+      "brandName": "oppo",
+      "slug": "oppo_watch_4_pro"
     },
     {
       "itemName": "Oppo Find N3 Flip",
@@ -8779,7 +9479,9 @@
       "charger": "44W",
       "body": "198g, 7.8mm thickness",
       "price": 1096,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_find_n3_flip"
     },
     {
       "itemName": "Oppo A58 4G",
@@ -8800,7 +9502,9 @@
       "charger": "33W",
       "body": "192g, 8mm thickness",
       "price": 496,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_a58_4g"
     },
     {
       "itemName": "Oppo K11",
@@ -8821,7 +9525,9 @@
       "charger": "100W",
       "body": "184g, 8.2mm thickness",
       "price": 188,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_k11"
     },
     {
       "itemName": "Oppo Reno10 Pro",
@@ -8847,7 +9553,9 @@
       "charger": "80W",
       "body": "185g, 7.9mm thickness",
       "price": 504,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_reno10_pro"
     },
     {
       "itemName": "Oppo Reno10",
@@ -8873,7 +9581,9 @@
       "charger": "67W",
       "body": "185g, 8mm thickness",
       "price": 826,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_reno10"
     },
     {
       "itemName": "Oppo A78 4G",
@@ -8897,7 +9607,9 @@
       "charger": "67W",
       "body": "180g, 7.9mm thickness",
       "price": 532,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_a78_4g"
     },
     {
       "itemName": "Oppo K11x",
@@ -8918,7 +9630,9 @@
       "charger": "67W",
       "body": "195g, 8.3mm thickness",
       "price": 784,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_k11x"
     },
     {
       "itemName": "Oppo Reno10 Pro+",
@@ -8942,7 +9656,9 @@
       "charger": "100W",
       "body": "194g, 8.3mm thickness",
       "price": 1391,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_reno10_pro+"
     },
     {
       "itemName": "Oppo Reno10 Pro (China)",
@@ -8966,7 +9682,9 @@
       "charger": "100W",
       "body": "186g, 7.7mm thickness",
       "price": 1682,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_reno10_pro_(china)"
     },
     {
       "itemName": "Oppo Reno10 (China)",
@@ -8990,7 +9708,9 @@
       "charger": "80W",
       "body": "180g, 7.6mm thickness",
       "price": 1937,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_reno10_(china)"
     },
     {
       "itemName": "Oppo F23",
@@ -9015,7 +9735,9 @@
       "charger": "67W",
       "body": "192g, 8.2mm thickness",
       "price": 626,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_f23"
     },
     {
       "itemName": "Oppo A98",
@@ -9039,7 +9761,9 @@
       "charger": "67W",
       "body": "192g, 8.2mm thickness",
       "price": 533,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_a98"
     },
     {
       "itemName": "Oppo A1",
@@ -9064,7 +9788,9 @@
       "charger": "67W",
       "body": "191g or 193g, 8.2mm thickness",
       "price": 1100,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_a1"
     },
     {
       "itemName": "Oppo A1x",
@@ -9088,7 +9814,9 @@
       "charger": "10W",
       "body": "186g, 8mm thickness",
       "price": 1686,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_a1x"
     },
     {
       "itemName": "Oppo Find X6 Pro",
@@ -9114,7 +9842,9 @@
       "charger": "100W50W",
       "body": "216g or 218g, 9.1mm thickness",
       "price": 1488,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_find_x6_pro"
     },
     {
       "itemName": "Oppo Find X6",
@@ -9139,7 +9869,9 @@
       "charger": "80W",
       "body": "207g, 9mm thickness",
       "price": 489,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_find_x6"
     },
     {
       "itemName": "Oppo Pad 2",
@@ -9163,7 +9895,9 @@
       "charger": "67W",
       "body": "552g, 6.5mm thickness",
       "price": 1776,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_pad_2"
     },
     {
       "itemName": "Oppo Reno8 T",
@@ -9188,7 +9922,9 @@
       "charger": "33W",
       "body": "180g or 183g, 7.8mm thickness",
       "price": 1643,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_reno8_t"
     },
     {
       "itemName": "Oppo Reno8 T 5G",
@@ -9213,7 +9949,9 @@
       "charger": "67W",
       "body": "171g, 7.7mm thickness",
       "price": 476,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_reno8_t_5g"
     },
     {
       "itemName": "Oppo A78",
@@ -9237,7 +9975,9 @@
       "charger": "33W",
       "body": "188g, 8mm thickness",
       "price": 1172,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_a78"
     },
     {
       "itemName": "Oppo A56s",
@@ -9261,7 +10001,9 @@
       "charger": "10W",
       "body": "186g, 8mm thickness",
       "price": 665,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_a56s"
     },
     {
       "itemName": "Oppo Find N2 Flip",
@@ -9287,7 +10029,9 @@
       "charger": "44W",
       "body": "191g, 7.5mm thickness",
       "price": 947,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_find_n2_flip"
     },
     {
       "itemName": "Oppo Find N2",
@@ -9313,7 +10057,9 @@
       "charger": "67W",
       "body": "233g or 237g, 7.4mm thickness",
       "price": 1649,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_find_n2"
     },
     {
       "itemName": "Oppo A58x",
@@ -9337,7 +10083,9 @@
       "charger": "10W",
       "body": "186g, 8mm thickness",
       "price": 1740,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_a58x"
     },
     {
       "itemName": "Oppo Reno9 Pro+",
@@ -9362,7 +10110,9 @@
       "charger": "80W",
       "body": "192g, 8mm thickness",
       "price": 1873,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_reno9_pro+"
     },
     {
       "itemName": "Oppo Reno9 Pro",
@@ -9387,7 +10137,9 @@
       "charger": "67W",
       "body": "174g, 7.2mm thickness",
       "price": 622,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oppo",
+      "slug": "oppo_reno9_pro"
     },
     {
       "itemName": "Realme C65 5G",
@@ -9412,7 +10164,9 @@
       "charger": "15W",
       "body": "190g, 7.9mm thickness",
       "price": 1117,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_c65_5g"
     },
     {
       "itemName": "Realme Narzo 70",
@@ -9437,7 +10191,9 @@
       "charger": "45W",
       "body": "188g, 8mm thickness",
       "price": 1279,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_narzo_70"
     },
     {
       "itemName": "Realme Narzo 70x",
@@ -9462,7 +10218,9 @@
       "charger": "45W",
       "body": "188g, 7.7mm thickness",
       "price": 706,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_narzo_70x"
     },
     {
       "itemName": "Realme 12 Lite",
@@ -9486,7 +10244,9 @@
       "charger": "33W",
       "body": "185g, 7.6mm thickness",
       "price": 887,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_12_lite"
     },
     {
       "itemName": "Realme P1 Pro",
@@ -9510,7 +10270,9 @@
       "charger": "45W",
       "body": "217g, 8.4mm thickness",
       "price": 1537,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_p1_pro"
     },
     {
       "itemName": "Realme P1",
@@ -9534,7 +10296,9 @@
       "charger": "45W",
       "body": "188g, 8mm thickness",
       "price": 1070,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_p1"
     },
     {
       "itemName": "Realme GT Neo6 SE",
@@ -9559,7 +10323,9 @@
       "charger": "100W",
       "body": "191g, 8.7mm thickness",
       "price": 1334,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_gt_neo6_se"
     },
     {
       "itemName": "Realme 12x",
@@ -9584,7 +10350,9 @@
       "charger": "45W",
       "body": "188g, 7.7mm thickness",
       "price": 1645,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_12x"
     },
     {
       "itemName": "Realme C65",
@@ -9608,7 +10376,9 @@
       "charger": "45W",
       "body": "185g, 7.6mm thickness",
       "price": 1912,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_c65"
     },
     {
       "itemName": "Realme 12x (China)",
@@ -9633,7 +10403,9 @@
       "charger": "15W",
       "body": "190g, 7.9mm thickness",
       "price": 1306,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_12x_(china)"
     },
     {
       "itemName": "Realme Narzo 70 Pro",
@@ -9657,7 +10429,9 @@
       "charger": "67W",
       "body": "195g, 8mm thickness",
       "price": 160,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_narzo_70_pro"
     },
     {
       "itemName": "Realme 12",
@@ -9682,7 +10456,9 @@
       "charger": "45W",
       "body": "188g, 7.7mm thickness",
       "price": 835,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_12"
     },
     {
       "itemName": "Realme 12+",
@@ -9708,7 +10484,9 @@
       "charger": "67W",
       "body": "190g, 7.9mm thickness",
       "price": 1023,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_12+"
     },
     {
       "itemName": "Realme 12 Pro+",
@@ -9734,7 +10512,9 @@
       "charger": "67W",
       "body": "196g, 8.8mm thickness",
       "price": 738,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_12_pro+"
     },
     {
       "itemName": "Realme 12 Pro",
@@ -9759,7 +10539,9 @@
       "charger": "67W",
       "body": "190g, 8.8mm thickness",
       "price": 1727,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_12_pro"
     },
     {
       "itemName": "Realme Note 50",
@@ -9783,7 +10565,9 @@
       "charger": "10W",
       "body": "186g, 8mm thickness",
       "price": 1604,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_note_50"
     },
     {
       "itemName": "Realme C67 4G",
@@ -9808,7 +10592,9 @@
       "charger": "33W",
       "body": "185g, 7.6mm thickness",
       "price": 411,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_c67_4g"
     },
     {
       "itemName": "Realme C67",
@@ -9833,7 +10619,9 @@
       "charger": "33W",
       "body": "190g, 7.9mm thickness",
       "price": 801,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_c67"
     },
     {
       "itemName": "Realme V50s",
@@ -9857,7 +10645,9 @@
       "charger": "",
       "body": "190g, 7.9mm thickness",
       "price": 1266,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_v50s"
     },
     {
       "itemName": "Realme GT5 Pro",
@@ -9883,7 +10673,9 @@
       "charger": "100W50W",
       "body": "218g / 224g, 9.2mm thickness",
       "price": 979,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_gt5_pro"
     },
     {
       "itemName": "Realme Narzo 60x",
@@ -9907,7 +10699,9 @@
       "charger": "33W",
       "body": "190g, 7.9mm thickness",
       "price": 1907,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_narzo_60x"
     },
     {
       "itemName": "Realme GT5 240W",
@@ -9931,7 +10725,9 @@
       "charger": "240W",
       "body": "205g, 8.9mm thickness",
       "price": 729,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_gt5_240w"
     },
     {
       "itemName": "Realme GT5",
@@ -9957,7 +10753,9 @@
       "charger": "150W",
       "body": "205g, 8.9mm thickness",
       "price": 1769,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_gt5"
     },
     {
       "itemName": "Realme 11x",
@@ -9982,7 +10780,9 @@
       "charger": "33W",
       "body": "190g, 7.9mm thickness",
       "price": 1682,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_11x"
     },
     {
       "itemName": "Realme 11 4G",
@@ -10006,7 +10806,9 @@
       "charger": "67W",
       "body": "178g, 8mm thickness",
       "price": 1636,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_11_4g"
     },
     {
       "itemName": "Realme 11",
@@ -10030,7 +10832,9 @@
       "charger": "67W",
       "body": "190g, 8.1mm thickness",
       "price": 1249,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_11"
     },
     {
       "itemName": "Realme C51",
@@ -10055,7 +10859,9 @@
       "charger": "33W",
       "body": "186g, 8mm thickness",
       "price": 140,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_c51"
     },
     {
       "itemName": "Realme C53 (India)",
@@ -10080,7 +10886,9 @@
       "charger": "18W",
       "body": "186g, 8mm thickness",
       "price": 1168,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_c53_(india)"
     },
     {
       "itemName": "Realme Pad 2",
@@ -10105,7 +10913,9 @@
       "charger": "33W",
       "body": "",
       "price": 1553,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_pad_2"
     },
     {
       "itemName": "Realme GT3",
@@ -10131,7 +10941,9 @@
       "charger": "240W",
       "body": "199g, 8.9mm thickness",
       "price": 1508,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_gt3"
     },
     {
       "itemName": "Realme Narzo 60 Pro",
@@ -10155,7 +10967,9 @@
       "charger": "67W",
       "body": "185g or 191g, 8.2mm thickness",
       "price": 1870,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_narzo_60_pro"
     },
     {
       "itemName": "Realme Narzo 60",
@@ -10179,7 +10993,9 @@
       "charger": "33W",
       "body": "182g, 7.9mm thickness",
       "price": 103,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_narzo_60"
     },
     {
       "itemName": "Realme C53",
@@ -10203,7 +11019,9 @@
       "charger": "33W",
       "body": "182g, 7.5mm thickness",
       "price": 1536,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_c53"
     },
     {
       "itemName": "Realme Narzo N53",
@@ -10227,7 +11045,9 @@
       "charger": "33W",
       "body": "182g, 7.5mm thickness",
       "price": 1122,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_narzo_n53"
     },
     {
       "itemName": "Realme 11 Pro+",
@@ -10253,7 +11073,9 @@
       "charger": "100W",
       "body": "183g or 189g, 8.2mm thickness",
       "price": 519,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_11_pro+"
     },
     {
       "itemName": "Realme 11 Pro",
@@ -10279,7 +11101,9 @@
       "charger": "67W",
       "body": "183g or 189g, 8.2mm thickness",
       "price": 201,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_11_pro"
     },
     {
       "itemName": "Realme 11 (China)",
@@ -10304,7 +11128,9 @@
       "charger": "33W",
       "body": "182g, 7.9mm thickness",
       "price": 696,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_11_(china)"
     },
     {
       "itemName": "Realme Narzo N55",
@@ -10328,7 +11154,9 @@
       "charger": "33W",
       "body": "189.5g, 7.9mm thickness",
       "price": 1962,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_narzo_n55"
     },
     {
       "itemName": "Realme GT Neo5 SE",
@@ -10352,7 +11180,9 @@
       "charger": "100W",
       "body": "193.1g, 9mm thickness",
       "price": 381,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_gt_neo5_se"
     },
     {
       "itemName": "Realme 10T",
@@ -10376,7 +11206,9 @@
       "charger": "18W",
       "body": "187g, 8.1mm thickness",
       "price": 1290,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_10t"
     },
     {
       "itemName": "Realme C33 2023",
@@ -10400,7 +11232,9 @@
       "charger": "10W",
       "body": "187g, 8.3mm thickness",
       "price": 1534,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_c33_2023"
     },
     {
       "itemName": "Realme C55",
@@ -10426,7 +11260,9 @@
       "charger": "33W",
       "body": "189.5g, 7.9mm thickness",
       "price": 1738,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_c55"
     },
     {
       "itemName": "Realme GT Neo 5 240W",
@@ -10451,7 +11287,9 @@
       "charger": "240W",
       "body": "199g, 8.9mm thickness",
       "price": 1720,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_gt_neo_5_240w"
     },
     {
       "itemName": "Realme GT Neo 5",
@@ -10476,7 +11314,9 @@
       "charger": "150W",
       "body": "199g, 8.9mm thickness",
       "price": 1453,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_gt_neo_5"
     },
     {
       "itemName": "Realme V30",
@@ -10500,7 +11340,9 @@
       "charger": "",
       "body": "186 g",
       "price": 1530,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_v30"
     },
     {
       "itemName": "Realme 10s",
@@ -10524,7 +11366,9 @@
       "charger": "33W",
       "body": "191g, 8.1mm thickness",
       "price": 1544,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_10s"
     },
     {
       "itemName": "Realme V20",
@@ -10548,7 +11392,9 @@
       "charger": "10W",
       "body": "184g, 8.1mm thickness",
       "price": 115,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_v20"
     },
     {
       "itemName": "Realme 10 Pro+",
@@ -10574,7 +11420,9 @@
       "charger": "67W",
       "body": "173g / 175g, 7.8mm thickness",
       "price": 1149,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_10_pro+"
     },
     {
       "itemName": "Realme 10 Pro",
@@ -10600,7 +11448,9 @@
       "charger": "33W",
       "body": "190g / 192g, 8.1mm thickness",
       "price": 371,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_10_pro"
     },
     {
       "itemName": "Realme 10 5G",
@@ -10624,7 +11474,9 @@
       "charger": "33W",
       "body": "191g, 8.1mm thickness",
       "price": 1956,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "realme",
+      "slug": "realme_10_5g"
     },
     {
       "itemName": "OnePlus Ace 3V",
@@ -10648,7 +11500,9 @@
       "charger": "100W",
       "body": "200g, 8.5mm thickness",
       "price": 989,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_ace_3v"
     },
     {
       "itemName": "OnePlus Nord CE4",
@@ -10674,7 +11528,9 @@
       "charger": "100W",
       "body": "186g, 8.4mm thickness",
       "price": 677,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_nord_ce4"
     },
     {
       "itemName": "OnePlus Watch 2",
@@ -10699,7 +11555,9 @@
       "charger": "8W",
       "body": "49g, 12.1mm thickness",
       "type": "watch",
-      "price": 386
+      "price": 386,
+      "brandName": "oneplus",
+      "slug": "oneplus_watch_2"
     },
     {
       "itemName": "OnePlus Nord N30 SE",
@@ -10724,7 +11582,9 @@
       "charger": "33W",
       "body": "193g, 8mm thickness",
       "price": 1032,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_nord_n30_se"
     },
     {
       "itemName": "OnePlus 12R",
@@ -10750,7 +11610,9 @@
       "charger": "100W",
       "body": "207g, 8.8mm thickness",
       "price": 1629,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_12r"
     },
     {
       "itemName": "OnePlus 12",
@@ -10776,7 +11638,9 @@
       "charger": "100W50W",
       "body": "220g, 9.2mm thickness",
       "price": 699,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_12"
     },
     {
       "itemName": "OnePlus Ace 3",
@@ -10801,7 +11665,9 @@
       "charger": "100W",
       "body": "207g, 8.8mm thickness",
       "price": 1977,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_ace_3"
     },
     {
       "itemName": "OnePlus Open",
@@ -10828,7 +11694,9 @@
       "charger": "67W",
       "body": "239g or 245g, 5.8mm thickness",
       "price": 864,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_open"
     },
     {
       "itemName": "OnePlus Pad Go",
@@ -10854,7 +11722,9 @@
       "charger": "33W",
       "body": "532g, 6.9mm thickness",
       "price": 401,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_pad_go"
     },
     {
       "itemName": "OnePlus Ace 2 Pro",
@@ -10878,7 +11748,9 @@
       "charger": "150W",
       "body": "210g, 9mm thickness",
       "price": 1711,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_ace_2_pro"
     },
     {
       "itemName": "OnePlus Nord CE3",
@@ -10904,7 +11776,9 @@
       "charger": "80W",
       "body": "184g, 8.2mm thickness",
       "price": 143,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_nord_ce3"
     },
     {
       "itemName": "OnePlus Nord 3",
@@ -10930,7 +11804,9 @@
       "charger": "80W",
       "body": "193.5g, 8.2mm thickness",
       "price": 216,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_nord_3"
     },
     {
       "itemName": "OnePlus Nord N30",
@@ -10956,7 +11832,9 @@
       "charger": "50W",
       "body": "195g, 8.3mm thickness",
       "price": 612,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_nord_n30"
     },
     {
       "itemName": "OnePlus Nord CE 3 Lite",
@@ -10980,7 +11858,9 @@
       "charger": "67W",
       "body": "195g, 8.3mm thickness",
       "price": 1372,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_nord_ce_3_lite"
     },
     {
       "itemName": "OnePlus Ace 2V",
@@ -11004,7 +11884,9 @@
       "charger": "80W",
       "body": "191.5g, 8.2mm thickness",
       "price": 1658,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_ace_2v"
     },
     {
       "itemName": "OnePlus Pad",
@@ -11028,7 +11910,9 @@
       "charger": "67W",
       "body": "552g, 6.5mm thickness",
       "price": 362,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_pad"
     },
     {
       "itemName": "OnePlus 11R",
@@ -11054,7 +11938,9 @@
       "charger": "100W",
       "body": "204g, 8.7mm thickness",
       "price": 1961,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_11r"
     },
     {
       "itemName": "OnePlus Ace 2",
@@ -11078,7 +11964,9 @@
       "charger": "100W",
       "body": "204g, 8.7mm thickness",
       "price": 485,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_ace_2"
     },
     {
       "itemName": "OnePlus 11",
@@ -11104,7 +11992,9 @@
       "charger": "100W",
       "body": "205g, 8.5mm thickness",
       "price": 1856,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_11"
     },
     {
       "itemName": "OnePlus Nord N300",
@@ -11130,7 +12020,9 @@
       "charger": "33W",
       "body": "190g, 8mm thickness",
       "price": 1300,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_nord_n300"
     },
     {
       "itemName": "OnePlus Nord Watch",
@@ -11151,7 +12043,9 @@
       "charger": "",
       "body": "52.4g, 10.4mm thickness",
       "type": "watch",
-      "price": 318
+      "price": 318,
+      "brandName": "oneplus",
+      "slug": "oneplus_nord_watch"
     },
     {
       "itemName": "OnePlus Ace Pro",
@@ -11175,7 +12069,9 @@
       "charger": "150W",
       "body": "203.5g, 8.8mm thickness",
       "price": 618,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_ace_pro"
     },
     {
       "itemName": "OnePlus Nord N20 SE",
@@ -11199,7 +12095,9 @@
       "charger": "33W",
       "body": "187g, 8mm thickness",
       "price": 603,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_nord_n20_se"
     },
     {
       "itemName": "OnePlus 10T",
@@ -11225,7 +12123,9 @@
       "charger": "150W",
       "body": "204g, 8.8mm thickness",
       "price": 366,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_10t"
     },
     {
       "itemName": "OnePlus Nord 2T",
@@ -11251,7 +12151,9 @@
       "charger": "80W",
       "body": "190g, 8.2mm thickness",
       "price": 991,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_nord_2t"
     },
     {
       "itemName": "OnePlus Ace Racing",
@@ -11275,7 +12177,9 @@
       "charger": "67W",
       "body": "205g, 8.7mm thickness",
       "price": 853,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_ace_racing"
     },
     {
       "itemName": "OnePlus Nord N20 5G",
@@ -11301,7 +12205,9 @@
       "charger": "33W",
       "body": "173g, 7.5mm thickness",
       "price": 1771,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_nord_n20_5g"
     },
     {
       "itemName": "OnePlus 10R 150W",
@@ -11327,7 +12233,9 @@
       "charger": "150W",
       "body": "186g, 8.2mm thickness",
       "price": 1696,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_10r_150w"
     },
     {
       "itemName": "OnePlus 10R",
@@ -11352,7 +12260,9 @@
       "charger": "80W",
       "body": "186g, 8.2mm thickness",
       "price": 479,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_10r"
     },
     {
       "itemName": "OnePlus Nord CE 2 Lite 5G",
@@ -11378,7 +12288,9 @@
       "charger": "33W",
       "body": "195g, 8.5mm thickness",
       "price": 1491,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_nord_ce_2_lite_5g"
     },
     {
       "itemName": "OnePlus Ace",
@@ -11402,7 +12314,9 @@
       "charger": "150W",
       "body": "186g, 8.2mm thickness",
       "price": 189,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_ace"
     },
     {
       "itemName": "OnePlus 10 Pro",
@@ -11428,7 +12342,9 @@
       "charger": "80W50W",
       "body": "201g, 8.6mm thickness",
       "price": 955,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_10_pro"
     },
     {
       "itemName": "OnePlus Nord CE 2 5G",
@@ -11454,7 +12370,9 @@
       "charger": "65W",
       "body": "173g, 7.8mm thickness",
       "price": 933,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_nord_ce_2_5g"
     },
     {
       "itemName": "OnePlus 9RT 5G",
@@ -11480,7 +12398,9 @@
       "charger": "65W",
       "body": "198.5g, 8.3mm thickness",
       "price": 1971,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_9rt_5g"
     },
     {
       "itemName": "OnePlus Nord 2 5G",
@@ -11506,7 +12426,9 @@
       "charger": "65W",
       "body": "189g, 8.3mm thickness",
       "price": 1114,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_nord_2_5g"
     },
     {
       "itemName": "OnePlus Nord N200 5G",
@@ -11530,7 +12452,9 @@
       "charger": "18W",
       "body": "189g, 8.3mm thickness",
       "price": 249,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_nord_n200_5g"
     },
     {
       "itemName": "OnePlus Nord CE 5G",
@@ -11556,7 +12480,9 @@
       "charger": "30W",
       "body": "170g, 7.9mm thickness",
       "price": 1908,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_nord_ce_5g"
     },
     {
       "itemName": "OnePlus 9 Pro",
@@ -11582,7 +12508,9 @@
       "charger": "65W50W",
       "body": "197g, 8.7mm thickness",
       "price": 621,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_9_pro"
     },
     {
       "itemName": "OnePlus 9",
@@ -11608,7 +12536,9 @@
       "charger": "65W15W",
       "body": "192g (EU/NA)183g (IN/CN), 8.1mm thickness",
       "price": 1966,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_9"
     },
     {
       "itemName": "OnePlus 9R",
@@ -11632,7 +12562,9 @@
       "charger": "65W",
       "body": "189g, 8.4mm thickness",
       "price": 1906,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_9r"
     },
     {
       "itemName": "OnePlus Watch",
@@ -11658,7 +12590,9 @@
       "charger": "",
       "body": "45g, 10.9mm thickness",
       "type": "watch",
-      "price": 202
+      "price": 202,
+      "brandName": "oneplus",
+      "slug": "oneplus_watch"
     },
     {
       "itemName": "OnePlus Nord N10 5G",
@@ -11684,7 +12618,9 @@
       "charger": "30W",
       "body": "190g, 9mm thickness",
       "price": 1920,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_nord_n10_5g"
     },
     {
       "itemName": "OnePlus Nord N100",
@@ -11707,7 +12643,9 @@
       "charger": "18W",
       "body": "188g, 8.5mm thickness",
       "price": 325,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_nord_n100"
     },
     {
       "itemName": "OnePlus 8T",
@@ -11733,7 +12671,9 @@
       "charger": "65W",
       "body": "188g, 8.4mm thickness",
       "price": 762,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_8t"
     },
     {
       "itemName": "OnePlus 8T+ 5G",
@@ -11758,7 +12698,9 @@
       "charger": "65W",
       "body": "8.4mm thickness",
       "price": 447,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_8t+_5g"
     },
     {
       "itemName": "OnePlus Nord",
@@ -11784,7 +12726,9 @@
       "charger": "30W",
       "body": "184g, 8.2mm thickness",
       "price": 343,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_nord"
     },
     {
       "itemName": "OnePlus 8 Pro",
@@ -11810,7 +12754,9 @@
       "charger": "30W30W",
       "body": "199g, 8.5mm thickness",
       "price": 194,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_8_pro"
     },
     {
       "itemName": "OnePlus 8",
@@ -11836,7 +12782,9 @@
       "charger": "30W",
       "body": "180g, 8mm thickness",
       "price": 1253,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_8"
     },
     {
       "itemName": "OnePlus 8 5G UW (Verizon)",
@@ -11859,7 +12807,9 @@
       "charger": "30W",
       "body": "180g, 8mm thickness",
       "price": 516,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_8_5g_uw_(verizon)"
     },
     {
       "itemName": "OnePlus 8 5G (T-Mobile)",
@@ -11883,7 +12833,9 @@
       "charger": "30W",
       "body": "180g, 8mm thickness",
       "price": 1095,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "oneplus",
+      "slug": "oneplus_8_5g_(t-mobile)"
     },
     {
       "itemName": "vivo Y18",
@@ -11907,7 +12859,9 @@
       "charger": "15W",
       "body": "185g, 8.4mm thickness",
       "price": 1883,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_y18"
     },
     {
       "itemName": "vivo Y18e",
@@ -11931,7 +12885,9 @@
       "charger": "15W",
       "body": "185g, 8.4mm thickness",
       "price": 1842,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_y18e"
     },
     {
       "itemName": "vivo Y100 4G",
@@ -11955,7 +12911,9 @@
       "charger": "80W",
       "body": "186g or 196g, 7.8mm thickness",
       "price": 1336,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_y100_4g"
     },
     {
       "itemName": "vivo V30e",
@@ -11979,7 +12937,9 @@
       "charger": "44W",
       "body": "179g or 188g, 7.7mm thickness",
       "price": 1868,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_v30e"
     },
     {
       "itemName": "vivo Y38",
@@ -12003,7 +12963,9 @@
       "charger": "44W",
       "body": "199g, 8mm thickness",
       "price": 1037,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_y38"
     },
     {
       "itemName": "vivo V30 SE",
@@ -12028,7 +12990,9 @@
       "charger": "44W",
       "body": "185.5g or 191g, 7.8mm thickness",
       "price": 1960,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_v30_se"
     },
     {
       "itemName": "vivo iQOO Z9 Turbo",
@@ -12052,7 +13016,9 @@
       "charger": "80W",
       "body": "194.9g, 8mm thickness",
       "price": 1236,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_iqoo_z9_turbo"
     },
     {
       "itemName": "vivo iQOO Z9x",
@@ -12076,7 +13042,9 @@
       "charger": "44W",
       "body": "199g, 8mm thickness",
       "price": 1011,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_iqoo_z9x"
     },
     {
       "itemName": "vivo iQOO Z9 (China)",
@@ -12100,7 +13068,9 @@
       "charger": "80W",
       "body": "194.6g, 8mm thickness",
       "price": 1028,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_iqoo_z9_(china)"
     },
     {
       "itemName": "vivo iQOO Watch",
@@ -12125,7 +13095,9 @@
       "charger": "",
       "body": "36g, 11.3mm thickness",
       "type": "watch",
-      "price": 438
+      "price": 438,
+      "brandName": "vivo",
+      "slug": "vivo_iqoo_watch"
     },
     {
       "itemName": "vivo Y200i",
@@ -12149,7 +13121,9 @@
       "charger": "44W",
       "body": "199g, 8mm thickness",
       "price": 133,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_y200i"
     },
     {
       "itemName": "vivo T3x",
@@ -12174,7 +13148,9 @@
       "charger": "44W",
       "body": "199g, 8mm thickness",
       "price": 1606,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_t3x"
     },
     {
       "itemName": "vivo V30 Lite 4G",
@@ -12199,7 +13175,9 @@
       "charger": "80W",
       "body": "186g or 188g, 7.8mm thickness",
       "price": 1125,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_v30_lite_4g"
     },
     {
       "itemName": "vivo V30 Lite (ME)",
@@ -12224,7 +13202,9 @@
       "charger": "80W",
       "body": "185.5g or 191g, 7.8mm thickness",
       "price": 436,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_v30_lite_(me)"
     },
     {
       "itemName": "vivo V40 SE",
@@ -12249,7 +13229,9 @@
       "charger": "44W",
       "body": "185.5g or 191g, 7.8mm thickness",
       "price": 361,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_v40_se"
     },
     {
       "itemName": "vivo X Fold3 Pro",
@@ -12275,7 +13257,9 @@
       "charger": "100W50W",
       "body": "236g, 5.2mm thickness",
       "price": 1994,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_x_fold3_pro"
     },
     {
       "itemName": "vivo X Fold3",
@@ -12301,7 +13285,9 @@
       "charger": "80W",
       "body": "219g, 4.7mm thickness",
       "price": 772,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_x_fold3"
     },
     {
       "itemName": "vivo Pad3 Pro",
@@ -12325,7 +13311,9 @@
       "charger": "66W",
       "body": "679g, 6.6mm thickness",
       "price": 1877,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_pad3_pro"
     },
     {
       "itemName": "vivo T3",
@@ -12349,7 +13337,9 @@
       "charger": "44W",
       "body": "185.5g or 188g, 7.8mm thickness",
       "price": 461,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_t3"
     },
     {
       "itemName": "vivo Y03",
@@ -12370,7 +13360,9 @@
       "charger": "15W",
       "body": "185g, 8.4mm thickness",
       "price": 966,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_y03"
     },
     {
       "itemName": "vivo iQOO Z9",
@@ -12394,7 +13386,9 @@
       "charger": "44W",
       "body": "188g, 7.8mm thickness",
       "price": 1317,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_iqoo_z9"
     },
     {
       "itemName": "vivo V30 Pro",
@@ -12420,7 +13414,9 @@
       "charger": "80W",
       "body": "188g, 7.5mm thickness",
       "price": 1288,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_v30_pro"
     },
     {
       "itemName": "vivo Y100t",
@@ -12444,7 +13440,9 @@
       "charger": "120W",
       "body": "200g, 8.8mm thickness",
       "price": 135,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_y100t"
     },
     {
       "itemName": "vivo iQOO Neo9 Pro",
@@ -12468,7 +13466,9 @@
       "charger": "120W",
       "body": "190g or 196g, 8mm thickness",
       "price": 1874,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_iqoo_neo9_pro"
     },
     {
       "itemName": "vivo Y200e",
@@ -12492,7 +13492,9 @@
       "charger": "44W",
       "body": "185.5g or 191g, 7.8mm thickness",
       "price": 1471,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_y200e"
     },
     {
       "itemName": "vivo V30",
@@ -12518,7 +13520,9 @@
       "charger": "80W",
       "body": "186g, 7.5mm thickness",
       "price": 1377,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_v30"
     },
     {
       "itemName": "vivo Y100 (IDN)",
@@ -12542,7 +13546,9 @@
       "charger": "80W",
       "body": "185.5g or 191g, 7.8mm thickness",
       "price": 625,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_y100_(idn)"
     },
     {
       "itemName": "vivo Y28",
@@ -12566,7 +13572,9 @@
       "charger": "15W",
       "body": "186g, 8.1mm thickness",
       "price": 366,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_y28"
     },
     {
       "itemName": "vivo G2",
@@ -12590,7 +13598,9 @@
       "charger": "15W",
       "body": "186g, 8.1mm thickness",
       "price": 1294,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_g2"
     },
     {
       "itemName": "vivo V30 Lite",
@@ -12614,7 +13624,9 @@
       "charger": "44W",
       "body": "190g, 7.7mm thickness",
       "price": 957,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_v30_lite"
     },
     {
       "itemName": "vivo iQOO Neo9 Pro (China)",
@@ -12639,7 +13651,9 @@
       "charger": "120W",
       "body": "190g or 196g, 8mm thickness",
       "price": 1478,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_iqoo_neo9_pro_(china)"
     },
     {
       "itemName": "vivo iQOO Neo9",
@@ -12664,7 +13678,9 @@
       "charger": "120W",
       "body": "190g or 196g, 8mm thickness",
       "price": 1455,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_iqoo_neo9"
     },
     {
       "itemName": "vivo S18 Pro",
@@ -12689,7 +13705,9 @@
       "charger": "80W",
       "body": "188g, 7.5mm thickness",
       "price": 428,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_s18_pro"
     },
     {
       "itemName": "vivo S18",
@@ -12714,7 +13732,9 @@
       "charger": "80W",
       "body": "185.8g, 7.5mm thickness",
       "price": 1541,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_s18"
     },
     {
       "itemName": "vivo S18e",
@@ -12739,7 +13759,9 @@
       "charger": "80W",
       "body": "193g, 7.7mm thickness",
       "price": 738,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_s18e"
     },
     {
       "itemName": "vivo Y36i",
@@ -12763,7 +13785,9 @@
       "charger": "15W",
       "body": "186g, 8.1mm thickness",
       "price": 775,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_y36i"
     },
     {
       "itemName": "vivo Y100i",
@@ -12788,7 +13812,9 @@
       "charger": "44W",
       "body": "190g, 8mm thickness",
       "price": 1029,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_y100i"
     },
     {
       "itemName": "vivo X100 Pro",
@@ -12814,7 +13840,9 @@
       "charger": "100W50W",
       "body": "221g or 225g, 8.9mm thickness",
       "price": 1734,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_x100_pro"
     },
     {
       "itemName": "vivo X100",
@@ -12839,7 +13867,9 @@
       "charger": "120W",
       "body": "202g or 206g, 8.5mm thickness",
       "price": 1730,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_x100"
     },
     {
       "itemName": "vivo Watch 3",
@@ -12865,7 +13895,9 @@
       "charger": "",
       "body": "36g, 13.8mm thickness",
       "type": "watch",
-      "price": 65
+      "price": 65,
+      "brandName": "vivo",
+      "slug": "vivo_watch_3"
     },
     {
       "itemName": "vivo iQOO 12 Pro",
@@ -12890,7 +13922,9 @@
       "charger": "120W50W",
       "body": "205g or 210g, 8.6mm thickness",
       "price": 1506,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_iqoo_12_pro"
     },
     {
       "itemName": "vivo iQOO 12",
@@ -12916,7 +13950,9 @@
       "charger": "120W",
       "body": "198.5g or 203.7g, 8.1mm thickness",
       "price": 1799,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_iqoo_12"
     },
     {
       "itemName": "vivo Y27s",
@@ -12941,7 +13977,9 @@
       "charger": "44W",
       "body": "192g, 8.2mm thickness",
       "price": 521,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_y27s"
     },
     {
       "itemName": "vivo Y100 (China)",
@@ -12965,7 +14003,9 @@
       "charger": "44W",
       "body": "172g or 183g, 7.6mm thickness",
       "price": 1333,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_y100_(china)"
     },
     {
       "itemName": "vivo T2",
@@ -12989,7 +14029,9 @@
       "charger": "66W",
       "body": "186g, 7.7mm thickness",
       "price": 1855,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_t2"
     },
     {
       "itemName": "vivo V29e",
@@ -13013,7 +14055,9 @@
       "charger": "44W",
       "body": "190g, 7.7mm thickness",
       "price": 1688,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_v29e"
     },
     {
       "itemName": "vivo Y200",
@@ -13037,7 +14081,9 @@
       "charger": "44W",
       "body": "190g, 7.7mm thickness",
       "price": 836,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_y200"
     },
     {
       "itemName": "vivo Y78t",
@@ -13062,7 +14108,9 @@
       "charger": "44W",
       "body": "199.6g, 9.1mm thickness",
       "price": 217,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_y78t"
     },
     {
       "itemName": "vivo V29 Pro",
@@ -13088,7 +14136,9 @@
       "charger": "80W",
       "body": "188g, 7.5mm thickness",
       "price": 1943,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_v29_pro"
     },
     {
       "itemName": "vivo iQOO Z8x",
@@ -13112,7 +14162,9 @@
       "charger": "44W",
       "body": "199.6g, 9.1mm thickness",
       "price": 746,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "vivo",
+      "slug": "vivo_iqoo_z8x"
     },
     {
       "itemName": "Asus Zenfone 11 Ultra",
@@ -13138,7 +14190,9 @@
       "charger": "65W15W",
       "body": "224g, 8.9mm thickness",
       "price": 1745,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_11_ultra"
     },
     {
       "itemName": "Asus ROG Phone 8 Pro",
@@ -13162,7 +14216,9 @@
       "charger": "65W15W",
       "body": "225g, 8.9mm thickness",
       "price": 509,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_rog_phone_8_pro"
     },
     {
       "itemName": "Asus ROG Phone 8",
@@ -13187,7 +14243,9 @@
       "charger": "65W15W",
       "body": "225g, 8.9mm thickness",
       "price": 1742,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_rog_phone_8"
     },
     {
       "itemName": "Asus Zenfone 10",
@@ -13213,7 +14271,9 @@
       "charger": "30W15W",
       "body": "172g, 9.4mm thickness",
       "price": 1183,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_10"
     },
     {
       "itemName": "Asus ROG Phone 7 Ultimate",
@@ -13239,7 +14299,9 @@
       "charger": "65W",
       "body": "239g, 10.3mm thickness",
       "price": 295,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_rog_phone_7_ultimate"
     },
     {
       "itemName": "Asus ROG Phone 7",
@@ -13265,7 +14327,9 @@
       "charger": "65W",
       "body": "239g, 10.3mm thickness",
       "price": 1085,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_rog_phone_7"
     },
     {
       "itemName": "Asus ROG Phone 6D Ultimate",
@@ -13291,7 +14355,9 @@
       "charger": "65W",
       "body": "247g, 10.4mm thickness",
       "price": 1363,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_rog_phone_6d_ultimate"
     },
     {
       "itemName": "Asus ROG Phone 6D",
@@ -13314,7 +14380,9 @@
       "charger": "65W",
       "body": "239g, 10.4mm thickness",
       "price": 1355,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_rog_phone_6d"
     },
     {
       "itemName": "Asus ROG Phone 6 Diablo Immortal Edition",
@@ -13338,7 +14406,9 @@
       "charger": "65W",
       "body": "239g, 10.4mm thickness",
       "price": 1961,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_rog_phone_6_diablo_immortal_edition"
     },
     {
       "itemName": "Asus ROG Phone 6 Batman Edition",
@@ -13361,7 +14431,9 @@
       "charger": "65W",
       "body": "239g, 10.4mm thickness",
       "price": 1771,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_rog_phone_6_batman_edition"
     },
     {
       "itemName": "Asus Zenfone 9",
@@ -13387,7 +14459,9 @@
       "charger": "30W",
       "body": "169g, 9.1mm thickness",
       "price": 1030,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_9"
     },
     {
       "itemName": "Asus ROG Phone 6 Pro",
@@ -13413,7 +14487,9 @@
       "charger": "65W",
       "body": "239g, 10.3mm thickness",
       "price": 230,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_rog_phone_6_pro"
     },
     {
       "itemName": "Asus ROG Phone 6",
@@ -13437,7 +14513,9 @@
       "charger": "65W",
       "body": "239g, 10.3mm thickness",
       "price": 1771,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_rog_phone_6"
     },
     {
       "itemName": "Asus ROG Phone 5s Pro",
@@ -13463,7 +14541,9 @@
       "charger": "65W",
       "body": "238g, 9.9mm thickness",
       "price": 991,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_rog_phone_5s_pro"
     },
     {
       "itemName": "Asus ROG Phone 5s",
@@ -13490,7 +14570,9 @@
       "charger": "65W",
       "body": "238g, 9.9mm thickness",
       "price": 1397,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_rog_phone_5s"
     },
     {
       "itemName": "Asus Smartphone for Snapdragon Insiders",
@@ -13513,7 +14595,9 @@
       "charger": "65W",
       "body": "210g, 9.6mm thickness",
       "price": 1043,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_smartphone_for_snapdragon_insiders"
     },
     {
       "itemName": "Asus Zenfone 8 Flip",
@@ -13539,7 +14623,9 @@
       "charger": "30W",
       "body": "230g, 9.6mm thickness",
       "price": 1380,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_8_flip"
     },
     {
       "itemName": "Asus Zenfone 8",
@@ -13565,7 +14651,9 @@
       "charger": "30W",
       "body": "169g, 8.9mm thickness",
       "price": 670,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_8"
     },
     {
       "itemName": "Asus ROG Phone 5 Ultimate",
@@ -13589,7 +14677,9 @@
       "charger": "65W",
       "body": "238g, 10.3mm thickness",
       "price": 313,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_rog_phone_5_ultimate"
     },
     {
       "itemName": "Asus ROG Phone 5 Pro",
@@ -13612,7 +14702,9 @@
       "charger": "65W",
       "body": "238g, 10.3mm thickness",
       "price": 368,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_rog_phone_5_pro"
     },
     {
       "itemName": "Asus ROG Phone 5",
@@ -13638,7 +14730,9 @@
       "charger": "65W",
       "body": "238g, 10.3mm thickness",
       "price": 719,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_rog_phone_5"
     },
     {
       "itemName": "Asus Zenfone 7 Pro",
@@ -13664,7 +14758,9 @@
       "charger": "30W",
       "body": "230g, 9.6mm thickness",
       "price": 1337,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_7_pro"
     },
     {
       "itemName": "Asus Zenfone 7",
@@ -13689,7 +14785,9 @@
       "charger": "30W",
       "body": "230g, 9.6mm thickness",
       "price": 1340,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_7"
     },
     {
       "itemName": "Asus ROG Phone 3",
@@ -13715,7 +14813,9 @@
       "charger": "30W",
       "body": "240g, 9.9mm thickness",
       "price": 991,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_rog_phone_3"
     },
     {
       "itemName": "Asus ROG Phone 3 Strix",
@@ -13739,7 +14839,9 @@
       "charger": "30W",
       "body": "240g, 9.9mm thickness",
       "price": 728,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_rog_phone_3_strix"
     },
     {
       "itemName": "Asus ROG Phone II ZS660KL",
@@ -13766,7 +14868,9 @@
       "charger": "30W",
       "body": "240g, 9.5mm thickness",
       "price": 170,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_rog_phone_ii_zs660kl"
     },
     {
       "itemName": "Asus Zenfone 6 ZS630KL",
@@ -13793,7 +14897,9 @@
       "charger": "18W",
       "body": "190g, 9.2mm thickness",
       "price": 841,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_6_zs630kl"
     },
     {
       "itemName": "Asus ZenFone Live (L2)",
@@ -13817,7 +14923,9 @@
       "charger": "",
       "body": "140g, 8.2mm thickness",
       "price": 1358,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_live_(l2)"
     },
     {
       "itemName": "Asus Zenfone Max Plus (M2) ZB634KL",
@@ -13842,7 +14950,9 @@
       "charger": "10W",
       "body": "165g, 8.4mm thickness",
       "price": 674,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_max_plus_(m2)_zb634kl"
     },
     {
       "itemName": "Asus Zenfone Max Shot ZB634KL",
@@ -13867,7 +14977,9 @@
       "charger": "10W",
       "body": "165g, 8.4mm thickness",
       "price": 960,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_max_shot_zb634kl"
     },
     {
       "itemName": "Asus Zenfone Max Pro (M2) ZB631KL",
@@ -13892,7 +15004,9 @@
       "charger": "10W",
       "body": "175g, 8.5mm thickness",
       "price": 699,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_max_pro_(m2)_zb631kl"
     },
     {
       "itemName": "Asus Zenfone Max (M2) ZB633KL",
@@ -13917,7 +15031,9 @@
       "charger": "",
       "body": "160g, 7.7mm thickness",
       "price": 1560,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_max_(m2)_zb633kl"
     },
     {
       "itemName": "Asus Zenfone Max (M1) ZB556KL",
@@ -13941,7 +15057,9 @@
       "charger": "10W",
       "body": "150g, 8.7mm thickness",
       "price": 270,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_max_(m1)_zb556kl"
     },
     {
       "itemName": "Asus ZenFone Lite (L1) ZA551KL",
@@ -13965,7 +15083,9 @@
       "charger": "",
       "body": "140g, 8.2mm thickness",
       "price": 366,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_lite_(l1)_za551kl"
     },
     {
       "itemName": "Asus ROG Phone ZS600KL",
@@ -13992,7 +15112,9 @@
       "charger": "30W",
       "body": "200g, 8.3mm thickness",
       "price": 1313,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_rog_phone_zs600kl"
     },
     {
       "itemName": "Asus ZenFone Live (L1) ZA550KL",
@@ -14016,7 +15138,9 @@
       "charger": "",
       "body": "140g, 8.2mm thickness",
       "price": 228,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_live_(l1)_za550kl"
     },
     {
       "itemName": "Asus Zenfone Max Pro (M1) ZB601KL/ZB602K",
@@ -14041,7 +15165,9 @@
       "charger": "10W",
       "body": "180g, 8.5mm thickness",
       "price": 1344,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_max_pro_(m1)_zb601kl/zb602k"
     },
     {
       "itemName": "Asus Zenfone 5z ZS620KL",
@@ -14066,7 +15192,9 @@
       "charger": "18W",
       "body": "165g, 7.9mm thickness",
       "price": 485,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_5z_zs620kl"
     },
     {
       "itemName": "Asus Zenfone 5 ZE620KL",
@@ -14091,7 +15219,9 @@
       "charger": "10W",
       "body": "165g, 7.7mm thickness",
       "price": 1556,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_5_ze620kl"
     },
     {
       "itemName": "Asus Zenfone 5 Lite ZC600KL",
@@ -14116,7 +15246,9 @@
       "charger": "",
       "body": "168g, 7.8mm thickness",
       "price": 1629,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_5_lite_zc600kl"
     },
     {
       "itemName": "Asus Zenfone Max (M1) ZB555KL",
@@ -14140,7 +15272,9 @@
       "charger": "10W",
       "body": "150g, 8.7mm thickness",
       "price": 1998,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_max_(m1)_zb555kl"
     },
     {
       "itemName": "Asus Zenfone Max Plus (M1) ZB570TL",
@@ -14163,7 +15297,9 @@
       "charger": "10W",
       "body": "160g, 8.8mm thickness",
       "price": 300,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_max_plus_(m1)_zb570tl"
     },
     {
       "itemName": "Asus Zenfone V V520KL",
@@ -14187,7 +15323,9 @@
       "charger": "18W",
       "body": "147.1g, 7.6mm thickness",
       "price": 1106,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_v_v520kl"
     },
     {
       "itemName": "Asus Zenfone 4 Pro ZS551KL",
@@ -14212,7 +15350,9 @@
       "charger": "18W",
       "body": "175g, 7.6mm thickness",
       "price": 1758,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_4_pro_zs551kl"
     },
     {
       "itemName": "Asus Zenfone 4 ZE554KL",
@@ -14238,7 +15378,9 @@
       "charger": "18W",
       "body": "165g, 7.7mm thickness",
       "price": 247,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_4_ze554kl"
     },
     {
       "itemName": "Asus Zenfone 4 Selfie Lite ZB553KL",
@@ -14262,7 +15404,9 @@
       "charger": "",
       "body": "144g, 7.9mm thickness",
       "price": 1177,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_4_selfie_lite_zb553kl"
     },
     {
       "itemName": "Asus Zenfone 4 Selfie ZB553KL",
@@ -14287,7 +15431,9 @@
       "charger": "",
       "body": "144g, 7.9mm thickness",
       "price": 323,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_4_selfie_zb553kl"
     },
     {
       "itemName": "Asus Zenfone 4 Selfie Pro ZD552KL",
@@ -14311,7 +15457,9 @@
       "charger": "18W",
       "body": "147g, 6.9mm thickness",
       "price": 1921,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_4_selfie_pro_zd552kl"
     },
     {
       "itemName": "Asus Zenfone 4 Selfie ZD553KL",
@@ -14335,7 +15483,9 @@
       "charger": "",
       "body": "144g, 7.9mm thickness",
       "price": 366,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_4_selfie_zd553kl"
     },
     {
       "itemName": "Asus Zenfone 4 Max ZC520KL",
@@ -14356,7 +15506,9 @@
       "charger": "",
       "body": "156g, 8.8mm thickness",
       "price": 685,
-      "type": "phone"
+      "type": "phone",
+      "brandName": "asus",
+      "slug": "asus_zenfone_4_max_zc520kl"
     }
   ]
 }
